@@ -1,0 +1,100 @@
+============================================================
+TARGETED REFINEMENT RESULT
+============================================================
+
+Fixed Stage-1 orbit:
+0006
+
+Stage-1:
+M3 = 80584 / 91770
+U3 = 11186
+
+Starting Stage-2 residual:
+5
+
+Best Stage-2 residual:
+5
+
+Improvement:
+0
+
+M8:
+11181 / 11186
+
+M_final:
+91765 / 91770
+
+Residual weight distribution:
+w1 = 0
+w2 = 0
+w3 = 2
+w4 = 3
+
+All weight-4 errors detected:
+NO   (81078 / 81081)
+
+Remaining undetected errors: 5
+
+Weight 1:
+  (none)
+
+Weight 2:
+  (none)
+
+Weight 3:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+
+Weight 4:
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+
+Residual weight distribution: 0 / 0 / 2 / 3  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): NO
+Residual span dimension: 5
+Generators:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIYXXIIXII = X_1 Y_6 X_7 X_8 X_11
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+All residual errors are X-only: NO
+Physical qubits involved: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+Stage-1 generators:
+g1 = IIIIXXXXIIZZXX
+g2 = IIIIXXIIXXXXZZ
+g3 = IIIIIIZZZZZZZZ
+
+Stage-2 generators:
+h1 = IXIXXXIZYZIXXX
+h2 = IZXIXXYIXYIYXX
+h3 = IIIZYXZXYXZIZY
+h4 = IIIYXZYIYZZYZX
+h5 = IIZIXZXYZXZYIZ
+h6 = XIIIXYXZXYIXYX
+h7 = IIYIZXZXYXXIYX
+h8 = ZIIIZXIZZYZXYX
+
+Search time:
+600.13 s
+
+Seeds:
+1
+
+Neighbourhoods searched EXHAUSTIVELY (over all 2037794 weight-10 classes):
+  1-opt : every replacement of one of the eight generators
+  2-opt : every simultaneous replacement of two of them
+  3-opt : all 56 drop-triples, first replacement over the top-8 classes by coset
+          gain, the remaining two exhaustive
+
+Status:
+BEST KNOWN
+
+No improvement over the incumbent was found.
+The 5-residual solution remains BEST KNOWN.
+No impossibility claim is made.
+What IS established: the incumbent is optimal against every 1-generator and every
+2-generator replacement, exhaustively over all 2037794 weight-10 classes.
+============================================================

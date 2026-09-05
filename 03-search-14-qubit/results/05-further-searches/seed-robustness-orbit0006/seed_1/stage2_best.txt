@@ -1,0 +1,103 @@
+============================================================
+STAGE 2 - EIGHT ADDITIONAL WEIGHT-10 GENERATORS
+============================================================
+
+Status: BEST KNOWN - OPTIMUM NOT PROVEN
+
+Stage-1 target errors: 11186
+
+Detected by Stage 2:   11179
+Still undetected:      7
+
+Coverage percentage:   99.93742178 %
+
+Weight 1:
+Detected / Stage-1 target : 13 / 14
+Remaining                 : 1
+
+Weight 2:
+Detected / Stage-1 target : 118 / 119
+Remaining                 : 1
+
+Weight 3:
+Detected / Stage-1 target : 1146 / 1148
+Remaining                 : 2
+
+Weight 4:
+Detected / Stage-1 target : 9902 / 9905
+Remaining                 : 3
+
+Stage-1 generators (frozen):
+g1 = IIIIXXXXIIZZXX   (weight 8)
+g2 = IIIIXXIIXXXXZZ   (weight 8)
+g3 = IIIIIIZZZZZZZZ   (weight 8)
+
+Additional generators:
+h1 = XIIIXYYXZIYYZZ   (weight 10)
+h2 = IXXIZZXIXIXXXX   (weight 10)
+h3 = IIIXXZXYXZYXXI   (weight 10)
+h4 = IZIIIXXZZYZXZY   (weight 10)
+h5 = ZIIIXZZYIXYZYZ   (weight 10)
+h6 = ZIIZXXXXYXIXYI   (weight 10)
+h7 = IZIIXYXZXYIXYX   (weight 10)
+h8 = IIXIXYZIYZXZYX   (weight 10)
+
+Weights:
+h1: 10
+h2: 10
+h3: 10
+h4: 10
+h5: 10
+h6: 10
+h7: 10
+h8: 10
+
+Rank of complete 11-generator stabilizer:
+11  (target 11)
+Qubits whose 11-generator column spans < 2 dimensions: 1  (equals the number of undetected weight-1 targets)
+
+Commutation (rows/cols g1..g3,h1..h8; 0 = commute):
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+
+Target-error detection by each new generator:
+h1: 5694   (algebraic cov1 = 5694 OK)
+h2: 5664   (algebraic cov1 = 5664 OK)
+h3: 5694   (algebraic cov1 = 5694 OK)
+h4: 5680   (algebraic cov1 = 5680 OK)
+h5: 5694   (algebraic cov1 = 5694 OK)
+h6: 5684   (algebraic cov1 = 5684 OK)
+h7: 5694   (algebraic cov1 = 5694 OK)
+h8: 5694   (algebraic cov1 = 5694 OK)
+
+Union coverage:
+  |U_3|-bit bitset popcount     : 11179
+  brute-force recount           : 11179
+  algebraic (1/128)*sum cov1    : 11179
+  all three agree
+
+INDEPENDENT VERIFICATION
+  U_3 rebuilt from scratch      : 11186 errors OK
+  all weights == 10              : OK
+  [h_a , g_i] = 0               : OK
+  [h_a , h_b] = 0               : OK
+  rank = 11                     : OK
+
+Provable upper bound on M_8 (any 8 commuting independent generators):
+  coverage = (1/128) * sum of cov1 over the 255 non-zero elements of the span
+  <= min( |U_3| , 255*max_v cov1(v)/128 ) = 11186
+
+Candidate classes: 2037794
+Search nodes: 0
+Pruned:       0
+Elapsed:      1801.801 s
+============================================================

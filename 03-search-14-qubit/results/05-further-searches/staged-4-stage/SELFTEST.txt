@@ -1,0 +1,14 @@
+=========================================================================
+staged_search  started 2026-09-02 08:44:22
+weight pattern 8,8,8,10,10,10,10,10,10,10,10   objective |U_<=4|
+=========================================================================
+=============================== SELF TEST ===============================
+  weight-<=4 errors: enumerated 91770, formula 91770, P[0] 91770  OK
+  P[m], m=0..14 : 91770 57914 34154 18314 8474 2970 394 -406 -326 -6 170 74 -166 -166 714
+  closed form vs brute force : 400 random isotropic prefixes, 0 mismatches  OK
+  weight counting agrees      : 0 discrepancies  OK
+  U never grows when a generator is added : 0 violations in 100 chains  OK
+  canonical form is GL(3,2)-invariant : 0/168 disagree  OK
+  a deliberately different multiset stays distinct : OK
+========================= SELF TEST PASSED =========================
+

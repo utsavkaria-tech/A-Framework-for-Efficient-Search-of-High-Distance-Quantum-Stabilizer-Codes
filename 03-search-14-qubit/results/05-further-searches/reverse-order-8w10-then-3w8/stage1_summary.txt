@@ -1,0 +1,65 @@
+============================================================
+STAGE 1 -- EIGHT WEIGHT-10 GENERATORS
+============================================================
+
+Total errors: 91770
+
+STATUS: BEST KNOWN  (an exhaustive Stage-1 search is not computationally possible;
+        see the search-space accounting below and README_MATH_REVERSE.txt)
+
+Best known:
+M8 = 91552 / 91770
+Residual = 218
+
+Residual distribution:
+weight 1: 4
+weight 2: 9
+weight 3: 16
+weight 4: 189
+
+Best-known Stage-1 generators:
+g1 = ZXIYXXZYYIZIIX   (weight 10)
+g2 = IXXYIIZZYIZXXY   (weight 10)
+g3 = ZIZXXYXYZIIIXX   (weight 10)
+g4 = XYYXXZYIZIZIIX   (weight 10)
+g5 = XZIYIZXYZIZIXY   (weight 10)
+g6 = YZXIZZIIXIZXXY   (weight 10)
+g7 = IYYIYZYZIIZXXZ   (weight 10)
+g8 = ZXXIYIZYIXZXIZ   (weight 10)
+
+Weight enumerator of the 256-element group:
+  A[ 0] = 1
+  A[ 6] = 4
+  A[ 8] = 117
+  A[10] = 68
+  A[12] = 66
+
+Number of distinct optimal Stage-1 subspaces found:
+4
+
+Number of inequivalent optimal Stage-1 classes (fingerprint classes):
+1
+
+CERTIFIED LOWER BOUND on |U_8| over ALL 8-generator weight-10 stabilizer codes:
+  |U_8| >= 36   (linear-programming/weak-duality certificate, value 35.9576)
+  gap to best known: 182
+
+Symmetry reduction:
+  qubit permutations S_14           : columns treated as a multiset (B&B) and
+                                      quotiented in the fingerprint (local search)
+  local Cliffords (S_3)^14          : a column is reduced to the subspace
+                                      W_j = span{x_j,z_j} <= F_2^8
+  generator relabelling S_8         : the objective depends only on the SUBSPACE L,
+                                      so the k-opt search never enumerates bases
+  raw column types                  : 65536
+  reduced column types              : 11051
+  multisets of 14 reduced types     : 4.686e+45
+  8-dim isotropic subspaces of F_2^28: 1.878e+40
+  ... modulo 14! * 6^14             : 2.749e+18
+
+Search effort:
+  restarts                          : 2000
+  1-opt classes swept               : 326597476352
+  2-opt pairs scored                : 28713
+  elapsed                           : 0h 00m 44s
+  stopped because                   : restart budget exhausted

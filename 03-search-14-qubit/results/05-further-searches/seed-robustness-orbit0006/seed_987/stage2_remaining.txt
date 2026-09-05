@@ -1,0 +1,27 @@
+Remaining undetected errors: 7
+
+Weight 1:
+  IIXIIIIIIIIIII = X_2
+  IIIXIIIIIIIIII = X_3
+  IIIIXIIIIIIIII = X_4
+
+Weight 2:
+  IIXXIIIIIIIIII = X_2 X_3
+  IIXIXIIIIIIIII = X_2 X_4
+  IIIXXIIIIIIIII = X_3 X_4
+
+Weight 3:
+  IIXXXIIIIIIIII = X_2 X_3 X_4
+
+Weight 4:
+  (none)
+
+Residual weight distribution: 3 / 3 / 1 / 0  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): YES
+Residual subgroup dimension: 3
+Generators:
+  IIXIIIIIIIIIII = X_2
+  IIIXIIIIIIIIII = X_3
+  IIIIXIIIIIIIII = X_4
+All residual errors are X-only: YES
+Physical qubits involved: 2 3 4

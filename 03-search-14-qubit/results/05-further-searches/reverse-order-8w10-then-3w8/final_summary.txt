@@ -1,0 +1,29 @@
+============================================================
+REVERSE EXPERIMENT  8 x weight-10  ->  3 x weight-8   FINAL SUMMARY
+============================================================
+
+timestamp: 2026-08-31 15:16:02
+elapsed:   0h 00m 44s
+
+STATUS LABELS
+  Stage 1                : BEST KNOWN     (exhaustive search provably out of reach)
+  Stage 1 lower bound    : PROVEN         (|U_8| >= 36, weak-duality certificate)
+  Stage 2, each class    : PROVEN OPTIMUM conditional on that frozen Stage-1 code
+  B&B engine             : validated against the r=3 and r=4 optima proven earlier
+  Overall best code      : BEST KNOWN
+
+RESULT LADDER
+  M_8      = 91552 / 91770   (|U_8| = 218)
+  M_3(2)   = 207  (best Stage-2 coverage of U_8)
+  M_final  = 91759 / 91770  (99.98801351 %)
+  residual = 11
+
+CONDITION A (some class admits |U_final| = 0)      : NO
+CONDITION B (all 81081 weight-4 errors detected)  : NO
+
+WHAT MAY NOT BE CLAIMED
+  A negative Condition A here is NOT an impossibility proof.  Stage 2 is exhaustive,
+  but only for the Stage-1 codes that were actually found, and the Stage-1 search is
+  a heuristic over a space of about 2.749e+18 inequivalent 8-dimensional
+  isotropic subspaces.  Nothing here rules out a [[14,3,5]] code built the other way
+  round, or one sitting on a Stage-1 code that was never visited.

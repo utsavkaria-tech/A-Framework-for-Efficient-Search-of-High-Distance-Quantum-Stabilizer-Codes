@@ -1,0 +1,47 @@
+ALL INEQUIVALENT BEST-KNOWN STAGE-1 CLASSES
+(fingerprint = weight enumerator + sorted per-qubit and per-pair weight profiles;
+ different fingerprints PROVE inequivalence, equal fingerprints only suggest
+ equivalence, which is why several members per class are carried through Stage 2)
+
+---- class 0001 : 4 distinct spans found, 4 members retained ----
+  member 1  [2-opt certified]
+    g1 = ZXIYXXZYYIZIIX
+    g2 = IXXYIIZZYIZXXY
+    g3 = ZIZXXYXYZIIIXX
+    g4 = XYYXXZYIZIZIIX
+    g5 = XZIYIZXYZIZIXY
+    g6 = YZXIZZIIXIZXXY
+    g7 = IYYIYZYZIIZXXZ
+    g8 = ZXXIYIZYIXZXIZ
+    |U_8| = 218
+  member 2  [2-opt certified]
+    g1 = YIIXYYYIZZZXIX
+    g2 = YXXXIIXZZZXIIX
+    g3 = IIIXXZYIXZYYYZ
+    g4 = YIIYZYXXYYXIIX
+    g5 = YXXZZYYIIIXZIX
+    g6 = IIXYZZIYYZIYYY
+    g7 = IXXXYIIIYZYXYX
+    g8 = IXIXXZXZYZZXII
+    |U_8| = 218
+  member 3  [2-opt certified]
+    g1 = ZXZIIXXYIZIYYY
+    g2 = ZXYIZIIZIZYXYX
+    g3 = XIIYXYIIZZYXYX
+    g4 = YIIZYYZYIIYZZZ
+    g5 = YIZZXYIYZIIYYY
+    g6 = XIZYXZYZZIIXXI
+    g7 = XIYXYZIYIZIYYX
+    g8 = IXIZXZIYIZYZYY
+    |U_8| = 218
+  member 4  [2-opt certified]
+    g1 = IXIYXXZYXYIZYI
+    g2 = YYIZXXIYXXIIZZ
+    g3 = ZIYYIYYZZYXIIZ
+    g4 = YXIYZYZIZYIIZZ
+    g5 = ZIYYIZYYYZIZYI
+    g6 = YYIXYZYXIYIZYI
+    g7 = XZIZYYIIXXIZZZ
+    g8 = IYYZIIZXYYXZYI
+    |U_8| = 218
+

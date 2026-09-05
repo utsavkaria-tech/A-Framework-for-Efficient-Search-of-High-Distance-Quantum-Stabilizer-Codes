@@ -1,0 +1,30 @@
+=========================================================================
+hitset14 -- residual-targeted column replacement, [[14,3,5]] search
+started 2026-09-01 13:02:50   threads 12
+=========================================================================
+---- STARTING 11-GENERATOR CODE ----
+  generator weights            : 8 8 8 10 10 10 10 10 10 10 10
+  all 55 generator pairs commute: OK
+  rank of the check matrix     : 11 OK
+  every column spans a 2-dim W : OK
+  Pluecker sum over columns = 0: OK
+  weight-<=4 errors enumerated : 91770
+  undetected (zero syndrome)   : 5   [w1=0 w2=0 w3=2 w4=3]
+  of those outside stabilizer  : 5  (these are the real distance failures)
+  min non-zero stabilizer weight: 6
+      IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+      IIIIIIXZIIIXII = X_6 Z_7 X_11
+      YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+      IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+      IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+  independent column-only distance routine: 5 violating tuples (must equal 5) OK
+---- calibration, r = 6 : 1644 feasible subsets ----
+   subset    0 { 0 1 2 3 4 6 }  |C3| = 1383  free pts =  665  |A| =  19307  rank(T) = 10  nodes 3836803       131.526 s
+   subset  328 { 0 2 6 7 9 12 }  |C3| = 1365  free pts =  683  |A| =  21482  rank(T) = 10  nodes 4583785       163.774 s
+   subset  657 { 1 2 3 5 6 12 }  |C3| = 1365  free pts =  683  |A| =  20658  rank(T) = 10  nodes 4338691       140.966 s
+   subset  986 { 1 5 7 8 10 13 }  |C3| = 1386  free pts =  662  |A| =  19124  rank(T) = 10  nodes 4066852       129.113 s
+   subset 1315 { 3 4 5 6 7 11 }  |C3| = 1358  free pts =  690  |A| =  21619  rank(T) = 10  nodes 4854064       168.552 s
+   sampled 5 of 1644 subsets in 733.94 s  (146.7887 s each)
+   nodes 21680195, rank-pruned 1334937240, cross-pruned 20588931092, candidates 0, solutions 0
+   PROJECTED FULL r=6 RUN : 67h 02m 00s on 1 thread, 5h 35m 10s on 12 threads
+

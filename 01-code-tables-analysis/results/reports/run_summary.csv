@@ -1,0 +1,7 @@
+q,n_range,parameter_sets_examined,codes_processed,codes_skipped,semi_perfect,normal,skip_no_matrix,skip_no_rows,skip_malformed,skip_wrong_code,skip_unparseable,skip_page_unavailable,pages_with_multiple_constructions,excel
+2,1..256,33152,17882,15270,384,17498,0,0,0,0,0,0,0,QECC_codes_q2.xlsx
+3,1..100,5150,4511,639,249,4262,0,0,0,0,0,0,0,QECC_codes_q3.xlsx
+4,1..100,5150,3707,1443,236,3471,0,0,0,0,0,0,0,QECC_codes_q4.xlsx
+5,1..100,5150,2891,2259,245,2646,0,0,0,0,0,0,0,QECC_codes_q5.xlsx
+7,1..100,5150,2971,2179,353,2618,0,0,0,0,0,0,0,QECC_codes_q7.xlsx
+8,1..100,5150,2813,2337,442,2371,0,0,0,0,0,0,0,QECC_codes_q8.xlsx

@@ -1,0 +1,201 @@
+=== targeted 3-opt / 4-opt around the best-known 3+8 solutions ===
+threads 12,  output root exhaustive_4opt
+
+--- orbit 0006 : exhaustive 3-opt (complete sweep of all 56 drop-triples) ---
+orbit 0006: M_8 = 11181 / 11186, residual 5 (w 0/0/2/3), M_final = 91765 / 91770
+         verification: weights OK, [h,g] OK, [h,h] OK, rank 11, brute-force 11181 OK;  weight-4 undetected 3 / 81081
+    drop(0,1,2): |Q|=4096, sK=174368, phimax=179872, 0 hits, 0.0 s
+    drop(0,1,3): |Q|=4096, sK=174368, phimax=179872, 0 hits, 0.0 s
+    drop(0,1,4): |Q|=4096, sK=174240, phimax=180000, 0 hits, 0.0 s
+    drop(0,1,5): |Q|=4096, sK=174496, phimax=179872, 0 hits, 0.0 s
+    drop(0,1,6): |Q|=4096, sK=174368, phimax=179872, 0 hits, 0.0 s
+    drop(0,1,7): |Q|=4096, sK=174368, phimax=180000, 0 hits, 0.0 s
+    drop(0,2,3): |Q|=4096, sK=174448, phimax=179952, 0 hits, 0.0 s
+    drop(0,2,4): |Q|=4096, sK=173824, phimax=180032, 0 hits, 0.0 s
+    drop(0,2,5): |Q|=4096, sK=174368, phimax=179872, 0 hits, 0.0 s
+    drop(0,2,6): |Q|=4096, sK=174160, phimax=179920, 0 hits, 0.0 s
+    drop(0,2,7): |Q|=4096, sK=174416, phimax=179792, 0 hits, 0.0 s
+    drop(0,3,4): |Q|=4096, sK=174288, phimax=180048, 0 hits, 0.0 s
+    drop(0,3,5): |Q|=4096, sK=174288, phimax=179696, 0 hits, 0.0 s
+    drop(0,3,6): |Q|=4096, sK=174288, phimax=179920, 0 hits, 0.0 s
+    drop(0,3,7): |Q|=4096, sK=174288, phimax=179824, 0 hits, 0.0 s
+    drop(0,4,5): |Q|=4096, sK=174160, phimax=179824, 0 hits, 0.0 s
+    drop(0,4,6): |Q|=4096, sK=173728, phimax=179872, 0 hits, 0.0 s
+    drop(0,4,7): |Q|=4096, sK=174288, phimax=179952, 0 hits, 0.0 s
+    drop(0,5,6): |Q|=4096, sK=174208, phimax=179904, 0 hits, 0.0 s
+    drop(0,5,7): |Q|=4096, sK=174368, phimax=179872, 0 hits, 0.0 s
+    drop(0,6,7): |Q|=4096, sK=174416, phimax=179792, 0 hits, 0.0 s
+    drop(1,2,3): |Q|=4096, sK=174704, phimax=180080, 0 hits, 0.0 s
+    drop(1,2,4): |Q|=4096, sK=174080, phimax=180032, 0 hits, 0.0 s
+    drop(1,2,5): |Q|=4096, sK=174800, phimax=180048, 0 hits, 0.0 s
+    drop(1,2,6): |Q|=4096, sK=174160, phimax=180080, 0 hits, 0.0 s
+    drop(1,2,7): |Q|=4096, sK=174240, phimax=179872, 0 hits, 0.0 s
+    drop(1,3,4): |Q|=4096, sK=174240, phimax=180000, 0 hits, 0.0 s
+    drop(1,3,5): |Q|=4096, sK=174288, phimax=180080, 0 hits, 0.0 s
+    drop(1,3,6): |Q|=4096, sK=174720, phimax=179968, 0 hits, 0.0 s
+    drop(1,3,7): |Q|=4096, sK=174080, phimax=180160, 0 hits, 0.0 s
+    drop(1,4,5): |Q|=4096, sK=174416, phimax=179952, 0 hits, 0.0 s
+    drop(1,4,6): |Q|=4096, sK=174368, phimax=180000, 0 hits, 0.0 s
+    drop(1,4,7): |Q|=4096, sK=174032, phimax=179952, 0 hits, 0.0 s
+    drop(1,5,6): |Q|=4096, sK=174672, phimax=179824, 0 hits, 0.0 s
+    drop(1,5,7): |Q|=4096, sK=174496, phimax=179872, 0 hits, 0.0 s
+    drop(1,6,7): |Q|=4096, sK=174416, phimax=179920, 0 hits, 0.0 s
+    drop(2,3,4): |Q|=4096, sK=174112, phimax=180032, 0 hits, 0.0 s
+    drop(2,3,5): |Q|=4096, sK=174496, phimax=179776, 0 hits, 0.0 s
+    drop(2,3,6): |Q|=4096, sK=174544, phimax=179952, 0 hits, 0.0 s
+    drop(2,3,7): |Q|=4096, sK=174288, phimax=179856, 0 hits, 0.0 s
+    drop(2,4,5): |Q|=4096, sK=174208, phimax=179904, 0 hits, 0.0 s
+    drop(2,4,6): |Q|=4096, sK=173952, phimax=180000, 0 hits, 0.0 s
+    drop(2,4,7): |Q|=4096, sK=174000, phimax=179952, 0 hits, 0.0 s
+    drop(2,5,6): |Q|=4096, sK=174288, phimax=179824, 0 hits, 0.0 s
+    drop(2,5,7): |Q|=4096, sK=174464, phimax=179840, 0 hits, 0.0 s
+    drop(2,6,7): |Q|=4096, sK=174464, phimax=179872, 0 hits, 0.0 s
+    drop(3,4,5): |Q|=4096, sK=174080, phimax=179936, 0 hits, 0.0 s
+    drop(3,4,6): |Q|=4096, sK=174336, phimax=180000, 0 hits, 0.0 s
+    drop(3,4,7): |Q|=4096, sK=173952, phimax=179904, 0 hits, 0.0 s
+    drop(3,5,6): |Q|=4096, sK=174512, phimax=179952, 0 hits, 0.0 s
+    drop(3,5,7): |Q|=4096, sK=174128, phimax=179984, 0 hits, 0.0 s
+    drop(3,6,7): |Q|=4096, sK=174512, phimax=179888, 0 hits, 0.0 s
+    drop(4,5,6): |Q|=4096, sK=174208, phimax=179968, 0 hits, 0.0 s
+    drop(4,5,7): |Q|=4096, sK=174128, phimax=179984, 0 hits, 0.0 s
+    drop(4,6,7): |Q|=4096, sK=174464, phimax=179904, 0 hits, 0.0 s
+    drop(5,6,7): |Q|=4096, sK=174592, phimax=179808, 0 hits, 0.0 s
+  orbit 0006: no improvement -- 3-opt neighbourhood EXHAUSTED   M_8 11181 -> 11181,  residual 5 (w4 3),  0.7 s
+Orbit    Starting M8    Best M8    Improvement    Residual    W4 residual
+---------------------------------------------------------------------------
+0006     11181          11181      0              5           3
+
+Global best after 3-opt: orbit 0006, M_8 = 11181 / 11186
+
+--- orbit 0006 : targeted 4-opt (M1 = 0, M2 = 0; last two replacements exhaustive) ---
+orbit 0006: M_8 = 11181 / 11186, residual 5 (w 0/0/2/3), M_final = 91765 / 91770
+         verification: weights OK, [h,g] OK, [h,h] OK, rank 11, brute-force 11181 OK;  weight-4 undetected 3 / 81081
+    drop(0,1,2,3): |Q|=16384, M1=8255, 0 hits, 87.1 s
+    drop(0,1,2,4): |Q|=16384, M1=8255, 0 hits, 88.3 s
+    drop(0,1,2,5): |Q|=16384, M1=8255, 0 hits, 89.5 s
+    drop(0,1,2,6): |Q|=16384, M1=8255, 0 hits, 87.6 s
+    drop(0,1,2,7): |Q|=16384, M1=8255, 0 hits, 88.3 s
+    drop(0,1,3,4): |Q|=16384, M1=8255, 0 hits, 90.3 s
+    drop(0,1,3,5): |Q|=16384, M1=8255, 0 hits, 92.3 s
+    drop(0,1,3,6): |Q|=16384, M1=8255, 0 hits, 89.9 s
+    drop(0,1,3,7): |Q|=16384, M1=8255, 0 hits, 88.7 s
+    drop(0,1,4,5): |Q|=16384, M1=8255, 0 hits, 88.1 s
+    drop(0,1,4,6): |Q|=16384, M1=8255, 0 hits, 88.4 s
+    drop(0,1,4,7): |Q|=16384, M1=8255, 0 hits, 87.5 s
+    drop(0,1,5,6): |Q|=16384, M1=8255, 0 hits, 88.2 s
+    drop(0,1,5,7): |Q|=16384, M1=8255, 0 hits, 87.5 s
+    drop(0,1,6,7): |Q|=16384, M1=8255, 0 hits, 87.4 s
+    drop(0,2,3,4): |Q|=16384, M1=8255, 0 hits, 88.1 s
+    drop(0,2,3,5): |Q|=16384, M1=8255, 0 hits, 87.5 s
+    drop(0,2,3,6): |Q|=16384, M1=8255, 0 hits, 87.6 s
+    drop(0,2,3,7): |Q|=16384, M1=8255, 0 hits, 87.8 s
+    drop(0,2,4,5): |Q|=16384, M1=8255, 0 hits, 88.0 s
+    drop(0,2,4,6): |Q|=16384, M1=8255, 0 hits, 87.5 s
+    drop(0,2,4,7): |Q|=16384, M1=8255, 0 hits, 87.3 s
+    drop(0,2,5,6): |Q|=16384, M1=8255, 0 hits, 88.2 s
+    drop(0,2,5,7): |Q|=16384, M1=8255, 0 hits, 114.7 s
+    drop(0,2,6,7): |Q|=16384, M1=8255, 0 hits, 391.8 s
+    drop(0,3,4,5): |Q|=16384, M1=8255, 0 hits, 392.0 s
+    drop(0,3,4,6): |Q|=16384, M1=8255, 0 hits, 353.7 s
+    drop(0,3,4,7): |Q|=16384, M1=8255, 0 hits, 350.2 s
+    drop(0,3,5,6): |Q|=16384, M1=8255, 0 hits, 402.3 s
+    drop(0,3,5,7): |Q|=16384, M1=8255, 0 hits, 345.6 s
+    drop(0,3,6,7): |Q|=16384, M1=8255, 0 hits, 345.0 s
+    drop(0,4,5,6): |Q|=16384, M1=8255, 0 hits, 346.7 s
+    drop(0,4,5,7): |Q|=16384, M1=8255, 0 hits, 346.8 s
+    drop(0,4,6,7): |Q|=16384, M1=8255, 0 hits, 375.5 s
+    drop(0,5,6,7): |Q|=16384, M1=8255, 0 hits, 333.1 s
+    drop(1,2,3,4): |Q|=16384, M1=8255, 0 hits, 344.6 s
+    drop(1,2,3,5): |Q|=16384, M1=8255, 0 hits, 341.0 s
+    drop(1,2,3,6): |Q|=16384, M1=8255, 0 hits, 191.2 s
+    drop(1,2,3,7): |Q|=16384, M1=8255, 0 hits, 88.6 s
+    drop(1,2,4,5): |Q|=16384, M1=8255, 0 hits, 87.5 s
+    drop(1,2,4,6): |Q|=16384, M1=8255, 0 hits, 87.5 s
+    drop(1,2,4,7): |Q|=16384, M1=8255, 0 hits, 85.5 s
+    drop(1,2,5,6): |Q|=16384, M1=8255, 0 hits, 87.4 s
+    drop(1,2,5,7): |Q|=16384, M1=8255, 0 hits, 85.3 s
+    drop(1,2,6,7): |Q|=16384, M1=8255, 0 hits, 86.8 s
+    drop(1,3,4,5): |Q|=16384, M1=8255, 0 hits, 85.7 s
+    drop(1,3,4,6): |Q|=16384, M1=8255, 0 hits, 85.8 s
+    drop(1,3,4,7): |Q|=16384, M1=8255, 0 hits, 85.4 s
+    drop(1,3,5,6): |Q|=16384, M1=8255, 0 hits, 86.0 s
+    drop(1,3,5,7): |Q|=16384, M1=8255, 0 hits, 85.6 s
+    drop(1,3,6,7): |Q|=16384, M1=8255, 0 hits, 85.7 s
+    drop(1,4,5,6): |Q|=16384, M1=8255, 0 hits, 85.8 s
+    drop(1,4,5,7): |Q|=16384, M1=8255, 0 hits, 86.3 s
+    drop(1,4,6,7): |Q|=16384, M1=8255, 0 hits, 89.7 s
+    drop(1,5,6,7): |Q|=16384, M1=8255, 0 hits, 86.3 s
+    drop(2,3,4,5): |Q|=16384, M1=8255, 0 hits, 85.7 s
+    drop(2,3,4,6): |Q|=16384, M1=8255, 0 hits, 86.3 s
+    drop(2,3,4,7): |Q|=16384, M1=8255, 0 hits, 85.7 s
+    drop(2,3,5,6): |Q|=16384, M1=8255, 0 hits, 88.3 s
+    drop(2,3,5,7): |Q|=16384, M1=8255, 0 hits, 85.2 s
+    drop(2,3,6,7): |Q|=16384, M1=8255, 0 hits, 85.2 s
+    drop(2,4,5,6): |Q|=16384, M1=8255, 0 hits, 85.4 s
+    drop(2,4,5,7): |Q|=16384, M1=8255, 0 hits, 85.6 s
+    drop(2,4,6,7): |Q|=16384, M1=8255, 0 hits, 85.5 s
+    drop(2,5,6,7): |Q|=16384, M1=8255, 0 hits, 85.5 s
+    drop(3,4,5,6): |Q|=16384, M1=8255, 0 hits, 85.3 s
+    drop(3,4,5,7): |Q|=16384, M1=8255, 0 hits, 85.5 s
+    drop(3,4,6,7): |Q|=16384, M1=8255, 0 hits, 85.6 s
+    drop(3,5,6,7): |Q|=16384, M1=8255, 0 hits, 85.5 s
+    drop(4,5,6,7): |Q|=16384, M1=8255, 0 hits, 85.4 s
+  4-opt: no improvement at this breadth   M_8 = 11181,  residual 5,  9762.3 s
+============================================================
+TARGETED 3-OPT / 4-OPT RESULT
+============================================================
+
+PROVEN STATEMENTS
+  Stage-1 optimum:  M3 = 80584 / 91770   PROVEN GLOBAL OPTIMUM
+                    |U_3| = 11186 for every orbit of the optimal family
+  Orbit 0006 incumbent:  1-opt optimality PROVEN, 2-opt optimality PROVEN
+                         (established by the earlier exhaustive refiner)
+  Orbit 0006  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+
+SEARCH RESULTS
+  3-opt: BEST FOUND = 11181 / 11186  (orbit 0006)
+  4-opt: BEST FOUND = 11181 / 11186  (breadth-limited M1=0 M2=0, NOT exhaustive)
+
+  orbit 0006   M_8 11181 -> 11181   residual 5   weight-4 residual 3
+
+GLOBAL BEST (orbit 0006)
+  M_8 = 11181 / 11186,  M_final = 91765 / 91770
+  Weight-4 total: 81081
+  Weight-4 detected: 81078
+  Weight-4 undetected: 3
+
+Remaining undetected errors: 5
+
+Weight 1:
+  (none)
+
+Weight 2:
+  (none)
+
+Weight 3:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+
+Weight 4:
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+
+Residual weight distribution: 0 / 0 / 2 / 3  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): NO
+Residual F_2 span dimension: 5
+Generators:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIYXXIIXII = X_1 Y_6 X_7 X_8 X_11
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+All residual errors are X-only: NO
+Physical qubits involved: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+NO GLOBAL OPTIMALITY IS CLAIMED.  The 3-opt sweeps are exhaustive over their own
+neighbourhood only; the 4-opt sweep is breadth-limited and therefore heuristic.
+Elapsed: 9763.2 s
+============================================================

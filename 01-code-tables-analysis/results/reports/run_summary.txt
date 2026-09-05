@@ -1,0 +1,44 @@
+==============================================================================
+QECC PIPELINE - RUN SUMMARY
+==============================================================================
+output directory : C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final
+q values         : 2, 3, 4, 5, 7, 8
+weight mode      : symplectic   X sum mode: distinct
+elapsed          : 21.6 s
+
+-- fetching ------------------------------------------------------------
+pages in range        : 0
+already cached        : 0
+downloaded this run   : 0
+download failures     : 0
+
+-- per q ---------------------------------------------------------------
+  q   n range   examined  processed  skipped  semi-perfect  normal
+  ----------------------------------------------------------------
+  2   1..256        33152      17882    15270           384   17498
+  3   1..100         5150       4511      639           249    4262
+  4   1..100         5150       3707     1443           236    3471
+  5   1..100         5150       2891     2259           245    2646
+  7   1..100         5150       2971     2179           353    2618
+  8   1..100         5150       2813     2337           442    2371
+  ----------------------------------------------------------------
+  TOTAL               58902      34775    24127          1909   32866
+
+-- skip reasons --------------------------------------------------------
+  no parity-check matrix                23361
+  no stabilizer rows                      756
+  parity-check matrix belongs to a different code        9
+  malformed parity-check matrix             1
+
+-- outputs -------------------------------------------------------------
+  QECC_codes_q2.xlsx
+  QECC_codes_q3.xlsx
+  QECC_codes_q4.xlsx
+  QECC_codes_q5.xlsx
+  QECC_codes_q7.xlsx
+  QECC_codes_q8.xlsx
+  plots/q<q>/*.png            (9 scatter plots per q)
+  logs/skipped_codes.csv      (every skipped parameter set + reason)
+  logs/run.log                (full run log)
+  run_summary.csv / .txt
+==============================================================================

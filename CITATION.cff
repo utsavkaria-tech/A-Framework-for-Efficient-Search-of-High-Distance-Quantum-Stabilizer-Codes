@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "A Framework for Efficient Search of High-Distance Quantum Stabilizer Codes"
+authors:
+  - family-names: Karia
+    given-names: Utsav
+    affiliation: "Independent Researcher"
+type: software
+license: MIT
+date-released: 2026-09-05
+abstract: >-
+  Code, data and results for a unified framework that quantifies how structural
+  constraints reduce the search space for quantum stabilizer codes. Includes the
+  empirical study of the finite-size correction factors C and C' over 34,775
+  published quantum codes, runtime validation on the [[5,1,3]] code, and the
+  14-qubit search that produced a [[14,3]] code detecting 91,765 of 91,770
+  weight-<=4 errors.
+keywords:
+  - quantum error correction
+  - stabilizer codes
+  - search space reduction
+  - semi-perfect quantum codes
+  - code tables

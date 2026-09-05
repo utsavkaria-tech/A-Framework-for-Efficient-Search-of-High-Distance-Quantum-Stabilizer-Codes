@@ -1,0 +1,791 @@
+=== stab14_6opt : 6-opt search around the orbit-0006 incumbent ===
+started 2026-08-31 04:51:01 ; threads 12 ; output .
+incumbent verified: M_8 = 11181 / 11186, residual 5 (w 0/0/2/3), M_final = 91765 / 91770
+  weights OK=1  [h,g]=1  [h,h]=1  rank=11  brute-force coverage 11181 (match=1)
+  weight-4: 81078 detected, 3 undetected of 81081
+  residual: X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11
+
+breadth M1=64 M2=64 M3=64 M4=64 (0 = unlimited); the last TWO replacements are
+always swept exhaustively.  Total outer blocks = 1792.
+
+---------------- STATUS 2026-08-31 04:51:01 ----------------
+elapsed                : 0h 00m 00s (0.1 s)
+position               : drop-pair 0 / 28, outer q1 index 0, start
+progress               : 0 / 1792 outer blocks = 0.0000 % of the CONFIGURED search
+prefixes examined      : 0
+leaves scored          : 0
+pruned (bound/filter)  : 0
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 0.00 outer blocks/h, 0 prefixes/s
+estimated total run    : (measuring)
+estimated remaining    : (measuring)
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 1/28] retained h1,h2 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 05:21:46 ----------------
+elapsed                : 0h 30m 45s (1845.1 s)
+position               : drop-pair 0 / 28, outer q1 index 37, inside drop-pair sweep
+progress               : 27 / 1792 outer blocks = 1.5067 % of the CONFIGURED search
+prefixes examined      : 9125269
+leaves scored          : 26007518321
+pruned (bound/filter)  : 1565220
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 52.68 outer blocks/h, 4.95e+03 prefixes/s
+estimated total run    : 34h 00m 58s
+estimated remaining    : 33h 30m 13s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 05:48:28 ----------------
+elapsed                : 0h 57m 26s (3446.8 s)
+position               : drop-pair 0 / 28, outer q1 index 63, drop-pair complete
+progress               : 64 / 1792 outer blocks = 3.5714 % of the CONFIGURED search
+prefixes examined      : 16777216
+leaves scored          : 48461451264
+pruned (bound/filter)  : 2647436
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 66.84 outer blocks/h, 4.87e+03 prefixes/s
+estimated total run    : 26h 48m 31s
+estimated remaining    : 25h 51m 04s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 2/28] retained h1,h3 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 06:18:30 ----------------
+elapsed                : 1h 27m 28s (5248.5 s)
+position               : drop-pair 1 / 28, outer q1 index 42, inside drop-pair sweep
+progress               : 96 / 1792 outer blocks = 5.3571 % of the CONFIGURED search
+prefixes examined      : 26425722
+leaves scored          : 59818264320
+pruned (bound/filter)  : 6217405
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 65.85 outer blocks/h, 5.03e+03 prefixes/s
+estimated total run    : 27h 12m 52s
+estimated remaining    : 25h 45m 24s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 06:39:17 ----------------
+elapsed                : 1h 48m 15s (6495.6 s)
+position               : drop-pair 1 / 28, outer q1 index 63, drop-pair complete
+progress               : 128 / 1792 outer blocks = 7.1429 % of the CONFIGURED search
+prefixes examined      : 33554432
+leaves scored          : 62951557632
+pruned (bound/filter)  : 9946454
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 70.94 outer blocks/h, 5.17e+03 prefixes/s
+estimated total run    : 25h 15m 38s
+estimated remaining    : 23h 27m 22s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 3/28] retained h1,h4 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 07:15:07 ----------------
+elapsed                : 2h 24m 05s (8645.6 s)
+position               : drop-pair 2 / 28, outer q1 index 47, inside drop-pair sweep
+progress               : 165 / 1792 outer blocks = 9.2076 % of the CONFIGURED search
+prefixes examined      : 45694580
+leaves scored          : 70843093504
+pruned (bound/filter)  : 14976717
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 68.71 outer blocks/h, 5.29e+03 prefixes/s
+estimated total run    : 26h 04m 56s
+estimated remaining    : 23h 40m 50s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 07:29:54 ----------------
+elapsed                : 2h 38m 52s (9532.3 s)
+position               : drop-pair 2 / 28, outer q1 index 63, drop-pair complete
+progress               : 192 / 1792 outer blocks = 10.7143 % of the CONFIGURED search
+prefixes examined      : 50331648
+leaves scored          : 77757399552
+pruned (bound/filter)  : 16319695
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 72.51 outer blocks/h, 5.28e+03 prefixes/s
+estimated total run    : 24h 42m 47s
+estimated remaining    : 22h 03m 55s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 4/28] retained h1,h5 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 08:02:39 ----------------
+elapsed                : 3h 11m 37s (11497.2 s)
+position               : drop-pair 3 / 28, outer q1 index 35, inside drop-pair sweep
+progress               : 217 / 1792 outer blocks = 12.1094 % of the CONFIGURED search
+prefixes examined      : 59214669
+leaves scored          : 109293000704
+pruned (bound/filter)  : 17491269
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 67.95 outer blocks/h, 5.15e+03 prefixes/s
+estimated total run    : 26h 22m 24s
+estimated remaining    : 23h 10m 47s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+=== stab14_6opt : 6-opt search around the orbit-0006 incumbent ===
+started 2026-08-31 15:12:43 ; threads 12 ; output .
+incumbent verified: M_8 = 11181 / 11186, residual 5 (w 0/0/2/3), M_final = 91765 / 91770
+  weights OK=1  [h,g]=1  [h,h]=1  rank=11  brute-force coverage 11181 (match=1)
+  weight-4: 81078 detected, 3 undetected of 81081
+  residual: X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11
+RESUMED from checkpoint: drop-pair 3, 48 outer blocks already complete; best M_8 = 11181
+
+breadth M1=64 M2=64 M3=64 M4=64 (0 = unlimited); the last TWO replacements are
+always swept exhaustively.  Total outer blocks = 1792.
+
+---------------- STATUS 2026-08-31 15:12:44 ----------------
+elapsed                : 0h 00m 00s (0.1 s)
+position               : drop-pair 0 / 28, outer q1 index 0, start
+progress               : 240 / 1792 outer blocks = 13.3929 % of the CONFIGURED search
+prefixes examined      : 63234636
+leaves scored          : 125474801789
+pruned (bound/filter)  : 17935431
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 6131268.76 outer blocks/h, 4.49e+08 prefixes/s
+estimated total run    : 0h 00m 01s
+estimated remaining    : 0h 00m 00s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 4/28] retained h1,h5 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 48
+=== stab14_6opt : 6-opt search around the orbit-0006 incumbent ===
+started 2026-08-31 16:54:33 ; threads 12 ; output .
+incumbent verified: M_8 = 11181 / 11186, residual 5 (w 0/0/2/3), M_final = 91765 / 91770
+  weights OK=1  [h,g]=1  [h,h]=1  rank=11  brute-force coverage 11181 (match=1)
+  weight-4: 81078 detected, 3 undetected of 81081
+  residual: X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11
+RESUMED from checkpoint: drop-pair 3, 48 outer blocks already complete; best M_8 = 11181
+
+breadth M1=64 M2=64 M3=64 M4=64 (0 = unlimited); the last TWO replacements are
+always swept exhaustively.  Total outer blocks = 1792.
+
+---------------- STATUS 2026-08-31 16:54:33 ----------------
+elapsed                : 0h 00m 00s (0.1 s)
+position               : drop-pair 0 / 28, outer q1 index 0, start
+progress               : 240 / 1792 outer blocks = 13.3929 % of the CONFIGURED search
+prefixes examined      : 63234636
+leaves scored          : 125474801789
+pruned (bound/filter)  : 17935431
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 6950427.52 outer blocks/h, 5.09e+08 prefixes/s
+estimated total run    : 0h 00m 00s
+estimated remaining    : 0h 00m 00s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 4/28] retained h1,h5 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 48
+
+---------------- STATUS 2026-08-31 17:17:47 ----------------
+elapsed                : 0h 23m 13s (1393.9 s)
+position               : drop-pair 3 / 28, outer q1 index 63, drop-pair complete
+progress               : 256 / 1792 outer blocks = 14.2857 % of the CONFIGURED search
+prefixes examined      : 67428940
+leaves scored          : 163661616253
+pruned (bound/filter)  : 18520491
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 661.17 outer blocks/h, 4.84e+04 prefixes/s
+estimated total run    : 2h 42m 37s
+estimated remaining    : 2h 19m 23s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 5/28] retained h1,h6 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 17:47:53 ----------------
+elapsed                : 0h 53m 19s (3199.5 s)
+position               : drop-pair 4 / 28, outer q1 index 42, inside drop-pair sweep
+progress               : 288 / 1792 outer blocks = 16.0714 % of the CONFIGURED search
+prefixes examined      : 76964655
+leaves scored          : 187329028922
+pruned (bound/filter)  : 20380251
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 324.05 outer blocks/h, 2.41e+04 prefixes/s
+estimated total run    : 5h 31m 48s
+estimated remaining    : 4h 38m 28s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 18:10:31 ----------------
+elapsed                : 1h 15m 57s (4557.7 s)
+position               : drop-pair 4 / 28, outer q1 index 63, drop-pair complete
+progress               : 320 / 1792 outer blocks = 17.8571 % of the CONFIGURED search
+prefixes examined      : 84206156
+leaves scored          : 195919402109
+pruned (bound/filter)  : 22396017
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 252.76 outer blocks/h, 1.85e+04 prefixes/s
+estimated total run    : 7h 05m 23s
+estimated remaining    : 5h 49m 25s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 6/28] retained h1,h7 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 18:40:37 ----------------
+elapsed                : 1h 46m 03s (6363.5 s)
+position               : drop-pair 5 / 28, outer q1 index 35, inside drop-pair sweep
+progress               : 345 / 1792 outer blocks = 19.2522 % of the CONFIGURED search
+prefixes examined      : 92376868
+leaves scored          : 227259989981
+pruned (bound/filter)  : 23906166
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 195.18 outer blocks/h, 1.45e+04 prefixes/s
+estimated total run    : 9h 10m 53s
+estimated remaining    : 7h 24m 49s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 19:09:17 ----------------
+elapsed                : 2h 14m 43s (8083.9 s)
+position               : drop-pair 5 / 28, outer q1 index 63, drop-pair complete
+progress               : 384 / 1792 outer blocks = 21.4286 % of the CONFIGURED search
+prefixes examined      : 100983372
+leaves scored          : 285029964413
+pruned (bound/filter)  : 25451697
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 171.01 outer blocks/h, 1.25e+04 prefixes/s
+estimated total run    : 10h 28m 44s
+estimated remaining    : 8h 14m 01s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 7/28] retained h1,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 19:39:26 ----------------
+elapsed                : 2h 44m 52s (9892.6 s)
+position               : drop-pair 6 / 28, outer q1 index 63, inside drop-pair sweep
+progress               : 440 / 1792 outer blocks = 24.5536 % of the CONFIGURED search
+prefixes examined      : 117412740
+leaves scored          : 365147770275
+pruned (bound/filter)  : 27550995
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 160.12 outer blocks/h, 1.19e+04 prefixes/s
+estimated total run    : 11h 11m 30s
+estimated remaining    : 8h 26m 37s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 19:40:51 ----------------
+elapsed                : 2h 46m 18s (9978.0 s)
+position               : drop-pair 6 / 28, outer q1 index 63, drop-pair complete
+progress               : 448 / 1792 outer blocks = 25.0000 % of the CONFIGURED search
+prefixes examined      : 117760588
+leaves scored          : 369944568445
+pruned (bound/filter)  : 27606033
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 161.63 outer blocks/h, 1.18e+04 prefixes/s
+estimated total run    : 11h 05m 12s
+estimated remaining    : 8h 18m 54s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 8/28] retained h2,h3 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 20:10:58 ----------------
+elapsed                : 3h 16m 24s (11784.7 s)
+position               : drop-pair 7 / 28, outer q1 index 48, inside drop-pair sweep
+progress               : 486 / 1792 outer blocks = 27.1205 % of the CONFIGURED search
+prefixes examined      : 129521567
+leaves scored          : 458253165362
+pruned (bound/filter)  : 29365349
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 148.46 outer blocks/h, 1.1e+04 prefixes/s
+estimated total run    : 12h 04m 12s
+estimated remaining    : 8h 47m 48s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 20:21:00 ----------------
+elapsed                : 3h 26m 26s (12386.6 s)
+position               : drop-pair 7 / 28, outer q1 index 63, drop-pair complete
+progress               : 512 / 1792 outer blocks = 28.5714 % of the CONFIGURED search
+prefixes examined      : 134537804
+leaves scored          : 485179909245
+pruned (bound/filter)  : 30483460
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 148.81 outer blocks/h, 1.09e+04 prefixes/s
+estimated total run    : 12h 02m 33s
+estimated remaining    : 8h 36m 06s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 9/28] retained h2,h4 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 20:41:43 ----------------
+elapsed                : 3h 47m 09s (13629.3 s)
+position               : drop-pair 8 / 28, outer q1 index 63, drop-pair complete
+progress               : 576 / 1792 outer blocks = 32.1429 % of the CONFIGURED search
+prefixes examined      : 151315020
+leaves scored          : 517368704125
+pruned (bound/filter)  : 34327215
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 152.14 outer blocks/h, 1.11e+04 prefixes/s
+estimated total run    : 11h 46m 42s
+estimated remaining    : 7h 59m 33s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 10/28] retained h2,h5 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 21:01:02 ----------------
+elapsed                : 4h 06m 28s (14788.2 s)
+position               : drop-pair 9 / 28, outer q1 index 63, drop-pair complete
+progress               : 640 / 1792 outer blocks = 35.7143 % of the CONFIGURED search
+prefixes examined      : 168092236
+leaves scored          : 536315618429
+pruned (bound/filter)  : 39479708
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 155.80 outer blocks/h, 1.14e+04 prefixes/s
+estimated total run    : 11h 30m 06s
+estimated remaining    : 7h 23m 38s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 11/28] retained h2,h6 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 21:31:24 ----------------
+elapsed                : 4h 36m 50s (16610.7 s)
+position               : drop-pair 10 / 28, outer q1 index 50, inside drop-pair sweep
+progress               : 680 / 1792 outer blocks = 37.9464 % of the CONFIGURED search
+prefixes examined      : 180174784
+leaves scored          : 625656448104
+pruned (bound/filter)  : 41307714
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 147.38 outer blocks/h, 1.08e+04 prefixes/s
+estimated total run    : 12h 09m 34s
+estimated remaining    : 7h 32m 43s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 21:41:29 ----------------
+elapsed                : 4h 46m 55s (17215.6 s)
+position               : drop-pair 10 / 28, outer q1 index 63, drop-pair complete
+progress               : 704 / 1792 outer blocks = 39.2857 % of the CONFIGURED search
+prefixes examined      : 184869452
+leaves scored          : 653145357693
+pruned (bound/filter)  : 42377674
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 147.22 outer blocks/h, 1.07e+04 prefixes/s
+estimated total run    : 12h 10m 21s
+estimated remaining    : 7h 23m 25s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 12/28] retained h2,h7 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 22:00:27 ----------------
+elapsed                : 5h 05m 53s (18353.4 s)
+position               : drop-pair 11 / 28, outer q1 index 63, drop-pair complete
+progress               : 768 / 1792 outer blocks = 42.8571 % of the CONFIGURED search
+prefixes examined      : 201646668
+leaves scored          : 665184488829
+pruned (bound/filter)  : 49411222
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 150.64 outer blocks/h, 1.1e+04 prefixes/s
+estimated total run    : 11h 53m 44s
+estimated remaining    : 6h 47m 51s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 13/28] retained h2,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 22:20:29 ----------------
+elapsed                : 5h 25m 55s (19555.9 s)
+position               : drop-pair 12 / 28, outer q1 index 63, drop-pair complete
+progress               : 832 / 1792 outer blocks = 46.4286 % of the CONFIGURED search
+prefixes examined      : 218423884
+leaves scored          : 691226274685
+pruned (bound/filter)  : 53643642
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 153.16 outer blocks/h, 1.12e+04 prefixes/s
+estimated total run    : 11h 42m 00s
+estimated remaining    : 6h 16m 04s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 14/28] retained h3,h4 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 22:39:57 ----------------
+elapsed                : 5h 45m 23s (20723.6 s)
+position               : drop-pair 13 / 28, outer q1 index 63, drop-pair complete
+progress               : 896 / 1792 outer blocks = 50.0000 % of the CONFIGURED search
+prefixes examined      : 235201100
+leaves scored          : 700943812989
+pruned (bound/filter)  : 61647396
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 155.65 outer blocks/h, 1.13e+04 prefixes/s
+estimated total run    : 11h 30m 47s
+estimated remaining    : 5h 45m 23s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 15/28] retained h3,h5 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 23:00:03 ----------------
+elapsed                : 6h 05m 29s (21929.4 s)
+position               : drop-pair 14 / 28, outer q1 index 63, drop-pair complete
+progress               : 960 / 1792 outer blocks = 53.5714 % of the CONFIGURED search
+prefixes examined      : 251978316
+leaves scored          : 717543095165
+pruned (bound/filter)  : 68752248
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 157.60 outer blocks/h, 1.15e+04 prefixes/s
+estimated total run    : 11h 22m 14s
+estimated remaining    : 5h 16m 45s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 16/28] retained h3,h6 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 23:26:24 ----------------
+elapsed                : 6h 31m 51s (23511.1 s)
+position               : drop-pair 15 / 28, outer q1 index 63, drop-pair complete
+progress               : 1024 / 1792 outer blocks = 57.1429 % of the CONFIGURED search
+prefixes examined      : 268755532
+leaves scored          : 783553395581
+pruned (bound/filter)  : 73615416
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 156.79 outer blocks/h, 1.14e+04 prefixes/s
+estimated total run    : 11h 25m 44s
+estimated remaining    : 4h 53m 53s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 17/28] retained h3,h7 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-08-31 23:46:19 ----------------
+elapsed                : 6h 51m 45s (24705.6 s)
+position               : drop-pair 16 / 28, outer q1 index 63, drop-pair complete
+progress               : 1088 / 1792 outer blocks = 60.7143 % of the CONFIGURED search
+prefixes examined      : 285532748
+leaves scored          : 797780477053
+pruned (bound/filter)  : 79676289
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 158.54 outer blocks/h, 1.16e+04 prefixes/s
+estimated total run    : 11h 18m 11s
+estimated remaining    : 4h 26m 25s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 18/28] retained h3,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 00:13:21 ----------------
+elapsed                : 7h 18m 47s (26327.4 s)
+position               : drop-pair 17 / 28, outer q1 index 63, drop-pair complete
+progress               : 1152 / 1792 outer blocks = 64.2857 % of the CONFIGURED search
+prefixes examined      : 302309964
+leaves scored          : 868420696701
+pruned (bound/filter)  : 84700901
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 157.52 outer blocks/h, 1.15e+04 prefixes/s
+estimated total run    : 11h 22m 33s
+estimated remaining    : 4h 03m 46s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 19/28] retained h4,h5 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 00:34:38 ----------------
+elapsed                : 7h 40m 05s (27605.1 s)
+position               : drop-pair 18 / 28, outer q1 index 63, drop-pair complete
+progress               : 1216 / 1792 outer blocks = 67.8571 % of the CONFIGURED search
+prefixes examined      : 319087180
+leaves scored          : 907463859837
+pruned (bound/filter)  : 88343673
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 158.58 outer blocks/h, 1.16e+04 prefixes/s
+estimated total run    : 11h 18m 01s
+estimated remaining    : 3h 37m 56s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 20/28] retained h4,h6 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 00:58:40 ----------------
+elapsed                : 8h 04m 06s (29046.9 s)
+position               : drop-pair 19 / 28, outer q1 index 63, drop-pair complete
+progress               : 1280 / 1792 outer blocks = 71.4286 % of the CONFIGURED search
+prefixes examined      : 335864396
+leaves scored          : 948218196093
+pruned (bound/filter)  : 93858867
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 158.64 outer blocks/h, 1.16e+04 prefixes/s
+estimated total run    : 11h 17m 45s
+estimated remaining    : 3h 13m 38s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 21/28] retained h4,h7 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 01:19:15 ----------------
+elapsed                : 8h 24m 41s (30281.8 s)
+position               : drop-pair 20 / 28, outer q1 index 63, drop-pair complete
+progress               : 1344 / 1792 outer blocks = 75.0000 % of the CONFIGURED search
+prefixes examined      : 352641612
+leaves scored          : 978695058045
+pruned (bound/filter)  : 98460073
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 159.78 outer blocks/h, 1.16e+04 prefixes/s
+estimated total run    : 11h 12m 55s
+estimated remaining    : 2h 48m 13s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 22/28] retained h4,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 01:38:34 ----------------
+elapsed                : 8h 44m 01s (31441.0 s)
+position               : drop-pair 21 / 28, outer q1 index 63, drop-pair complete
+progress               : 1408 / 1792 outer blocks = 78.5714 % of the CONFIGURED search
+prefixes examined      : 369418828
+leaves scored          : 996241019005
+pruned (bound/filter)  : 104837123
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 161.22 outer blocks/h, 1.17e+04 prefixes/s
+estimated total run    : 11h 06m 55s
+estimated remaining    : 2h 22m 54s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 23/28] retained h5,h6 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 02:07:24 ----------------
+elapsed                : 9h 12m 51s (33171.1 s)
+position               : drop-pair 22 / 28, outer q1 index 63, drop-pair complete
+progress               : 1472 / 1792 outer blocks = 82.1429 % of the CONFIGURED search
+prefixes examined      : 386196044
+leaves scored          : 1067427072125
+pruned (bound/filter)  : 109631363
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 159.75 outer blocks/h, 1.16e+04 prefixes/s
+estimated total run    : 11h 13m 02s
+estimated remaining    : 2h 00m 11s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 24/28] retained h5,h7 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 02:26:04 ----------------
+elapsed                : 9h 31m 30s (34291.0 s)
+position               : drop-pair 23 / 28, outer q1 index 63, drop-pair complete
+progress               : 1536 / 1792 outer blocks = 85.7143 % of the CONFIGURED search
+prefixes examined      : 402973260
+leaves scored          : 1082457856637
+pruned (bound/filter)  : 117228417
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 161.26 outer blocks/h, 1.18e+04 prefixes/s
+estimated total run    : 11h 06m 46s
+estimated remaining    : 1h 35m 15s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 25/28] retained h5,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 02:46:10 ----------------
+elapsed                : 9h 51m 36s (35496.6 s)
+position               : drop-pair 24 / 28, outer q1 index 63, drop-pair complete
+progress               : 1600 / 1792 outer blocks = 89.2857 % of the CONFIGURED search
+prefixes examined      : 419750476
+leaves scored          : 1112447610493
+pruned (bound/filter)  : 121797471
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 162.27 outer blocks/h, 1.18e+04 prefixes/s
+estimated total run    : 11h 02m 36s
+estimated remaining    : 1h 10m 59s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 26/28] retained h6,h7 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 03:05:39 ----------------
+elapsed                : 10h 11m 05s (36665.5 s)
+position               : drop-pair 25 / 28, outer q1 index 63, drop-pair complete
+progress               : 1664 / 1792 outer blocks = 92.8571 % of the CONFIGURED search
+prefixes examined      : 436527692
+leaves scored          : 1127758748285
+pruned (bound/filter)  : 128370278
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 163.38 outer blocks/h, 1.19e+04 prefixes/s
+estimated total run    : 10h 58m 05s
+estimated remaining    : 0h 47m 00s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 27/28] retained h6,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 03:25:09 ----------------
+elapsed                : 10h 30m 35s (37835.2 s)
+position               : drop-pair 26 / 28, outer q1 index 63, drop-pair complete
+progress               : 1728 / 1792 outer blocks = 96.4286 % of the CONFIGURED search
+prefixes examined      : 453304908
+leaves scored          : 1139244455549
+pruned (bound/filter)  : 137125422
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 164.42 outer blocks/h, 1.2e+04 prefixes/s
+estimated total run    : 10h 53m 56s
+estimated remaining    : 0h 23m 21s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[drop-pair 28/28] retained h7,h8 ; |Q| = 262144 (dim 18) ; usable q = 131327 ; outer blocks = 64 ; starting at 0
+
+---------------- STATUS 2026-09-01 03:46:23 ----------------
+elapsed                : 10h 51m 49s (39109.7 s)
+position               : drop-pair 27 / 28, outer q1 index 63, drop-pair complete
+progress               : 1792 / 1792 outer blocks = 100.0000 % of the CONFIGURED search
+prefixes examined      : 470082124
+leaves scored          : 1177554678653
+pruned (bound/filter)  : 140766651
+current best M_8       : 11181 / 11186
+improvement over start : 0  (start was 11181)
+residual errors        : 5  [X_3 Z_12 Z_13 | X_6 Z_7 X_11 | Y_0 Z_5 Y_9 X_11 | X_1 Z_6 Y_7 X_8 | Z_2 X_4 X_10 X_11]
+throughput             : 164.95 outer blocks/h, 1.2e+04 prefixes/s
+estimated total run    : 10h 51m 49s
+estimated remaining    : 0h 00m 00s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+============================================================
+6-OPT SEARCH RESULT
+============================================================
+
+finished 2026-09-01 03:46:23 after 10h 51m 49s
+
+breadth: M1=64 M2=64 M3=64 M4=64  (0 = unlimited); last two always exhaustive
+outer blocks completed: 1792 / 1792
+prefixes examined: 470082124   leaves scored: 1177554678653   pruned: 140766651
+
+starting M_8 : 11181 / 11186
+best    M_8 : 11181 / 11186
+improvement : 0
+
+M_final = 91765 / 91770  (99.99455160 %)
+Weight-4 total: 81081
+Weight-4 detected: 81078
+Weight-4 undetected: 3
+
+Remaining undetected errors: 5
+
+Weight 1:
+  (none)
+
+Weight 2:
+  (none)
+
+Weight 3:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+
+Weight 4:
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+
+Residual weight distribution: 0 / 0 / 2 / 3  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): NO
+Residual F_2 span dimension: 5
+Generators:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIYXXIIXII = X_1 Y_6 X_7 X_8 X_11
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+All residual errors are X-only: NO
+Physical qubits involved: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+The configured (breadth-limited) 6-opt search found no improvement.  M_8 = 11181.
+This is NOT an exhaustive 6-opt result: with M1=64 M2=64 M3=64 M4=64 only part of
+the 6-opt neighbourhood was visited.  NO optimality claim of any kind.
+============================================================

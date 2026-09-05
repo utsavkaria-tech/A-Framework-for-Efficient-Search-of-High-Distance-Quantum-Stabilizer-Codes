@@ -1,0 +1,414 @@
+=========================================================================
+REVERSE TWO-STAGE SEARCH   8 x weight-10  ->  3 x weight-8
+started 2026-08-31 12:32:28   threads 12   mode hybrid
+=========================================================================
+weight-<=4 Pauli errors enumerated: 91770   (weight 4 alone: 81081)
+
+CERTIFIED LOWER BOUND on |U_8| over every 8-generator weight-10 code: 36
+  (weak-duality certificate, value 35.9576 -- valid for any multipliers, so this
+   number cannot be wrong, only weak)
+[phase 2] multi-start construction + exhaustive 1-opt, 12 threads
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91498 / 91770
+Undetected: 272
+Detection percentage: 99.70360684 %
+g1 = IZIYZZZIZXIXYZ
+g2 = XYYZIZIYXXXIZI
+g3 = XIYXXYIYYXIXYI
+g4 = ZZXYZYZZIIIIZZ
+g5 = XIXZIYYYYIYXIZ
+g6 = IXIYXZXXIYYXYI
+g7 = ZZZXZZZYZZIIII
+g8 = ZIXXXYIXIIXXXZ
+Restarts: 1   Elapsed: 0.1 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91499 / 91770
+Undetected: 271
+Detection percentage: 99.70469652 %
+g1 = YZZZIZIIYXIYXX
+g2 = YYYXZZZIIYIYXI
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91501 / 91770
+Undetected: 269
+g3 = YZXYXXIIXXYIIX
+Detection percentage: 99.70687589 %
+g1 = ZZIXIXXZXYIIYX
+g2 = ZXIIIZXXIYYYYZ
+g3 = YIIIYXXZZZIYYZ
+g4 = XXIIZZXZZIXIYX
+g5 = IIXYXXZXZYIXIX
+g6 = ZIXIIXYIXXXZYX
+g7 = ZXIYXYYXXXIXII
+g8 = ZYIXIYZIYZIYYZ
+Restarts: 5   Elapsed: 0.1 s
+==================================================
+
+g4 = XIIIZYYYXZIZYX
+g5 = YZIIIZYZZXYXIX
+g6 = YYXZXIZIXZZYII
+g7 = XYIXIZYXIXIYYX
+g8 = XXYZIZXIXIZYXI
+Restarts: 5   Elapsed: 0.1 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91504 / 91770
+Undetected: 266
+Detection percentage: 99.71014493 %
+g1 = XIIXYXXXIXIYXY
+g2 = IXIYXIXZYIXXZX
+g3 = IIIXXZXIYYYYZY
+g4 = YYZXZXXIIYIYZI
+g5 = XXYYYIXZIIZIXY
+g6 = XYZXXIXIZIYYIZ
+g7 = YXIZIXIIXYXYZY
+g8 = YXXIZIXIXIZXXX
+Restarts: 8   Elapsed: 0.2 s
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91511 / 91770
+Undetected: 259
+==================================================
+
+Detection percentage: 99.71777269 %
+g1 = IXXZZYXZYIIIZZ
+g2 = XIZYZXXXXIIIXZ
+g3 = XYXXIIIIZXXXYZ
+g4 = XIZXXYIYXXIZXI
+g5 = IXIIXZZZZIYZZZ
+g6 = IXXXIZZZIYIXYZ
+g7 = XZZYIYZYZXZIII
+g8 = XXXXXIIXXYIIZZ
+Restarts: 10   Elapsed: 0.2 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91514 / 91770
+Undetected: 256
+Detection percentage: 99.72104173 %
+g1 = IZXXYZYIIXIZYZ
+g2 = YIYZZZXIXZYIIY
+g3 = XYZYYIYXXYIZII
+g4 = IXZYIYIXYYYIYX
+g5 = YZIZZIXXXXZIZI
+g6 = ZYIIXYZIYYXIYX
+g7 = ZZIXXZXXIZIIZZ
+g8 = YYYYYXIXIIIZYZ
+Restarts: 28   Elapsed: 0.5 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91520 / 91770
+Undetected: 250
+Detection percentage: 99.72757982 %
+g1 = YIXIYYXYYXYYII
+g2 = XXZXYXXIYZYIII
+g3 = YZYYYYYIYIYIIX
+g4 = ZZYIXYIYYYYIZI
+g5 = ZZYYZZYYIIZIXI
+g6 = ZYXXZZYIYIYYII
+g7 = YYYXIXXIIXYYIX
+g8 = YYYXYYIIYZIYZI
+Restarts: 30   Elapsed: 0.5 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91521 / 91770
+Undetected: 249
+Detection percentage: 99.72866950 %
+g1 = ZYYYZYIZXIXIXI
+g2 = ZYYYIXYYIIXYIY
+g3 = YIYZXZIZXIIZXX
+g4 = ZYIYZZYIIZYIXY
+g5 = IIYYXZYYZIXXXI
+g6 = IYYYIZIZZZIYXY
+g7 = ZIIZYYYXIXYYIY
+g8 = YYIYXYYYYXIIXI
+Restarts: 50   Elapsed: 0.8 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91531 / 91770
+Undetected: 239
+Detection percentage: 99.73956631 %
+g1 = IZXIIXZZZXXYXI
+g2 = XYXXXXIZZIXZII
+g3 = XIXYIXIIZYXYYZ
+g4 = IIZXZXIZZYXIXX
+g5 = IXZXYXZXZXIIZI
+g6 = IXZIXXIZYIXYYZ
+g7 = IXZYXIIYZXXZXI
+g8 = IXYZYXZYXXXIII
+Restarts: 60   Elapsed: 0.9 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91536 / 91770
+Undetected: 234
+Detection percentage: 99.74501471 %
+g1 = ZZYXYYIYXXIYII
+g2 = IYZZXIIIXZYZXZ
+g3 = ZXXXYXIIXZYIIZ
+g4 = IYXIXXIXIXZXXZ
+g5 = IZYYXXZZIXZYII
+g6 = IYXYYIZZIZYXIZ
+g7 = ZYIZZZIZIIYXXZ
+g8 = ZYXYXZIXXXIIIX
+Restarts: 120   Elapsed: 1.7 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91537 / 91770
+Undetected: 233
+Detection percentage: 99.74610439 %
+g1 = ZZYIXIIZXZYZIY
+g2 = IIYXXIZIYZYZZZ
+g3 = XIXXIZIYXZYZIZ
+g4 = IZXYXIIXZIYZZX
+g5 = XZZYYYZIZXIIIX
+g6 = YZIXZIIXXZIZZZ
+g7 = ZIZYIXZIZZYZIY
+g8 = YZYZYZIYXZIXII
+Restarts: 1063   Elapsed: 14.3 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91540 / 91770
+Undetected: 230
+Detection percentage: 99.74937343 %
+g1 = ZYZIYYIIYXYZIY
+g2 = YYZXYIZXZIYZII
+g3 = ZIXZYZYIZZYZII
+g4 = ZZXZIYXXIYXIIY
+g5 = XZXZYXIYYXIIIY
+g6 = IXZIZZYZZIYZIY
+g7 = IXYIXXIYYYXZIY
+g8 = XYZZXYXIIXIIZY
+Restarts: 1399   Elapsed: 18.5 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91542 / 91770
+Undetected: 228
+Detection percentage: 99.75155280 %
+g1 = ZIZYIYYYZXIXIY
+g2 = XYIIXXYYZIXXIY
+g3 = XZIZXXXIYIIZYY
+g4 = ZXIIXXZXYZIYYI
+g5 = YZZZXZIZZIIXIY
+g6 = ZYZYIXIZXIXZIY
+g7 = XXZZXXZZXIIXII
+g8 = XYXXIXXIXXIXIY
+Restarts: 9469   Elapsed: 310.5 s
+==================================================
+
+
+==================================================
+NEW STAGE-1 BEST
+==================================================
+Detected errors: 91552 / 91770
+Undetected: 218
+Detection percentage: 99.76244960 %
+g1 = ZXIYXXZYYIZIIX
+g2 = IXXYIIZZYIZXXY
+g3 = ZIZXXYXYZIIIXX
+g4 = XYYXXZYIZIZIIX
+g5 = XZIYIZXYZIZIXY
+g6 = YZXIZZIIXIZXXY
+g7 = IYYIYZYZIIZXXZ
+g8 = ZXXIYIZYIXZXIZ
+Restarts: 34335   Elapsed: 671.4 s
+==================================================
+
+
+---------------- STATUS 2026-08-31 13:02:28 ----------------
+phase                  : multi-start
+elapsed                : 0h 30m 00s (1800.1 s)
+restarts               : 115283 / 1000000 = 11.5283 %
+1-opt classes swept    : 61838196736
+2-opt pairs scored     : 0
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 0
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 14
+distinct optimal spans : 12
+fingerprint classes    : 1
+throughput             : 64.04 restarts/s
+estimated total run    : 4h 20m 14s
+estimated remaining    : 3h 50m 14s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 13:32:28 ----------------
+phase                  : multi-start
+elapsed                : 1h 00m 00s (3600.1 s)
+restarts               : 243989 / 1000000 = 24.3989 %
+1-opt classes swept    : 131033071616
+2-opt pairs scored     : 0
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 0
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 14
+distinct optimal spans : 21
+fingerprint classes    : 1
+throughput             : 67.77 restarts/s
+estimated total run    : 4h 05m 55s
+estimated remaining    : 3h 05m 55s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 14:02:28 ----------------
+phase                  : multi-start
+elapsed                : 1h 30m 00s (5400.2 s)
+restarts               : 372686 / 1000000 = 37.2686 %
+1-opt classes swept    : 200231485440
+2-opt pairs scored     : 0
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 0
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 14
+distinct optimal spans : 29
+fingerprint classes    : 1
+throughput             : 69.01 restarts/s
+estimated total run    : 4h 01m 29s
+estimated remaining    : 2h 31m 29s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 14:32:28 ----------------
+phase                  : multi-start
+elapsed                : 2h 00m 00s (7200.3 s)
+restarts               : 501322 / 1000000 = 50.1322 %
+1-opt classes swept    : 269453361152
+2-opt pairs scored     : 0
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 0
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 14
+distinct optimal spans : 40
+fingerprint classes    : 1
+throughput             : 69.63 restarts/s
+estimated total run    : 3h 59m 22s
+estimated remaining    : 1h 59m 22s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+
+---------------- STATUS 2026-08-31 15:02:28 ----------------
+phase                  : multi-start
+elapsed                : 2h 30m 00s (9000.6 s)
+restarts               : 605778 / 1000000 = 60.5778 %
+1-opt classes swept    : 325503549440
+2-opt pairs scored     : 0
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 0
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 14
+distinct optimal spans : 46
+fingerprint classes    : 1
+throughput             : 67.30 restarts/s
+estimated total run    : 4h 07m 37s
+estimated remaining    : 1h 37m 37s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+=========================================================================
+REVERSE TWO-STAGE SEARCH   8 x weight-10  ->  3 x weight-8
+started 2026-08-31 15:15:17   threads 12   mode hybrid
+=========================================================================
+weight-<=4 Pauli errors enumerated: 91770   (weight 4 alone: 81081)
+
+CERTIFIED LOWER BOUND on |U_8| over every 8-generator weight-10 code: 36
+  (weak-duality certificate, value 35.9576 -- valid for any multipliers, so this
+   number cannot be wrong, only weak)
+
+RESUMED from checkpoint: 605792 restarts, best |U_8| = 218, 1 classes
+[phase 2] multi-start construction + exhaustive 1-opt, 12 threads
+
+---------------- STATUS 2026-08-31 15:15:56 ----------------
+phase                  : multi-start done
+elapsed                : 0h 00m 39s (39.3 s)
+restarts               : 2000 / 2000 = 100.0000 %
+1-opt classes swept    : 326597476352
+2-opt pairs scored     : 0
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 0
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 15
+distinct optimal spans : 4
+fingerprint classes    : 1
+throughput             : 50.95 restarts/s
+estimated total run    : 0h 00m 39s
+estimated remaining    : 0h 00m 00s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[phase 3] exhaustive 2-opt certification of every family member
+  round 1: 4 members to certify
+
+---------------- STATUS 2026-08-31 15:15:57 ----------------
+phase                  : 2-opt done
+elapsed                : 0h 00m 39s (39.8 s)
+restarts               : 2000 (no restart budget; time limited)
+1-opt classes swept    : 326597476352
+2-opt pairs scored     : 28713
+3-opt triples scored   : 0
+k-opt prefixes pruned  : 112
+best |U_8|             : 218   (M_8 = 91552 / 91770)
+improvements so far    : 15
+distinct optimal spans : 4
+fingerprint classes    : 1
+throughput             : 50.30 restarts/s
+checkpoint             : ./checkpoint.txt
+-------------------------------------------------------------
+
+[phase 4] exhaustive Stage-2 for 1 fingerprint classes (up to 4 members each)
+  class 0001: |U_8| =   218  Stage-2 detects   207  residual    11  M_final = 91759  (1.0 s, 2079 usable classes)
+  class 0002: |U_8| =   218  Stage-2 detects   207  residual    11  M_final = 91759  (1.2 s, 2079 usable classes)
+  class 0003: |U_8| =   218  Stage-2 detects   207  residual    11  M_final = 91759  (1.1 s, 2079 usable classes)
+  class 0004: |U_8| =   218  Stage-2 detects   207  residual    11  M_final = 91759  (1.2 s, 2079 usable classes)
+
+finished 2026-08-31 15:16:02   total elapsed 0h 00m 44s

@@ -1,0 +1,67 @@
+Stage-1 orbit:
+0023 of 1
+
+Stage-1 generators:
+g1 = IIIXIXXIXIXXXX
+g2 = IIIIXIIXZXXXXZ
+g3 = IIIIIXXXIZZZZZ
+
+Stage-1 detected:
+80584 / 91770
+
+Stage-1 undetected:
+11186
+
+Stage-2 best:
+h1 = XIIYIZIXXXZZXX
+h2 = IXIIZIXXXYYZXX
+h3 = IIXZXIXXXZIZXX
+h4 = IZIXXXIZZZIYZZ
+h5 = XIIXIYXXZYYIZX
+h6 = IYIIXXIZXZZYXX
+h7 = IIIYYXIYYXZYYZ
+h8 = IXIXXYXXIYXZXI
+
+Stage-2 coverage:
+11179 / 11186
+
+Final coverage:
+91763 / 91770
+
+Remaining undetected errors: 7
+
+Weight 1:
+  XIIIIIIIIIIIII = X_0
+  IIXIIIIIIIIIII = X_2
+  IIIIIIXIIIIIII = X_6
+
+Weight 2:
+  XIXIIIIIIIIIII = X_0 X_2
+  XIIIIIXIIIIIII = X_0 X_6
+  IIXIIIXIIIIIII = X_2 X_6
+
+Weight 3:
+  XIXIIIXIIIIIII = X_0 X_2 X_6
+
+Weight 4:
+  (none)
+
+Residual weight distribution: 3 / 3 / 1 / 0  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): YES
+Residual subgroup dimension: 3
+Generators:
+  XIIIIIIIIIIIII = X_0
+  IIXIIIIIIIIIII = X_2
+  IIIIIIXIIIIIII = X_6
+All residual errors are X-only: YES
+Physical qubits involved: 0 2 6
+
+Weight-4 errors (recomputed programmatically, not hard-coded):
+Total:      81081
+Detected:   81081
+Undetected: 0
+All weight-4 errors detected:
+YES
+
+Stage-2 optimum:
+BEST KNOWN

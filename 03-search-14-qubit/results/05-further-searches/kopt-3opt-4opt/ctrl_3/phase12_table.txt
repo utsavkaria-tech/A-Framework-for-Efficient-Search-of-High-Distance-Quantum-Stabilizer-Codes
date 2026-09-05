@@ -1,0 +1,5 @@
+Orbit    Starting M8    Best M8    Improvement    Residual    W4 residual
+---------------------------------------------------------------------------
+0006     11125          11181      56             5           3
+
+Global best after 3-opt: orbit 0006, M_8 = 11181 / 11186

@@ -1,0 +1,36 @@
+=========================================================================
+hitset14 -- residual-targeted column replacement, [[14,3,5]] search
+started 2026-09-01 13:18:13   threads 12
+=========================================================================
+=============================== SELF TEST ===============================
+---- STARTING 11-GENERATOR CODE ----
+  generator weights            : 8 8 8 10 10 10 10 10 10 10 10
+  all 55 generator pairs commute: OK
+  rank of the check matrix     : 11 OK
+  every column spans a 2-dim W : OK
+  Pluecker sum over columns = 0: OK
+  weight-<=4 errors enumerated : 91770
+  undetected (zero syndrome)   : 5   [w1=0 w2=0 w3=2 w4=3]
+  of those outside stabilizer  : 5  (these are the real distance failures)
+  min non-zero stabilizer weight: 6
+      IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+      IIIIIIXZIIIXII = X_6 Z_7 X_11
+      YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+      IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+      IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+  independent column-only distance routine: 5 violating tuples (must equal 5) OK
+  residual set matches the five reported errors : OK (5 found)
+  rank(pl(line)) == 2 and support recovers the line : 0 failures  OK
+  rank(sum of t decomposables) <= 2t                : 0 failures  OK
+  deliberate break (column 0 := column 1) caught    : OK (w2 residuals = 3)
+  deliberate break (dim W_5 = 1) caught             : OK (w1 residuals = 1)
+  deliberate break (commutation) caught            : OK
+  original free columns reproduce the target T     : OK
+  original free columns excluded by the C_3 filter : 0 of 3 still allowed OK
+  known (original) configuration is rebuilt and REJECTED : OK
+  DFS core recovers the planted assignment on {3,6,11} : OK (1 candidates, 38 nodes)
+  DFS core recovers the planted assignment on {1,3,11} : OK (1 candidates, 17 nodes)
+  DFS core recovers the planted assignment on {7,11,12} : OK (1 candidates, 35 nodes)
+  reference engine vs optimized engine, 19 subsets : 0 mismatches  OK
+========================= SELF TEST PASSED =========================
+

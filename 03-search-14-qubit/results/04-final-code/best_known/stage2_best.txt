@@ -1,0 +1,56 @@
+Stage-2: eight weight-10 generators
+
+h1 = IXIXXXIZYZIXXX   (weight 10)
+h2 = IZXIXXYIXYIYXX   (weight 10)
+h3 = IIIZYXZXYXZIZY   (weight 10)
+h4 = IIIYXZYIYZZYZX   (weight 10)
+h5 = IIZIXZXYZXZYIZ   (weight 10)
+h6 = XIIIXYXZXYIXYX   (weight 10)
+h7 = IIYIZXZXYXXIYX   (weight 10)
+h8 = ZIIIZXIZZYZXYX   (weight 10)
+
+M_8 = 11181 / 11186
+residual = 5
+M_final = 91765 / 91770  (99.99455160 %)
+
+Target-error detection by each new generator:
+h1: 5684   (cov1 = 5684 OK)
+h2: 5684   (cov1 = 5684 OK)
+h3: 5694   (cov1 = 5694 OK)
+h4: 5694   (cov1 = 5694 OK)
+h5: 5694   (cov1 = 5694 OK)
+h6: 5694   (cov1 = 5694 OK)
+h7: 5694   (cov1 = 5694 OK)
+h8: 5694   (cov1 = 5694 OK)
+
+Detected Stage-1 targets by weight:
+  weight 1 : 14 / 14
+  weight 2 : 119 / 119
+  weight 3 : 1146 / 1148
+  weight 4 : 9902 / 9905
+
+Weight-4 errors (total recomputed, not hard-coded): 81081
+  detected   : 81078
+  undetected : 3
+  ALL WEIGHT-4 ERRORS DETECTED: NO
+
+Commutation (rows/cols g1..g3,h1..h8; 0 = commute):
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+
+INDEPENDENT VERIFICATION (all 91770 errors rebuilt from scratch)
+  U_3 size                 : 11186 OK
+  all weights == 10        : OK
+  [h_a , g_i] = 0          : OK
+  [h_a , h_b] = 0          : OK
+  rank = 11                : OK (rank 11)
+  union coverage recount   : 11181 (matches the algebraic score)

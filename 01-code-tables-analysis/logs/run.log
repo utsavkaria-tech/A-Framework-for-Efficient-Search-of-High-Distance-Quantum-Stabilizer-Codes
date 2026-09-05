@@ -1,0 +1,160 @@
+20:59:35 INFO    ==========================================================================
+20:59:35 INFO    QECC pipeline  |  q = 2, 3, 4, 5  |  weight-mode=symplectic  x-sum-mode=distinct
+20:59:35 INFO    output directory: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final
+20:59:35 INFO    ==========================================================================
+20:59:35 INFO    q=2: 33152 pages in range, 0 cached, downloading 33152
+21:42:56 DEBUG   q=2 n=175 k=123 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+21:42:56 DEBUG   q=2 n=175 k=124 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+21:42:56 DEBUG   q=2 n=175 k=125 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+21:42:57 DEBUG   q=2 n=175 k=126 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+21:42:57 DEBUG   q=2 n=175 k=127 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+21:43:23 DEBUG   q=2 n=175 k=122 attempt 1 failed: ReadTimeout: HTTPSConnectionPool(host='www.codetables.de', port=443): Read timed out. (read timeout=30.0)
+22:36:22 INFO    q=3: 5150 pages in range, 0 cached, downloading 5150
+22:36:45 DEBUG   q=3 n=1 k=0 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:36:51 DEBUG   q=3 n=2 k=0 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:36:51 DEBUG   q=3 n=1 k=1 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:36:51 DEBUG   q=3 n=3 k=0 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:36:51 DEBUG   q=3 n=2 k=2 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:36:51 DEBUG   q=3 n=2 k=1 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:37:08 DEBUG   q=3 n=1 k=0 attempt 2 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:37:09 DEBUG   q=3 n=2 k=1 attempt 2 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:37:09 DEBUG   q=3 n=3 k=0 attempt 2 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:37:09 DEBUG   q=3 n=1 k=1 attempt 2 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:37:13 DEBUG   q=3 n=2 k=2 attempt 2 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:49:07 DEBUG   q=3 n=84 k=29 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:49:11 DEBUG   q=3 n=84 k=30 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:49:33 DEBUG   q=3 n=84 k=31 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:49:33 DEBUG   q=3 n=84 k=33 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:49:33 DEBUG   q=3 n=84 k=34 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:49:33 DEBUG   q=3 n=84 k=32 attempt 1 failed: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+22:53:20 DEBUG   q=3 n=96 k=79 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:53:20 DEBUG   q=3 n=96 k=78 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:53:20 DEBUG   q=3 n=96 k=76 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:53:20 DEBUG   q=3 n=96 k=74 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:53:20 DEBUG   q=3 n=96 k=75 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:53:20 DEBUG   q=3 n=96 k=77 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:54:04 DEBUG   q=3 n=98 k=45 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:54:04 DEBUG   q=3 n=98 k=43 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:54:04 DEBUG   q=3 n=98 k=47 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:54:04 DEBUG   q=3 n=98 k=46 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:54:04 DEBUG   q=3 n=98 k=44 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:54:04 DEBUG   q=3 n=98 k=48 attempt 1 failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+22:55:27 INFO    q=4: 5150 pages in range, 0 cached, downloading 5150
+23:13:34 DEBUG   q=4 n=94 k=61 attempt 1 failed: ReadTimeout: HTTPSConnectionPool(host='www.codetables.de', port=443): Read timed out. (read timeout=30.0)
+23:13:41 DEBUG   q=4 n=94 k=69 attempt 1 failed: ReadTimeout: HTTPSConnectionPool(host='www.codetables.de', port=443): Read timed out. (read timeout=30.0)
+23:15:37 INFO    q=5: 5150 pages in range, 0 cached, downloading 5150
+23:34:10 INFO    fetch done: 48602 in range, 0 already cached, 48602 downloaded, 0 errors
+23:34:30 INFO    q=2 parsed: examined=33152 processed=17882 skipped=15270
+23:34:32 INFO    q=3 parsed: examined=5150 processed=4511 skipped=639
+23:34:34 INFO    q=4 parsed: examined=5150 processed=0 skipped=5150
+23:34:35 INFO    q=5 parsed: examined=5150 processed=2891 skipped=2259
+23:34:35 INFO    q=2: 17882 codes processed, 384 semi-perfect, 17498 normal
+23:34:38 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q2.xlsx (17882 rows)
+23:34:40 INFO    q=2: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q2
+23:34:40 INFO    q=3: 4511 codes processed, 249 semi-perfect, 4262 normal
+23:34:41 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q3.xlsx (4511 rows)
+23:34:43 INFO    q=3: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q3
+23:34:43 WARNING q=4: no processed codes
+23:34:43 INFO    q=4: 0 codes processed, 0 semi-perfect, 0 normal
+23:34:43 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q4.xlsx (0 rows)
+23:34:43 WARNING q=4: no codes, no plots produced
+23:34:43 INFO    q=5: 2891 codes processed, 245 semi-perfect, 2646 normal
+23:34:44 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q5.xlsx (2891 rows)
+23:34:47 INFO    q=5: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q5
+23:34:47 INFO    skip log written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\logs\skipped_codes.csv (23318 entries)
+23:34:47 INFO    combined dataset written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\all_codes_combined.csv (25284 rows)
+23:34:47 INFO    finished in 9311.9 s
+23:38:12 INFO    ==========================================================================
+23:38:12 INFO    QECC pipeline  |  q = 2, 3, 4, 5  |  weight-mode=symplectic  x-sum-mode=distinct  avg-denom=rows
+23:38:12 INFO    output directory: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final
+23:38:12 INFO    ==========================================================================
+23:38:12 INFO    fetch phase skipped (--skip-fetch)
+23:38:37 INFO    q=2 parsed: examined=33152 processed=17882 skipped=15270
+23:38:42 INFO    q=3 parsed: examined=5150 processed=4511 skipped=639
+23:38:49 INFO    q=4 parsed: examined=5150 processed=3707 skipped=1443
+23:38:51 INFO    q=5 parsed: examined=5150 processed=2891 skipped=2259
+23:38:51 INFO    q=2: 17882 codes processed, 384 semi-perfect, 17498 normal
+23:38:59 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q2.xlsx (17882 rows)
+23:39:05 INFO    q=2: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q2
+23:39:05 INFO    q=3: 4511 codes processed, 249 semi-perfect, 4262 normal
+23:39:07 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q3.xlsx (4511 rows)
+23:39:11 INFO    q=3: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q3
+23:39:11 INFO    q=4: 3707 codes processed, 236 semi-perfect, 3471 normal
+23:39:13 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q4.xlsx (3707 rows)
+23:39:17 INFO    q=4: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q4
+23:39:18 INFO    q=5: 2891 codes processed, 245 semi-perfect, 2646 normal
+23:39:19 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q5.xlsx (2891 rows)
+23:39:23 INFO    q=5: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q5
+23:39:23 INFO    skip log written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\logs\skipped_codes.csv (19611 entries)
+23:39:24 INFO    combined dataset written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\all_codes_combined.csv (28991 rows)
+23:39:24 INFO    finished in 72.3 s
+00:16:33 INFO    ==========================================================================
+00:16:33 INFO    QECC pipeline  |  q = 2, 3, 4, 5, 7, 8  |  weight-mode=symplectic  x-sum-mode=distinct  avg-denom=rows
+00:16:33 INFO    output directory: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final
+00:16:33 INFO    ==========================================================================
+00:16:33 INFO    q=2: all 33152 pages already cached
+00:16:33 INFO    q=3: all 5150 pages already cached
+00:16:33 INFO    q=4: all 5150 pages already cached
+00:16:33 INFO    q=5: all 5150 pages already cached
+00:16:33 INFO    q=7: 5150 pages in range, 0 cached, downloading 5150
+00:30:56 INFO    q=8: 5150 pages in range, 0 cached, downloading 5150
+00:45:29 INFO    fetch done: 58902 in range, 48602 already cached, 10300 downloaded, 0 errors
+00:45:52 INFO    q=2 parsed: examined=33152 processed=17882 skipped=15270
+00:45:54 INFO    q=3 parsed: examined=5150 processed=4511 skipped=639
+00:45:56 INFO    q=4 parsed: examined=5150 processed=3707 skipped=1443
+00:45:57 INFO    q=5 parsed: examined=5150 processed=2891 skipped=2259
+00:45:58 INFO    q=7 parsed: examined=5150 processed=2971 skipped=2179
+00:46:01 INFO    q=8 parsed: examined=5150 processed=2813 skipped=2337
+00:46:01 INFO    q=2: 17882 codes processed, 384 semi-perfect, 17498 normal
+00:46:04 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q2.xlsx (17882 rows)
+00:46:07 INFO    q=2: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q2
+00:46:07 INFO    q=3: 4511 codes processed, 249 semi-perfect, 4262 normal
+00:46:07 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q3.xlsx (4511 rows)
+00:46:09 INFO    q=3: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q3
+00:46:09 INFO    q=4: 3707 codes processed, 236 semi-perfect, 3471 normal
+00:46:10 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q4.xlsx (3707 rows)
+00:46:12 INFO    q=4: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q4
+00:46:12 INFO    q=5: 2891 codes processed, 245 semi-perfect, 2646 normal
+00:46:12 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q5.xlsx (2891 rows)
+00:46:14 INFO    q=5: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q5
+00:46:14 INFO    q=7: 2971 codes processed, 353 semi-perfect, 2618 normal
+00:46:15 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q7.xlsx (2971 rows)
+00:46:17 INFO    q=7: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q7
+00:46:17 INFO    q=8: 2813 codes processed, 442 semi-perfect, 2371 normal
+00:46:17 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q8.xlsx (2813 rows)
+00:46:19 INFO    q=8: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q8
+00:46:19 INFO    skip log written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\logs\skipped_codes.csv (24127 entries)
+00:46:20 INFO    combined dataset written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\all_codes_combined.csv (34775 rows)
+00:46:20 INFO    finished in 1786.9 s
+01:03:40 INFO    ==========================================================================
+01:03:40 INFO    QECC pipeline  |  q = 2, 3, 4, 5, 7, 8  |  weight-mode=symplectic  x-sum-mode=distinct  avg-denom=rows
+01:03:40 INFO    output directory: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final
+01:03:40 INFO    ==========================================================================
+01:03:40 INFO    fetch phase skipped (--skip-fetch)
+01:03:40 INFO    q=2: results already present, skipping parse (use --force-reparse to redo)
+01:03:40 INFO    q=3: results already present, skipping parse (use --force-reparse to redo)
+01:03:40 INFO    q=4: results already present, skipping parse (use --force-reparse to redo)
+01:03:40 INFO    q=5: results already present, skipping parse (use --force-reparse to redo)
+01:03:40 INFO    q=7: results already present, skipping parse (use --force-reparse to redo)
+01:03:40 INFO    q=8: results already present, skipping parse (use --force-reparse to redo)
+01:03:40 INFO    q=2: 17882 codes processed, 384 semi-perfect, 17498 normal
+01:03:43 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q2.xlsx (17882 rows)
+01:03:46 INFO    q=2: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q2
+01:03:46 INFO    q=3: 4511 codes processed, 249 semi-perfect, 4262 normal
+01:03:47 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q3.xlsx (4511 rows)
+01:03:50 INFO    q=3: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q3
+01:03:50 INFO    q=4: 3707 codes processed, 236 semi-perfect, 3471 normal
+01:03:50 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q4.xlsx (3707 rows)
+01:03:53 INFO    q=4: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q4
+01:03:53 INFO    q=5: 2891 codes processed, 245 semi-perfect, 2646 normal
+01:03:53 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q5.xlsx (2891 rows)
+01:03:55 INFO    q=5: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q5
+01:03:55 INFO    q=7: 2971 codes processed, 353 semi-perfect, 2618 normal
+01:03:56 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q7.xlsx (2971 rows)
+01:03:58 INFO    q=7: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q7
+01:03:58 INFO    q=8: 2813 codes processed, 442 semi-perfect, 2371 normal
+01:03:59 INFO    wrote C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\QECC_codes_q8.xlsx (2813 rows)
+01:04:01 INFO    q=8: wrote 9 plots to C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\plots\q8
+01:04:01 INFO    skip log written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\logs\skipped_codes.csv (24127 entries)
+01:04:01 INFO    combined dataset written: C:\Users\utsav\OneDrive\ドキュメント\Code Tables Data - Final\all_codes_combined.csv (34775 rows)
+01:04:01 INFO    finished in 21.6 s

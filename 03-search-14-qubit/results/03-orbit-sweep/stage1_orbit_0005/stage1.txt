@@ -1,0 +1,77 @@
+============================================================
+STAGE 1 - THREE WEIGHT-8 GENERATORS
+============================================================
+
+Status:
+Global optimum: PROVEN
+
+Total weight <=4 errors: 91770
+
+Detected:   80584
+Undetected: 11186
+
+Detection percentage: 87.81083143 %
+
+Weight 1:
+Detected / Total : 28 / 42
+Undetected       : 14
+
+Weight 2:
+Detected / Total : 700 / 819
+Undetected       : 119
+
+Weight 3:
+Detected / Total : 8680 / 9828
+Undetected       : 1148
+
+Weight 4:
+Detected / Total : 71176 / 81081
+Undetected       : 9905
+
+Generators:
+g1 = IIIIXXXXIIYYXZ
+g2 = IIIIIXZIXXXXXX
+g3 = IIIIIXIZZZZZZZ
+
+Weights:
+g1: 8
+g2: 8
+g3: 8
+
+Rank:
+3  (target 3)
+
+Commutation (0 = commute):
+  0 0 0 
+  0 0 0 
+  0 0 0 
+
+X part / Z part:
+  00001111001110 | 00000000001101
+  00000100111111 | 00000010000000
+  00000100000000 | 00000001111111
+
+Stabilizer group weight enumerator (weights of the 7 non-identity elements):
+  8 8 8 8 8 8 8
+
+Syndrome distribution:
+000 11186
+001 11512
+010 11512
+011 11512
+100 11512
+101 11512
+110 11512
+111 11512
+
+INDEPENDENT VERIFICATION
+  generator weights == 8          : OK
+  pairwise commutation             : OK
+  rank(H3) = 3                     : OK
+  algebraic score (Krawtchouk)     : 80584 (matches brute force)
+
+Search nodes: 19553
+Pruned:       15344
+Leaves:       349
+Elapsed:      103.822 s
+============================================================

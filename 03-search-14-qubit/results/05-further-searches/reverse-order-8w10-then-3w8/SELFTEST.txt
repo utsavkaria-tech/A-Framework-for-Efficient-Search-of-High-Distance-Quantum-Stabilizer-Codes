@@ -1,0 +1,32 @@
+=========================================================================
+REVERSE TWO-STAGE SEARCH   8 x weight-10  ->  3 x weight-8
+started 2026-08-31 11:58:58   threads 12   mode hybrid
+=========================================================================
+weight-<=4 Pauli errors enumerated: 91770   (weight 4 alone: 81081)
+=========================== SELF TEST ===========================
+  total weight-<=4 Pauli errors  : enumerated 91770, formula 91770  OK
+  weight-4 errors                : enumerated 81081, C(14,4)*81 = 81081  OK
+  P[0] equals the total          : 91770  OK
+  P[m], m=0..14                  : 91770 57914 34154 18314 8474 2970 394 -406 -326 -6 170 74 -166 -166 714
+  closed form vs brute force     : 400 random subspaces, 0 mismatches  OK
+  MacWilliams dual, w = 0..14    : 25 subspaces, 0 mismatches  OK
+  built a valid Stage-1 code     : |U_8| = 309, M_8 = 91461
+  column weight constraint       : OK
+  column Plucker commutation     : OK
+  column rank constraint         : dim 8 OK
+  weight function from columns   : OK
+  objective from columns         : 79104 vs 79104  OK
+  reduced column types r=3 / r=4 : 15 / 51  OK (expect 15 / 51)
+  quotient dim / size            : 14 / 16384 OK
+  class(lift(c)) == c            : OK
+  descended symplectic form      : OK
+  phi table vs direct sum        : OK
+  |U_8| brute force vs algebra   : 309 vs 309  OK
+  Stage-2 coverage identity      : 14 random 3-spaces  OK
+  weight-8-usable classes in Q2  : 2079 / 4095
+  B&B r=3 w=8  M = 80584  (previously proven in this project: 80584)  MATCH
+               seed incumbent |U| = 11186, nodes 767476, leaves 2488, pruned 236501, 0.38 s
+  B&B r=4 w=8  M = 86340  (previously proven in this project: 86340)  MATCH
+               seed incumbent |U| = 5430, nodes 7916437147, leaves 10676711, pruned 4432856217, 544.15 s
+=================== SELF TEST PASSED ===================
+

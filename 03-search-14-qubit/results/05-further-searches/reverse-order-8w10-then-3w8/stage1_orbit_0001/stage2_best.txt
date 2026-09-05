@@ -1,0 +1,18 @@
+STAGE-2 OPTIMUM FOR THIS FROZEN STAGE-1 CODE
+(exhaustive over every 3-dimensional isotropic subspace of Q2 spanned by
+ weight-8-usable classes -- PROVEN OPTIMUM conditional on the frozen Stage 1)
+
+h1 = IZXXIYIIXXIXIX   (weight 8)
+h2 = XIYXYIXIIZIXYI   (weight 8)
+h3 = ZIIZIXXIIZIYXX   (weight 8)
+
+|U_8|                       = 218
+detected by Stage 2         = 207
+remaining                   = 11
+M_final                     = 91759 / 91770  (99.98801351 %)
+
+quotient Q2 dim             = 12  (|Q2| = 4096)
+weight-8-usable classes     = 2079
+max cov1 over classes       = 126
+triples scored              = 328058640
+distinct optimal subspaces  = 224

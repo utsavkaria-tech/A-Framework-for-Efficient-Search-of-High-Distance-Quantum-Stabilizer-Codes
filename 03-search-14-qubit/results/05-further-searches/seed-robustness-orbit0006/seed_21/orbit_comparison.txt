@@ -1,0 +1,67 @@
+================================================================
+COMPARISON OF INEQUIVALENT OPTIMAL STAGE-1 SOLUTIONS
+================================================================
+
+Orbit     M3       |U3|     M8       Final     Residual  W4-undetected  Stage2
+----------------------------------------------------------------------------
+0006      80584    11186    11181    91765     5         3              best known
+================================================================
+
+GLOBAL BEST KNOWN over the tested Stage-1 orbits:
+  orbit 0006,  M_8 = 11181 / 11186,  M_final = 91765 / 91770  (99.99455160 %)
+  Stage-1 generators:
+    g1 = IIIIXXXXIIZZXX
+    g2 = IIIIXXIIXXXXZZ
+    g3 = IIIIIIZZZZZZZZ
+  Stage-2 generators:
+    h1 = IXIXXXIZYZIXXX
+    h2 = IZXIXXYIXYIYXX
+    h3 = IIIZYXZXYXZIZY
+    h4 = IIIYXZYIYZZYZX
+    h5 = IIZIXZXYZXZYIZ
+    h6 = XIIIXYXZXYIXYX
+    h7 = IIYIZXZXYXXIYX
+    h8 = ZIIIZXIZZYZXYX
+
+Remaining undetected errors: 5
+
+Weight 1:
+  (none)
+
+Weight 2:
+  (none)
+
+Weight 3:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+
+Weight 4:
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+
+Residual weight distribution: 0 / 0 / 2 / 3  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): NO
+Residual subgroup dimension: 5
+Generators:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIYXXIIXII = X_1 Y_6 X_7 X_8 X_11
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+All residual errors are X-only: NO
+Physical qubits involved: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+NO FULL COVERAGE FOUND
+
+Across all 1 tested inequivalent globally optimal Stage-1 solutions, the best
+Stage-2 coverage is 11181 / 11186, leaving 5 residual errors (listed above).
+
+Stage 1 is PROVEN globally optimal and its optimal family was enumerated
+exhaustively.  Each Stage-2 search is heuristic unless marked PROVEN, so this
+is a BEST-KNOWN result, not a proof of impossibility.
+
+All weight-4 errors detected by some orbit: NO
+Weight-4 error total (computed, not hard-coded): 81081
+
+Elapsed: 1800.83 s

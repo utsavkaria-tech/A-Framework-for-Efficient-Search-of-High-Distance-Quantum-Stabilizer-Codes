@@ -1,0 +1,17 @@
+INDEPENDENT VERIFICATION  (all 91770 weight-<=4 errors regenerated from scratch and
+ their syndromes recomputed by direct symplectic products, not by the algebraic score)
+
+  1. eight Stage-1 generators of weight exactly 10 : OK  (10 10 10 10 10 10 10 10 )
+  2. three Stage-2 generators of weight exactly 8 : OK  (8 8 8 )
+  3. all generator pairs commute                   : OK
+  4. rank of the stabilizer                        : 11 OK
+  5. |U_8| rebuilt by brute force                  : 218 OK (matches the algebraic score)
+  6. closed-form identity  sum P(wt)/256 == |U_8|  : OK
+  7. Stage-2 coverage recomputed independently     : 207 OK
+  8. final residual                                : 11
+
+Weight-4 errors total     : 81081
+Weight-4 errors detected  : 81074
+Weight-4 errors undetected: 7
+
+Detected by weight: w1=41/42  w2=818/819  w3=9826/9828  w4=81074/81081  

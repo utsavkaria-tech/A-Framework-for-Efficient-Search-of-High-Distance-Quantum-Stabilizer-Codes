@@ -1,0 +1,52 @@
+============================================================
+6-OPT SEARCH RESULT
+============================================================
+
+finished 2026-09-01 03:46:23 after 10h 51m 49s
+
+breadth: M1=64 M2=64 M3=64 M4=64  (0 = unlimited); last two always exhaustive
+outer blocks completed: 1792 / 1792
+prefixes examined: 470082124   leaves scored: 1177554678653   pruned: 140766651
+
+starting M_8 : 11181 / 11186
+best    M_8 : 11181 / 11186
+improvement : 0
+
+M_final = 91765 / 91770  (99.99455160 %)
+Weight-4 total: 81081
+Weight-4 detected: 81078
+Weight-4 undetected: 3
+
+Remaining undetected errors: 5
+
+Weight 1:
+  (none)
+
+Weight 2:
+  (none)
+
+Weight 3:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+
+Weight 4:
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+
+Residual weight distribution: 0 / 0 / 2 / 3  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): NO
+Residual F_2 span dimension: 5
+Generators:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIYXXIIXII = X_1 Y_6 X_7 X_8 X_11
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+All residual errors are X-only: NO
+Physical qubits involved: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+The configured (breadth-limited) 6-opt search found no improvement.  M_8 = 11181.
+This is NOT an exhaustive 6-opt result: with M1=64 M2=64 M3=64 M4=64 only part of
+the 6-opt neighbourhood was visited.  NO optimality claim of any kind.
+============================================================

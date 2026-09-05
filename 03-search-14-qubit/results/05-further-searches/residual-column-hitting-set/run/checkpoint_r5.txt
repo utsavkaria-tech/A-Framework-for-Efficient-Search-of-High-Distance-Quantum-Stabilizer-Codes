@@ -1,0 +1,15 @@
+# hitset14 checkpoint
+version 1
+timestamp 2026-09-01 13:00:26
+elapsed 2.86
+r 5
+subsets_done 691
+subsets 2002
+hitting 691
+feasible 691
+nodes 421211
+prune_rank 35294010
+prune_cross 558819616
+candidates 0
+verified 0
+solutions 0

@@ -1,0 +1,5285 @@
+class 0   |U_3| = 11186
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+  IIXXXXXXXXIIII   (weight 8)
+
+class 1   |U_3| = 11186
+  IIIXXIXXXXXXII   (weight 8)
+  IIIXIXXXZZIIXX   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 2   |U_3| = 11186
+  XXIIXXIIXXIIXX   (weight 8)
+  IIXXXXIIIIXXXX   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+
+class 3   |U_3| = 11186
+  IIIXIXIIXXXXXX   (weight 8)
+  IIXXIIXXXXZZII   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+
+class 4   |U_3| = 11186
+  IIXIXIXIXXXXIY   (weight 8)
+  IIIXXIIXXXZIXX   (weight 8)
+  IIIIIXXXXXIZZZ   (weight 8)
+
+class 5   |U_3| = 11186
+  IIIIXXXXXXIIYY   (weight 8)
+  IIIIXXZZIIXXXX   (weight 8)
+  IIIIXXIIZZZZZZ   (weight 8)
+
+class 6   |U_3| = 11186
+  IIIIXIXXXXXXIY   (weight 8)
+  IIIIIXXXZZZIXX   (weight 8)
+  IIIXXXXXIIIZZZ   (weight 8)
+
+class 7   |U_3| = 11186
+  IIIIIXXXXXIYXZ   (weight 8)
+  IIIIXXZZIIXXXX   (weight 8)
+  IIIIXXIIZZZZZZ   (weight 8)
+
+class 8   |U_3| = 11186
+  IIIXIXIXXXXIZX   (weight 8)
+  IIIXIIXXZZIXXZ   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 9   |U_3| = 11186
+  IXIXIIXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIIIXXXXXXXXII   (weight 8)
+
+class 10   |U_3| = 11206
+  IIIXIIXXXXIYXZ   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIXIXXIIYYZXYI   (weight 8)
+
+class 11   |U_3| = 11206
+  IXIIXXIIIXXXXX   (weight 8)
+  XXIIIIXXXXXXII   (weight 8)
+  IXXXIIXXXIIIYY   (weight 8)
+
+class 12   |U_3| = 11206
+  IIXXIIXXXXIIXX   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIIXXIIYYZZYY   (weight 8)
+
+class 13   |U_3| = 11206
+  IXIXXIIXXXXXII   (weight 8)
+  IXIIIXXXXXIIXX   (weight 8)
+  IXXIIXXIIIYYZZ   (weight 8)
+
+class 14   |U_3| = 11206
+  IIIXXXIIIXXXXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  XXXIIIXXXIIIXX   (weight 8)
+
+class 15   |U_3| = 11206
+  IIIXXIIXXXXXIY   (weight 8)
+  IIIIIXXXXXZIXX   (weight 8)
+  IXXIIXXIIIXYZX   (weight 8)
+
+class 16   |U_3| = 11206
+  IIIXIXXXXXIIYY   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIXIXIIIYYZZXX   (weight 8)
+
+class 17   |U_3| = 11206
+  IXIIXXIIXXXIZX   (weight 8)
+  IXIIIIXXXXIXXZ   (weight 8)
+  IXXXIIXXIIYZIY   (weight 8)
+
+class 18   |U_3| = 11226
+  IIXXXXIIIIYYYY   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+  IIIIIIZZZZXXXX   (weight 8)
+
+class 19   |U_3| = 11226
+  XXIXIIIXXXIIZZ   (weight 8)
+  IIIXXXXIIIXXYY   (weight 8)
+  XXXIXXXIIIZZII   (weight 8)
+
+class 20   |U_3| = 11226
+  IXIXIIIXXXIYXZ   (weight 8)
+  XIIXXXXIIIXZIY   (weight 8)
+  IXXIXXXIIIZXYI   (weight 8)
+
+class 21   |U_3| = 11226
+  IXIXIIXXXXIIYY   (weight 8)
+  XIIXXXIIIIXXZZ   (weight 8)
+  IXXIXXIIIIZZXX   (weight 8)
+
+class 22   |U_3| = 11226
+  IIIIXXIIYYXXZZ   (weight 8)
+  IIXXIIXXZZIIYY   (weight 8)
+  IIXXIIZZXXYYII   (weight 8)
+
+class 23   |U_3| = 11226
+  IXXIXXXXIIIIYY   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IXIXIIIIZZZZXX   (weight 8)
+
+class 24   |U_3| = 11226
+  IXXIIXXXIIIYXZ   (weight 8)
+  IIXXXIIIXXXZIY   (weight 8)
+  IXIXXIIIZZZXYI   (weight 8)
+
+class 25   |U_3| = 11226
+  IXXIIIXXIIXXZZ   (weight 8)
+  IIXXXXIIXXIIYY   (weight 8)
+  IXIXXXIIZZYYII   (weight 8)
+
+class 26   |U_3| = 11226
+  IIIXXXIIIYYYXZ   (weight 8)
+  IIXIIIXXXZZZIY   (weight 8)
+  IIXIIIZZZXXXYI   (weight 8)
+
+class 27   |U_3| = 11226
+  XXXXIIXXXXIIII   (weight 8)
+  IIXXXXIIIIXXXX   (weight 8)
+  XXIIXXIIIIZZZZ   (weight 8)
+
+class 28   |U_3| = 11246
+  IIXXIIIIYZZZYY   (weight 8)
+  XXIXIIIIXXXXIY   (weight 8)
+  IXIIXXXXYIIIXX   (weight 8)
+
+class 29   |U_3| = 11246
+  IXXIIIYZZZIIYY   (weight 8)
+  IIXIIIXXXXYYIY   (weight 8)
+  IIIXXXYIIIZZXX   (weight 8)
+
+class 30   |U_3| = 11246
+  IIIXXIIIZZYYYY   (weight 8)
+  XXXIXIIIXXIIYY   (weight 8)
+  IIXIIXXXIIXXXX   (weight 8)
+
+class 31   |U_3| = 11246
+  XXXXIIIIYYZZII   (weight 8)
+  IIXXIIIIXXXXYY   (weight 8)
+  IIIIXXXXYYIIZZ   (weight 8)
+
+class 32   |U_3| = 11246
+  IXXIIIIIYXXZZZ   (weight 8)
+  XIXIIIIIXYZXXX   (weight 8)
+  IIIXXXXXYYYIII   (weight 8)
+
+class 33   |U_3| = 11246
+  IXXXIIIIYXZZIY   (weight 8)
+  XIXXIIIIXYXXYI   (weight 8)
+  IIIIXXXXYYIIZX   (weight 8)
+
+class 34   |U_3| = 11246
+  IIXXIIZZIIYYYY   (weight 8)
+  IXIXIIXXYYIIYY   (weight 8)
+  IIIIXXIIZZXXXX   (weight 8)
+
+class 35   |U_3| = 11246
+  IIIIIXXIYYYYYY   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+  XXXXXXIIZZIIII   (weight 8)
+
+class 36   |U_3| = 11246
+  IXXIIIIIYYYYYY   (weight 8)
+  XXXXXXXXIIIIII   (weight 8)
+  XIXIIIIIXXXXXX   (weight 8)
+
+class 37   |U_3| = 11246
+  IIXXXXIIIIYYYY   (weight 8)
+  XXIIXXIIYYIIYY   (weight 8)
+  IIIIIIXXZZXXXX   (weight 8)
+
+class 38   |U_3| = 11246
+  IXIIIIYXZZZZIY   (weight 8)
+  IXIIIIXYXXXXYI   (weight 8)
+  IIXXXXYYIIIIZX   (weight 8)
+
+class 39   |U_3| = 11246
+  IXXXXXZIIIIIXX   (weight 8)
+  IXIIIIYXXXXXIY   (weight 8)
+  IXIIIIXYYYYYYI   (weight 8)
+
+class 40   |U_3| = 11246
+  IXXIIIIIZZZZXX   (weight 8)
+  IXIXXXZZIIIIYY   (weight 8)
+  IXXIIIYYYYYYII   (weight 8)
+
+class 41   |U_3| = 11246
+  IXXXXIIIYZIIYY   (weight 8)
+  XIIXXIIIXXYYIY   (weight 8)
+  IIIIIXXXYIZZXX   (weight 8)
+
+class 42   |U_3| = 11246
+  IXXIIIIIYYZZZZ   (weight 8)
+  XIXIIIIIXXXXXX   (weight 8)
+  XIIXXXXXYYIIII   (weight 8)
+
+class 43   |U_3| = 11246
+  IIIIIIYXXZZZZZ   (weight 8)
+  IIIIIIXYZXXXXX   (weight 8)
+  IXXXXXYYYIIIII   (weight 8)
+
+class 44   |U_3| = 11246
+  IIIIZZZZIIYYYY   (weight 8)
+  IIIIXXXXYYIIYY   (weight 8)
+  IIXXIIIIZZXXXX   (weight 8)
+
+class 45   |U_3| = 11248
+  IIIXXIXXXIIXZX   (weight 8)
+  IIIXIXXIIXXXXZ   (weight 8)
+  IIIXIXIYYZZYIY   (weight 8)
+
+class 46   |U_3| = 11248
+  IIXIXIIXXXXXIZ   (weight 8)
+  IIIIXXXIIYYYXY   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+
+class 47   |U_3| = 11248
+  IIXIIXXIIXXXXX   (weight 8)
+  IXXIIIIXXXXZIZ   (weight 8)
+  IIXXXIIXXIIXYY   (weight 8)
+
+class 48   |U_3| = 11248
+  IIIIXIXXXIYXZX   (weight 8)
+  IIIIIXXZIXXXXZ   (weight 8)
+  IIIXIXIXYZXYIY   (weight 8)
+
+class 49   |U_3| = 11248
+  IIIXIXIXXXXIYX   (weight 8)
+  IIXXIIXXXIIXXZ   (weight 8)
+  IIIXXIXIIYYZXY   (weight 8)
+
+class 50   |U_3| = 11248
+  IIIXIXXXXXIIYX   (weight 8)
+  IIIIXXXZIIXXXX   (weight 8)
+  IIIIXIIXYYZZXY   (weight 8)
+
+class 51   |U_3| = 11248
+  IIIXIXXXXXIIYX   (weight 8)
+  IIIXXIIYYYXXZI   (weight 8)
+  IIIXXXXIIIZZZZ   (weight 8)
+
+class 52   |U_3| = 11248
+  IXIXIXXIIXXXIX   (weight 8)
+  IIXXIIIXXXXIXX   (weight 8)
+  IXIXXIIXXIIYZY   (weight 8)
+
+class 53   |U_3| = 11248
+  IIIXXIIXXXXXIX   (weight 8)
+  IIIIIXXXXZZIXX   (weight 8)
+  IIXIIXXIIXXYZY   (weight 8)
+
+class 54   |U_3| = 11248
+  IIIIXXXIIYYXZX   (weight 8)
+  IIIIXIIXXXXXXZ   (weight 8)
+  IIIIIYYZZXXYIY   (weight 8)
+
+class 55   |U_3| = 11248
+  IIXIXIIXXXXXIZ   (weight 8)
+  IIXIIXXXXZIIXX   (weight 8)
+  IIXXIXXIIXYYZI   (weight 8)
+
+class 56   |U_3| = 11266
+  IIXIXXXXIIIYYY   (weight 8)
+  IXIIZYYYYYYIII   (weight 8)
+  IIIXYIIIXXXXXX   (weight 8)
+
+class 57   |U_3| = 11266
+  XXIIXXIIIIYYYY   (weight 8)
+  XXXXIIYYYYIIII   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+
+class 58   |U_3| = 11266
+  XIIXXIXXIIIYYY   (weight 8)
+  XXXIIIZYYYYIII   (weight 8)
+  IIIIIXYIXXXXXX   (weight 8)
+
+class 59   |U_3| = 11266
+  IXIXXXIIIIYYYY   (weight 8)
+  IXXIYYYYYYIIII   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+
+class 60   |U_3| = 11266
+  IIIXXIZZIIYYYY   (weight 8)
+  XXXXIIYYYYIIII   (weight 8)
+  IIXIIXIIZZXXXX   (weight 8)
+
+class 61   |U_3| = 11266
+  IIXXIIXXXXIIYY   (weight 8)
+  XXIIIIZZYYYYII   (weight 8)
+  IIIIXXYYIIXXXX   (weight 8)
+
+class 62   |U_3| = 11266
+  IIXXXXIIIIYYYY   (weight 8)
+  IIYYYYYYYYIIII   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+
+class 63   |U_3| = 11268
+  IIXXIIXXXXIIYX   (weight 8)
+  IIXXXXIIIYXXZI   (weight 8)
+  IXIIXXIIIXZZXY   (weight 8)
+
+class 64   |U_3| = 11268
+  IIIXXXXIIIXXXX   (weight 8)
+  IIXXXIIXXXZIIY   (weight 8)
+  IIIXXIIYYYXYYI   (weight 8)
+
+class 65   |U_3| = 11268
+  IXIXXIIIXXXXIX   (weight 8)
+  XIIXXXXXIIIXXI   (weight 8)
+  IXXIIXXXIIIYZY   (weight 8)
+
+class 66   |U_3| = 11268
+  IXIXIIXXXXIIYZ   (weight 8)
+  IIIXXXIIIXXXZY   (weight 8)
+  IXXIXXIIIYZZXI   (weight 8)
+
+class 67   |U_3| = 11268
+  IXIIXXXXXIIIXX   (weight 8)
+  IIIXXXIIIXXXZY   (weight 8)
+  IXXIXXIIIYYYXI   (weight 8)
+
+class 68   |U_3| = 11268
+  IIXIXXXXIIIYYX   (weight 8)
+  IIXXIIIXXXXZZI   (weight 8)
+  IIIXIIIYZZZXXY   (weight 8)
+
+class 69   |U_3| = 11268
+  IIXIXXXXXXIIIX   (weight 8)
+  IIIXXXXIIIXXXX   (weight 8)
+  IIIXIIIYYYZZZY   (weight 8)
+
+class 70   |U_3| = 11268
+  XIIXXIIIXXXXIZ   (weight 8)
+  IIIXXXXXIIIYXY   (weight 8)
+  XXXIIXXXIIIXZI   (weight 8)
+
+class 71   |U_3| = 11268
+  IIIXIXXIIYYXZX   (weight 8)
+  IIIXXIIXXZZIYY   (weight 8)
+  IIXIXIIZZXXYIY   (weight 8)
+
+class 72   |U_3| = 11268
+  IXIIXXIIXXXIYX   (weight 8)
+  XIIIXXXXIIIXZY   (weight 8)
+  IXXXIIXXIIIZXY   (weight 8)
+
+class 73   |U_3| = 11268
+  IXIXXIIXXIIXZX   (weight 8)
+  IIIXXXXIIXXIYY   (weight 8)
+  IXXIIXXIIZZYIY   (weight 8)
+
+class 74   |U_3| = 11268
+  IXXXIIXXXXIIIX   (weight 8)
+  IIXXXXIIIXXXXI   (weight 8)
+  IXIIXXIIIYZZZY   (weight 8)
+
+class 75   |U_3| = 11268
+  IIXIIXXXIIYXXZ   (weight 8)
+  IIXXXIIXXXZIIY   (weight 8)
+  IIIXXIIYZZXYYI   (weight 8)
+
+class 76   |U_3| = 11276
+  IIIXIXIXXXXXIX   (weight 8)
+  IIIXIIXXXZZIXX   (weight 8)
+  IIIIXXXXXIIZZZ   (weight 8)
+
+class 77   |U_3| = 11276
+  IIIIXIIXXXXXXX   (weight 8)
+  IIIIIXXXXZZZIZ   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+
+class 78   |U_3| = 11276
+  IIIIXIXXXXXXIX   (weight 8)
+  IIIIIXXZZZZIXX   (weight 8)
+  IIIIIXIXXXXYZY   (weight 8)
+
+class 79   |U_3| = 11276
+  IIXIXIXIIXXXXX   (weight 8)
+  IIIXXIIXXXXZIZ   (weight 8)
+  IIIIIXXXXXXIZZ   (weight 8)
+
+class 80   |U_3| = 11276
+  IIIIIXXXXXXIYX   (weight 8)
+  IIIIXXXZZIIXXZ   (weight 8)
+  IIIIXXXIIZZZZZ   (weight 8)
+
+class 81   |U_3| = 11276
+  IIIIIXXIYXZXXX   (weight 8)
+  IIIIIZIXXXXZZZ   (weight 8)
+  IIIIIIZZZZZZZZ   (weight 8)
+
+class 82   |U_3| = 11276
+  IIIIXIXXXXIXXX   (weight 8)
+  IIIIIXXZZIXXZZ   (weight 8)
+  IIIIXXXIIZZZZZ   (weight 8)
+
+class 83   |U_3| = 11276
+  IIIIXIXIXXXXXX   (weight 8)
+  IIIXXIIXXZIZZZ   (weight 8)
+  IIIIIXXXXIZZZZ   (weight 8)
+
+class 84   |U_3| = 11276
+  IIIIXIXXXXIXXX   (weight 8)
+  IIIIIXXZZIXXXX   (weight 8)
+  IIIIXXXIIZZZZZ   (weight 8)
+
+class 85   |U_3| = 11276
+  IIIIXIXIXXXZZX   (weight 8)
+  IIIXXIIXXZIXXZ   (weight 8)
+  IIIIIXXXXIZZZZ   (weight 8)
+
+class 86   |U_3| = 11276
+  IIIXXXIIXXXXIX   (weight 8)
+  IIIXIIXXXZZIXX   (weight 8)
+  IIIIXXXXXIIZZZ   (weight 8)
+
+class 87   |U_3| = 11276
+  IIIXXIXXIIXXXX   (weight 8)
+  IIXXXIIIXXXZIZ   (weight 8)
+  IIIIIXXXXXXIZZ   (weight 8)
+
+class 88   |U_3| = 11276
+  IIIIXXIXXIYXZX   (weight 8)
+  IIIIXIXZIXXXXZ   (weight 8)
+  IIIIIXXIZZZZZZ   (weight 8)
+
+class 89   |U_3| = 11288
+  IXXXXIIIIYYYZI   (weight 8)
+  XIIXXIIIIXXXXY   (weight 8)
+  IIIIIXXXXYYYIZ   (weight 8)
+
+class 90   |U_3| = 11288
+  XIXIIXXXXXIIIZ   (weight 8)
+  IIXXXIIIIYXXXY   (weight 8)
+  XXIXXIIIIXZZZI   (weight 8)
+
+class 91   |U_3| = 11288
+  IXIXXXXXIIIIYX   (weight 8)
+  IXXIIIIYXXXXZI   (weight 8)
+  IIXIIIIXZZZZXY   (weight 8)
+
+class 92   |U_3| = 11288
+  IIXXXIIIIYXZZY   (weight 8)
+  XXIXXIIIIXZXXI   (weight 8)
+  IXIIIXXXXYYIIX   (weight 8)
+
+class 93   |U_3| = 11288
+  IIXIIXZZZIIYYY   (weight 8)
+  IIXIIZXXXYYIIY   (weight 8)
+  IIIXXYIIIZZXXX   (weight 8)
+
+class 94   |U_3| = 11288
+  IIIXXIIIYYYZZX   (weight 8)
+  IIXIIZZZXXXIIY   (weight 8)
+  IIIIIYYYYYYYYI   (weight 8)
+
+class 95   |U_3| = 11288
+  XIIXXXIIIZZIYY   (weight 8)
+  IXXIXXIIIXXYIY   (weight 8)
+  XIXIIIXXXIIZXX   (weight 8)
+
+class 96   |U_3| = 11288
+  IIXXXXIIIXXIYY   (weight 8)
+  XXIIXXIIIZZYIY   (weight 8)
+  IIIIIIXXXYYZXX   (weight 8)
+
+class 97   |U_3| = 11288
+  IXXIIIXIIXZZZX   (weight 8)
+  IXIXXXIZZYIIIY   (weight 8)
+  IXXIIIIYYYYYYI   (weight 8)
+
+class 98   |U_3| = 11288
+  IIXXXXIIIIYYYY   (weight 8)
+  IXIXXXIYYYIIIY   (weight 8)
+  IIIIIIXZZZXXXX   (weight 8)
+
+class 99   |U_3| = 11288
+  IIIXXXIIIXZYYY   (weight 8)
+  XXXIXXIIIZXIIY   (weight 8)
+  IIXIIIXXXYIXXX   (weight 8)
+
+class 100   |U_3| = 11288
+  XXIXIIXXXIIIYX   (weight 8)
+  IIIXXXIIIXXXZY   (weight 8)
+  XXXXIIIIIYYYYI   (weight 8)
+
+class 101   |U_3| = 11288
+  IXXIIXXIIIYZZX   (weight 8)
+  IXIXXIIZZZXIIY   (weight 8)
+  IXXIIIIYYYYYYI   (weight 8)
+
+class 102   |U_3| = 11288
+  IIIIIXXZZZZIYY   (weight 8)
+  IIIIIZZXXXXYIY   (weight 8)
+  IIXXXYYIIIIZXX   (weight 8)
+
+class 103   |U_3| = 11288
+  IIXXXIIXZIIYYY   (weight 8)
+  IXIXXIIZXYYIIY   (weight 8)
+  IIIIIXXYIZZXXX   (weight 8)
+
+class 104   |U_3| = 11288
+  XXXIIIXXXXIIIZ   (weight 8)
+  XIIXXXIIIXZZZI   (weight 8)
+  XXXIIIIIIZYYYY   (weight 8)
+
+class 105   |U_3| = 11288
+  IXXXXXIIIYXIIY   (weight 8)
+  XIIXXXIIIXZYYI   (weight 8)
+  IIIIIIXXXYYZZX   (weight 8)
+
+class 106   |U_3| = 11288
+  IXXIXXXIIIIXZX   (weight 8)
+  IIXXIIIXXXXIYY   (weight 8)
+  IXIXIIIZZZZYIY   (weight 8)
+
+class 107   |U_3| = 11288
+  IIXXIIIXXZZIYY   (weight 8)
+  IXIXIIIZZXXYIY   (weight 8)
+  IIIIXXXYYIIZXX   (weight 8)
+
+class 108   |U_3| = 11288
+  XIIXXIIIIXZZZY   (weight 8)
+  IXXIXIIIIZXXXY   (weight 8)
+  XIXIIXXXXYIIIX   (weight 8)
+
+class 109   |U_3| = 11288
+  IXXXIIIYXZZIIY   (weight 8)
+  IIXXIIIXZXXYYI   (weight 8)
+  IIIIXXXYYIIZZX   (weight 8)
+
+class 110   |U_3| = 11288
+  IXXXXIIIIYXXZI   (weight 8)
+  XIIXXIIIIXZZXY   (weight 8)
+  IIIIIXXXXYYYIZ   (weight 8)
+
+class 111   |U_3| = 11288
+  IXXIIIIYXXZZZI   (weight 8)
+  IIXIIIIXZZXXXY   (weight 8)
+  IIIXXXXYYYIIIZ   (weight 8)
+
+class 112   |U_3| = 11288
+  IXIIXXXXIIIYYZ   (weight 8)
+  IIXXIIIXZZZXXI   (weight 8)
+  IXIIIIIZYYYYYY   (weight 8)
+
+class 113   |U_3| = 11288
+  IXIIXXXXIIIXXZ   (weight 8)
+  IXXXIIIYXXXIIY   (weight 8)
+  IIXXIIIXZZZYYI   (weight 8)
+
+class 114   |U_3| = 11288
+  IIXXXXIIIYZIYY   (weight 8)
+  XXIXXXIIIXXYII   (weight 8)
+  IXIIIIXXXYIZXX   (weight 8)
+
+class 115   |U_3| = 11288
+  IXXIIIIYYYYYZI   (weight 8)
+  IXXXXXXIIIIIZZ   (weight 8)
+  IIXIIIIXXXXXXY   (weight 8)
+
+class 116   |U_3| = 11288
+  IXXIIIIYYYZZZI   (weight 8)
+  IIXIIIIXXXXXXY   (weight 8)
+  IIIXXXXYYYIIIZ   (weight 8)
+
+class 117   |U_3| = 11296
+  IXIXXXIIIXXXIX   (weight 8)
+  IXIIIIXXXXXIXX   (weight 8)
+  IXXIIIXXXIIYZY   (weight 8)
+
+class 118   |U_3| = 11296
+  IXIIXXIIXXXXIX   (weight 8)
+  IXIIIIXXXXXIXX   (weight 8)
+  IXXXIIXXIIIYZY   (weight 8)
+
+class 119   |U_3| = 11296
+  IIIXXIIIXXXXXX   (weight 8)
+  IIIIIXXXXXXZIZ   (weight 8)
+  IXXIIXXXIIIXYY   (weight 8)
+
+class 120   |U_3| = 11296
+  IIIXIIXXXXXIYX   (weight 8)
+  IIIIXXXXXIIXXZ   (weight 8)
+  IIXIXXIIIYYZXY   (weight 8)
+
+class 121   |U_3| = 11296
+  IIXIIIXXXXXXIX   (weight 8)
+  IIIXXXXXXIIIXX   (weight 8)
+  IIIXXXIIIYYYZY   (weight 8)
+
+class 122   |U_3| = 11296
+  IIIXXIIXXXIXXX   (weight 8)
+  IIIIIXXXXIXXZZ   (weight 8)
+  IIXIIXXIIYZYYY   (weight 8)
+
+class 123   |U_3| = 11296
+  IIIXXIIXXXIXXX   (weight 8)
+  IIIIIXXXXIXXXX   (weight 8)
+  IIXIIXXIIYZYYY   (weight 8)
+
+class 124   |U_3| = 11308
+  XIIXXXIXZIIIYY   (weight 8)
+  XXXIIIIZYYYYII   (weight 8)
+  IIIIIIXYYXXXXX   (weight 8)
+
+class 125   |U_3| = 11308
+  XXXIIIXXIIIZZZ   (weight 8)
+  XIIXXXIXZZZIII   (weight 8)
+  IIIIIIXYYYYXXX   (weight 8)
+
+class 126   |U_3| = 11308
+  IXIXXZXIIIIYYY   (weight 8)
+  IXXIIYYYYYYIII   (weight 8)
+  IIIIIYIXXXXXXX   (weight 8)
+
+class 127   |U_3| = 11308
+  XXIIXXIYIIIYYY   (weight 8)
+  XXXXIIIYYYYIII   (weight 8)
+  IIIIIIXZXXXXXX   (weight 8)
+
+class 128   |U_3| = 11308
+  IIXXIIIXXXXYIY   (weight 8)
+  XXIIIIIZZYYYYI   (weight 8)
+  IIIIXXXYYIIZXX   (weight 8)
+
+class 129   |U_3| = 11308
+  IXIXIXXYIIIYYY   (weight 8)
+  IXXIIYYYYYYIII   (weight 8)
+  IIIIXIIZXXXXXX   (weight 8)
+
+class 130   |U_3| = 11308
+  XIXXIIIXYXXIIY   (weight 8)
+  XXIIIIIZZYYYYI   (weight 8)
+  IIIIXXXYYIIXXX   (weight 8)
+
+class 131   |U_3| = 11308
+  IIIXXIIZZIYYYY   (weight 8)
+  XXXXIIIYYYYIII   (weight 8)
+  IIXIIXXIIZXXXX   (weight 8)
+
+class 132   |U_3| = 11308
+  IIXXIIIYZZZIYY   (weight 8)
+  XXXIIIIZYYYYII   (weight 8)
+  IXIIXXXYIIIZXX   (weight 8)
+
+class 133   |U_3| = 11308
+  XIXXXXIXYIIIIY   (weight 8)
+  XXIIIIIZZYYYYI   (weight 8)
+  IIIIIIXYYXXXXX   (weight 8)
+
+class 134   |U_3| = 11308
+  IIIXXXXYIIIYYY   (weight 8)
+  IIIYYYYYYYYIII   (weight 8)
+  IIXIIIIZXXXXXX   (weight 8)
+
+class 135   |U_3| = 11308
+  IXXIIYZZZIIIYY   (weight 8)
+  IXIIIZYYYYYYII   (weight 8)
+  IIIXXYIIIZZZXX   (weight 8)
+
+class 136   |U_3| = 11308
+  IIXIIXXXXYIIYY   (weight 8)
+  IXIIIZYYYYYYII   (weight 8)
+  IIIXXYIIIZXXXX   (weight 8)
+
+class 137   |U_3| = 11308
+  XIIXXIIXXYIIYY   (weight 8)
+  XXXIIIIZYYYYII   (weight 8)
+  IIIIIXXYIZXXXX   (weight 8)
+
+class 138   |U_3| = 11308
+  IXXXXIIYZIIIYY   (weight 8)
+  XXXIIIIZYYYYII   (weight 8)
+  IIIIIXXYIZZZXX   (weight 8)
+
+class 139   |U_3| = 11308
+  IIIIXXIYZIYYYY   (weight 8)
+  XXXXXIIZYYIIII   (weight 8)
+  IIIXIIXYIZXXXX   (weight 8)
+
+class 140   |U_3| = 11308
+  XIXXXXXZIIIIIZ   (weight 8)
+  XXIIIIIZZZZZZI   (weight 8)
+  IIIIIIXYYYYYYX   (weight 8)
+
+class 141   |U_3| = 11308
+  IXXIIIIXXYXXXI   (weight 8)
+  XIIIIIIZZZYYYY   (weight 8)
+  IIIXXXXYYYIIIX   (weight 8)
+
+class 142   |U_3| = 11308
+  IXXXXZIIIIIXXZ   (weight 8)
+  IXIIIXYYYYYIIY   (weight 8)
+  IIIIIZZZZZZYYI   (weight 8)
+
+class 143   |U_3| = 11308
+  IXIIIXYXXXXIIY   (weight 8)
+  IIIIIZZYYYYYYI   (weight 8)
+  IIXXXYYIIIIXXX   (weight 8)
+
+class 144   |U_3| = 11310
+  IIXXIIXXXXIIXZ   (weight 8)
+  IIIXXXIIYXXXIY   (weight 8)
+  IIXIXXIIXYZZYI   (weight 8)
+
+class 145   |U_3| = 11310
+  IIXXIIXXIIXXXX   (weight 8)
+  XXIIIIXXXXIIYY   (weight 8)
+  IIXXXXIIXXIIYY   (weight 8)
+
+class 146   |U_3| = 11310
+  IIIXIXIXIYXZXX   (weight 8)
+  IIXIIXXIXZIYYY   (weight 8)
+  IIIXXIXIZXYIYY   (weight 8)
+
+class 147   |U_3| = 11310
+  XIXXIXXIIXXXII   (weight 8)
+  XXIIIXXXXIIIXX   (weight 8)
+  XIXXXIIXXIIIZZ   (weight 8)
+
+class 148   |U_3| = 11310
+  IXIXXIIXXXXXII   (weight 8)
+  IIIXXXXIIIYYXX   (weight 8)
+  IXXIIXXIIIXXZZ   (weight 8)
+
+class 149   |U_3| = 11310
+  IIIXXXXIIIYYYY   (weight 8)
+  IIXXXXXXXXIIII   (weight 8)
+  IXXIIXXIIIXXXX   (weight 8)
+
+class 150   |U_3| = 11310
+  IIIXXIXXIIZZXX   (weight 8)
+  IIIXIXIIXXXXZZ   (weight 8)
+  IIIXIXYYZZIIYY   (weight 8)
+
+class 151   |U_3| = 11310
+  IIIXXIIIXXZZXX   (weight 8)
+  IIIIXXXXIIYYYY   (weight 8)
+  IIIXIXZZYYIIYY   (weight 8)
+
+class 152   |U_3| = 11310
+  IIIXIIXXXXIYXZ   (weight 8)
+  IIIXXXIIYYXZIY   (weight 8)
+  IIXIXXIIXXZXYI   (weight 8)
+
+class 153   |U_3| = 11310
+  IIXIXIIXXXXXIY   (weight 8)
+  IXIIXXXIIIYXXZ   (weight 8)
+  IIXXIXXIIIXYZX   (weight 8)
+
+class 154   |U_3| = 11310
+  IIIIIIYYXXZZXX   (weight 8)
+  IIIIXXZZIIYYYY   (weight 8)
+  IIIIZZXXYYIIYY   (weight 8)
+
+class 155   |U_3| = 11310
+  IXXXIIIXXXIIZZ   (weight 8)
+  IXIIIXXXIIXXYY   (weight 8)
+  IIXXXIIXIIYYYY   (weight 8)
+
+class 156   |U_3| = 11310
+  IIIXXIYYYZIIYY   (weight 8)
+  IIIXXXIIIZZZZZ   (weight 8)
+  IIIIXIXXXXYYIY   (weight 8)
+
+class 157   |U_3| = 11310
+  IIIXIXXIIYXXZX   (weight 8)
+  IIIXXIYXXZIIYY   (weight 8)
+  IIIIXIXZZXYYIY   (weight 8)
+
+class 158   |U_3| = 11310
+  IIXXIXXXXXIIIY   (weight 8)
+  IIIXXIIIYXXXXZ   (weight 8)
+  IIXIXIIIXYZZZX   (weight 8)
+
+class 159   |U_3| = 11310
+  IIXXIXXIXXIIXX   (weight 8)
+  IXIIIXXXIIXXYY   (weight 8)
+  IIXXXIIXIIZZYY   (weight 8)
+
+class 160   |U_3| = 11310
+  IIXXIXIXXXIIZZ   (weight 8)
+  IIIIIXXIYYXXYY   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 161   |U_3| = 11310
+  IIIIIXXIYYYYYY   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+  IIXXXIXIXXIIYY   (weight 8)
+
+class 162   |U_3| = 11310
+  IIIXXXZZZIIIXX   (weight 8)
+  IIIXIIYYYXXXIY   (weight 8)
+  IIIXXXIIIZZZZZ   (weight 8)
+
+class 163   |U_3| = 11310
+  IIIXXXZIIIXXXX   (weight 8)
+  IIIXIIYXXXZZIY   (weight 8)
+  IIIXIIXYYYXXYI   (weight 8)
+
+class 164   |U_3| = 11310
+  IIXXXXIIYYYYII   (weight 8)
+  IIXXXXXXIIIIZZ   (weight 8)
+  IIIIXXIIXXXXYY   (weight 8)
+
+class 165   |U_3| = 11310
+  IIIIXXXXIIYYXZ   (weight 8)
+  IIIXIIYXXXZZIY   (weight 8)
+  IIIXIIXYZZXXYI   (weight 8)
+
+class 166   |U_3| = 11310
+  IIIXXIIIYYYYZZ   (weight 8)
+  IIXXXXXXIIIIZZ   (weight 8)
+  IIXIXIIIXXXXXX   (weight 8)
+
+class 167   |U_3| = 11310
+  IIIXIXXXXXIIYY   (weight 8)
+  IIIXXIIIYYXXZZ   (weight 8)
+  IIXIXIIIXXZZXX   (weight 8)
+
+class 168   |U_3| = 11310
+  IXIXIXIIXXIYXZ   (weight 8)
+  IXXIIXXXIIXZIY   (weight 8)
+  IXIXXIXXIIZXYI   (weight 8)
+
+class 169   |U_3| = 11310
+  IIXXIIXXXXIIXX   (weight 8)
+  IIXXXXIIYYXXII   (weight 8)
+  IIIIXXIIXXZZYY   (weight 8)
+
+class 170   |U_3| = 11310
+  IIXIXXIIXXXIXX   (weight 8)
+  IXIIXXXXIIYXIY   (weight 8)
+  IIXXIIXXIIXZYY   (weight 8)
+
+class 171   |U_3| = 11310
+  IIIXXXXXIIIYYY   (weight 8)
+  IIIIIIYXXXXZZZ   (weight 8)
+  IIIIIIXYZZZXXX   (weight 8)
+
+class 172   |U_3| = 11310
+  IIIIXXIIYYYZYY   (weight 8)
+  IIIXXXXXIIIZZZ   (weight 8)
+  IIXXIXIIXXXXIY   (weight 8)
+
+class 173   |U_3| = 11310
+  IIXIXIXXXIIYZX   (weight 8)
+  IIIIXXIIYXXZYY   (weight 8)
+  IIXXIXIIXZZXIY   (weight 8)
+
+class 174   |U_3| = 11310
+  IXIXIXIXXXIIYY   (weight 8)
+  IXXIIXXIIIXXZZ   (weight 8)
+  IXIXXIXIIIZZXX   (weight 8)
+
+class 175   |U_3| = 11310
+  IIXXIXIXIIZZXX   (weight 8)
+  IIIIIXXIXXYYYY   (weight 8)
+  IIXXXIXIZZIIYY   (weight 8)
+
+class 176   |U_3| = 11310
+  IXIIXXIIIXXXXX   (weight 8)
+  XIIIXXXXXIIIYY   (weight 8)
+  IXXXIIXXXIIIXX   (weight 8)
+
+class 177   |U_3| = 11310
+  IIXIXXXXZIIIXX   (weight 8)
+  IIIXXXIIYXXXIY   (weight 8)
+  IIXIXXIIXYYYYI   (weight 8)
+
+class 178   |U_3| = 11316
+  IIIIXXXIIYYXZX   (weight 8)
+  IIXXIIIXXZZIYY   (weight 8)
+  IIXXIIIZZXXYIY   (weight 8)
+
+class 179   |U_3| = 11316
+  IXXIIIXXXIIXZX   (weight 8)
+  IIXXXXIIIXXIYY   (weight 8)
+  IXIXXXIIIZZYIY   (weight 8)
+
+class 180   |U_3| = 11316
+  IXXIIXXXXIIIYX   (weight 8)
+  IIXXXIIIIXXXZY   (weight 8)
+  IXIXXIIIIZZZXY   (weight 8)
+
+class 181   |U_3| = 11316
+  IXIIIXXXXXIIYX   (weight 8)
+  IXXXXIIIIYXXZI   (weight 8)
+  IIXXXIIIIXZZXY   (weight 8)
+
+class 182   |U_3| = 11316
+  IIXXXIIIXXXXIX   (weight 8)
+  IIIIIXXXXXXIXX   (weight 8)
+  XXIIIXXXIIIYZY   (weight 8)
+
+class 183   |U_3| = 11316
+  XIXIIIIXXXXXIZ   (weight 8)
+  IIXXXXXIIIIYXY   (weight 8)
+  XXIXXXXIIIIXZI   (weight 8)
+
+class 184   |U_3| = 11316
+  IXIXIIIXXXXIYX   (weight 8)
+  XIIXXXXIIIIXZY   (weight 8)
+  IXXIXXXIIIIZXY   (weight 8)
+
+class 185   |U_3| = 11316
+  IIIXXXXIIIYYYX   (weight 8)
+  IIXIIIIXXXZZZY   (weight 8)
+  IIXIIIIZZZXXXY   (weight 8)
+
+class 186   |U_3| = 11330
+  IIXXXXIIXXIIYY   (weight 8)
+  IXIXXXIIYYYYII   (weight 8)
+  IIIIIIXXYYZZXX   (weight 8)
+
+class 187   |U_3| = 11330
+  IIIXXXXIIIYYYY   (weight 8)
+  IIXXXXXXXXIIII   (weight 8)
+  XXXXIIIIIIZZZZ   (weight 8)
+
+class 188   |U_3| = 11330
+  IIXXXXIIIIXXXX   (weight 8)
+  IIXXIIXXXXZZII   (weight 8)
+  IIIIIIZZZZYYYY   (weight 8)
+
+class 189   |U_3| = 11330
+  IXXXXIIIYXXZII   (weight 8)
+  IIIXXIIIXYZXYY   (weight 8)
+  IIIIIXXXYYYIZZ   (weight 8)
+
+class 190   |U_3| = 11330
+  IIIXXIZZIIYYYY   (weight 8)
+  IIXIXIXXYYIIYY   (weight 8)
+  IIXIIXIIZZXXXX   (weight 8)
+
+class 191   |U_3| = 11330
+  XXIIXXIIXXIIZZ   (weight 8)
+  IIIIXXXXIIXXYY   (weight 8)
+  XXXXIIXXIIZZII   (weight 8)
+
+class 192   |U_3| = 11330
+  IIIIXXXXIIYYYY   (weight 8)
+  XXXXIIXXIIIIYY   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+
+class 193   |U_3| = 11330
+  IXIIXXXXIIIXXZ   (weight 8)
+  IIIXXXIIXXXZIY   (weight 8)
+  IXXXIIIIZZZYYI   (weight 8)
+
+class 194   |U_3| = 11330
+  IIIXXXIIXZIYYY   (weight 8)
+  IXXIXXIIYXYIIY   (weight 8)
+  IIXIIIXXYIZXXX   (weight 8)
+
+class 195   |U_3| = 11330
+  XIIXXXXXIIIIYY   (weight 8)
+  IXXIIIXXIIYYYY   (weight 8)
+  XIXIIIIIXXZZXX   (weight 8)
+
+class 196   |U_3| = 11330
+  IXIXXXIIXXIIXX   (weight 8)
+  XIIXXXXXIIXXII   (weight 8)
+  IXXIIIXXIIZZYY   (weight 8)
+
+class 197   |U_3| = 11330
+  IXXIIIXXXXIIZZ   (weight 8)
+  IXIXXXIIYYZZII   (weight 8)
+  IXXIIIIIZZYYYY   (weight 8)
+
+class 198   |U_3| = 11330
+  IIXIXXXXXIIIZX   (weight 8)
+  IIIXXXIIIXXXXZ   (weight 8)
+  IIIXIIYYYZZZIY   (weight 8)
+
+class 199   |U_3| = 11330
+  IIXIXXXIIIYYZX   (weight 8)
+  IIIXIIYZZZXXIY   (weight 8)
+  IIXIIIZYYYYYYI   (weight 8)
+
+class 200   |U_3| = 11330
+  IXXIIXXXXXIIIY   (weight 8)
+  IIIXXIIIXYZZZX   (weight 8)
+  IXXIIIIIZZYYYY   (weight 8)
+
+class 201   |U_3| = 11330
+  IIXIXXXIIIXXZX   (weight 8)
+  IIXXIIXXXXIIYY   (weight 8)
+  IIIXIIYZZZYYIY   (weight 8)
+
+class 202   |U_3| = 11330
+  IIXXXXIIIIXXXX   (weight 8)
+  IIXIIIXXXXXZIY   (weight 8)
+  IIXIIIYYYYZXYI   (weight 8)
+
+class 203   |U_3| = 11330
+  IIXXIIXXZZIIYY   (weight 8)
+  IIIXIIYZXXYYIY   (weight 8)
+  IIIIXXYYIIZZXX   (weight 8)
+
+class 204   |U_3| = 11330
+  IIXXXIIIXXXZIY   (weight 8)
+  IXIXXIIIYYZXYI   (weight 8)
+  IIIIIXXXYYYIZX   (weight 8)
+
+class 205   |U_3| = 11330
+  IXIXXIIXIIXXZZ   (weight 8)
+  IIIXXXXIXXIIYY   (weight 8)
+  IXXIIXXIZZYYII   (weight 8)
+
+class 206   |U_3| = 11330
+  XXIIIIXXXXIIZZ   (weight 8)
+  IXXIIIXXIIYYYY   (weight 8)
+  XXXXXXIIIIZZII   (weight 8)
+
+class 207   |U_3| = 11330
+  XXIIIIXXXXIIXX   (weight 8)
+  XIIXXXXXIIXXII   (weight 8)
+  IXXIIIXXIIYYYY   (weight 8)
+
+class 208   |U_3| = 11330
+  IXIXIXXXXIIIZX   (weight 8)
+  IIIXXIIIXXXXYY   (weight 8)
+  IXXIXIIIYZZZIY   (weight 8)
+
+class 209   |U_3| = 11330
+  IIIXXIIIXXZZYY   (weight 8)
+  IXXIXIIIYZXXIY   (weight 8)
+  IIXIIXXXYYIIXX   (weight 8)
+
+class 210   |U_3| = 11330
+  IIXXXXIIIIXXXX   (weight 8)
+  XXIIXXIIIIYYZZ   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+
+class 211   |U_3| = 11330
+  IXXXIIXXXIIIZX   (weight 8)
+  IXIIXXIIYZZZIY   (weight 8)
+  IXXXIIIIZYYYYI   (weight 8)
+
+class 212   |U_3| = 11330
+  IIXXXXIIXXIIYY   (weight 8)
+  IXIIXXIIYZYYIY   (weight 8)
+  IIIIIIXXYYZZXX   (weight 8)
+
+class 213   |U_3| = 11330
+  IXIIXXIIXXIYXZ   (weight 8)
+  XIIIXXXXIIXZIY   (weight 8)
+  IXXXIIXXIIZXYI   (weight 8)
+
+class 214   |U_3| = 11330
+  IIIXXXXIIIXXYY   (weight 8)
+  XXXIIXXIIIYZIY   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 215   |U_3| = 11330
+  IXXIXXXXXXIIII   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+  IXIXIIIIYYZZZZ   (weight 8)
+
+class 216   |U_3| = 11330
+  IIXXIIIIXXXXZZ   (weight 8)
+  IXIXIIIIYYZZXX   (weight 8)
+  IIIIXXXXYYYYII   (weight 8)
+
+class 217   |U_3| = 11330
+  IIIIIIXXXXZZZZ   (weight 8)
+  IIIIIIYYZZXXXX   (weight 8)
+  IIXXXXYYYYIIII   (weight 8)
+
+class 218   |U_3| = 11330
+  XXIIXXXXXXIIII   (weight 8)
+  XIIXXXIIIIXXXX   (weight 8)
+  IXXIXXIIIIYYYY   (weight 8)
+
+class 219   |U_3| = 11330
+  IIXIIIXXXZZZIY   (weight 8)
+  IIXIIIYYZXXXYI   (weight 8)
+  IIIXXXYYYIIIZX   (weight 8)
+
+class 220   |U_3| = 11330
+  IXXIIIXXXXXXII   (weight 8)
+  IXIXXXXXIIIIXX   (weight 8)
+  IXXIIIIIZZZZYY   (weight 8)
+
+class 221   |U_3| = 11330
+  IXIXXXXXIIIIXX   (weight 8)
+  IIXXXXIIXXXXII   (weight 8)
+  IXXIIIIIZZZZYY   (weight 8)
+
+class 222   |U_3| = 11330
+  IIXXXXIIYZIIYY   (weight 8)
+  IXIIXXIIXXYYIY   (weight 8)
+  IXIIIIXXYIZZXX   (weight 8)
+
+class 223   |U_3| = 11330
+  IXIXXXXXIIIIXX   (weight 8)
+  IXIXXXIIYYYYII   (weight 8)
+  IXXIIIIIZZZZYY   (weight 8)
+
+class 224   |U_3| = 11330
+  XIIXXXIIIIXXZZ   (weight 8)
+  IXXIXXIIIIYYXX   (weight 8)
+  XIXIIIXXXXYYII   (weight 8)
+
+class 225   |U_3| = 11330
+  IIIXXXXIIIXXYY   (weight 8)
+  XXXIXXXIIIYYII   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 226   |U_3| = 11330
+  IXXIIIXXXXIIXX   (weight 8)
+  IIXXXXIIXXXXII   (weight 8)
+  IXXIIIIIZZYYYY   (weight 8)
+
+class 227   |U_3| = 11330
+  IIXXIIXXZZIIYY   (weight 8)
+  IIXXIIYYXXYYII   (weight 8)
+  IIIIXXYYIIZZXX   (weight 8)
+
+class 228   |U_3| = 11330
+  IIXXXXIIIIXXXX   (weight 8)
+  IIXXIIXXXXIIYY   (weight 8)
+  IIXXIIYYYYYYII   (weight 8)
+
+class 229   |U_3| = 11330
+  XXIIXXXXXXIIII   (weight 8)
+  IIIXXXXIIIXXXX   (weight 8)
+  XXXXIIIIIIZZZZ   (weight 8)
+
+class 230   |U_3| = 11330
+  IIIXXXXIIIYYYY   (weight 8)
+  XXXIXXXIIIXXII   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 231   |U_3| = 11330
+  IIIXXXXXZIIIXX   (weight 8)
+  IIXXXIIIYXXXIY   (weight 8)
+  IXIXXIIIXYYYYI   (weight 8)
+
+class 232   |U_3| = 11330
+  IIXXXIIIYXZZIY   (weight 8)
+  IXIXXIIIXYXXYI   (weight 8)
+  IXIIIXXXYYIIZX   (weight 8)
+
+class 233   |U_3| = 11330
+  XIIXXXXIIIXZIY   (weight 8)
+  IXXIIXXIIIYXYY   (weight 8)
+  XIXIIIIXXXYIZX   (weight 8)
+
+class 234   |U_3| = 11330
+  IIXXIIIIYXXZZZ   (weight 8)
+  IXIXIIIIXYZXXX   (weight 8)
+  IXIIXXXXYYYIII   (weight 8)
+
+class 235   |U_3| = 11330
+  IIXXXXIIIIXXXX   (weight 8)
+  IIXXIIYYYYXXII   (weight 8)
+  IIIIIIZZZZYYYY   (weight 8)
+
+class 236   |U_3| = 11330
+  IIXXXXIIIIYXXZ   (weight 8)
+  XXIIXXIIIIXYZX   (weight 8)
+  IXIIIIXXXXYYYI   (weight 8)
+
+class 237   |U_3| = 11330
+  IIIXXXXIIIYZYY   (weight 8)
+  XXXIIXXIIIXXIY   (weight 8)
+  IXXIIIIXXXYIXX   (weight 8)
+
+class 238   |U_3| = 11330
+  IIIXXXXIIIYYYY   (weight 8)
+  IXXIIXXIYYIIYY   (weight 8)
+  IIXIIIIXZZXXXX   (weight 8)
+
+class 239   |U_3| = 11330
+  IXXXXXXIIIYYII   (weight 8)
+  XIIIXXXIIIXXYY   (weight 8)
+  XIIIIIIXXXYYZZ   (weight 8)
+
+class 240   |U_3| = 11330
+  IXIXXIIXIIZZXX   (weight 8)
+  IXXIIXXIZZIIYY   (weight 8)
+  IXXXXIIIYYYYII   (weight 8)
+
+class 241   |U_3| = 11330
+  IIXXXXXIIIYXIY   (weight 8)
+  XXIIXXXIIIXYYI   (weight 8)
+  IXIIIIIXXXYYZX   (weight 8)
+
+class 242   |U_3| = 11330
+  IIXXXXIIIIYYZZ   (weight 8)
+  XXIIXXIIIIXXXX   (weight 8)
+  XXIIIIXXXXYYII   (weight 8)
+
+class 243   |U_3| = 11330
+  IXIXXIIXIIXXXX   (weight 8)
+  IIIXXXXIXXIIYY   (weight 8)
+  IXXXXIIIYYYYII   (weight 8)
+
+class 244   |U_3| = 11330
+  IIIXIXIIYYXXZZ   (weight 8)
+  IIIXXIXXZZIIYY   (weight 8)
+  IIXIXIZZXXYYII   (weight 8)
+
+class 245   |U_3| = 11336
+  IIIIIZZZZIYYYY   (weight 8)
+  IIIIIXXXXYIYYY   (weight 8)
+  IIXXXIIIIZXXXX   (weight 8)
+
+class 246   |U_3| = 11336
+  XIIXXIIIIXXYYY   (weight 8)
+  XXXIIIIIIZYYYY   (weight 8)
+  IIIIIXXXXYIZZZ   (weight 8)
+
+class 247   |U_3| = 11336
+  XXXIIIIIXXIZZZ   (weight 8)
+  XIIXXXXXIXZIII   (weight 8)
+  XXXIIIIIIZYYYY   (weight 8)
+
+class 248   |U_3| = 11336
+  IXXIIIIYZZZIYY   (weight 8)
+  IIXIIIIXXXXYYY   (weight 8)
+  IIIXXXXYIIIZXX   (weight 8)
+
+class 249   |U_3| = 11336
+  IXIIIIIYXZZZZY   (weight 8)
+  IXIIIIIXYXXXXY   (weight 8)
+  IIXXXXXYYIIIIX   (weight 8)
+
+class 250   |U_3| = 11336
+  IIXXIIIZZIYYYY   (weight 8)
+  IXIXIIIXXYIYYY   (weight 8)
+  IIIIXXXIIZXXXX   (weight 8)
+
+class 251   |U_3| = 11336
+  IIXIIIIXXXXYYY   (weight 8)
+  IXIIIIIZYYYYYY   (weight 8)
+  IIIXXXXYIIIZZZ   (weight 8)
+
+class 252   |U_3| = 11336
+  IXXIIIIIYZZZZX   (weight 8)
+  IXIXXXXZXIIIIY   (weight 8)
+  IXXIIIIYYYYYYI   (weight 8)
+
+class 253   |U_3| = 11336
+  IXXXXXXZIIIIIZ   (weight 8)
+  IXIIIIIYXXXXXY   (weight 8)
+  IXIIIIIXYYYYYY   (weight 8)
+
+class 254   |U_3| = 11336
+  XXXIXIIIIXXYIY   (weight 8)
+  XXXXIIIIIYYYYI   (weight 8)
+  IIXIIXXXXIIZXX   (weight 8)
+
+class 255   |U_3| = 11336
+  XXIXIIIIIXXXXY   (weight 8)
+  XXXIIIIIIZYYYY   (weight 8)
+  IXIIXXXXXYIIIZ   (weight 8)
+
+class 256   |U_3| = 11336
+  IIXXXXIIIIYYYY   (weight 8)
+  XXIIXXIIIYIYYY   (weight 8)
+  IIIIIIXXXZXXXX   (weight 8)
+
+class 257   |U_3| = 11336
+  IXXXIIIIIYXZZY   (weight 8)
+  XIXXIIIIIXYXXY   (weight 8)
+  IIIIXXXXXYYIIX   (weight 8)
+
+class 258   |U_3| = 11336
+  IXXXXIIIIYZIYY   (weight 8)
+  XIIXXIIIIXXYYY   (weight 8)
+  IIIIIXXXXYIZXX   (weight 8)
+
+class 259   |U_3| = 11338
+  IIIXXIIXXXIYXZ   (weight 8)
+  IIIXIXXXIIXXXX   (weight 8)
+  IIIXIXXIYYZXYI   (weight 8)
+
+class 260   |U_3| = 11338
+  IIIXIXXXIIXXXX   (weight 8)
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIXIXIIYYZZZZ   (weight 8)
+
+class 261   |U_3| = 11338
+  IIIXXIXXXXIIYY   (weight 8)
+  IIIXIXXXIIXXXX   (weight 8)
+  IIIXIXIIYYZZXX   (weight 8)
+
+class 262   |U_3| = 11338
+  IIIXXIXXXXIIXX   (weight 8)
+  IIIXIXXXIIXXXX   (weight 8)
+  IIIXIXIIYYZZYY   (weight 8)
+
+class 263   |U_3| = 11338
+  IIIXXIXXXXIIXX   (weight 8)
+  IIIXIXXXIIXXZZ   (weight 8)
+  IIIXIXIIYYZZYY   (weight 8)
+
+class 264   |U_3| = 11338
+  IIIIXIXXXXIYYY   (weight 8)
+  IIIIIXXXZIXXXX   (weight 8)
+  IIIXIXIIXYZXXX   (weight 8)
+
+class 265   |U_3| = 11338
+  IIIXIIXXXXXIXX   (weight 8)
+  IIIXXXIIYYYXIY   (weight 8)
+  IIIXXXXXIIIZZZ   (weight 8)
+
+class 266   |U_3| = 11338
+  IIIXIIXXXXXIXX   (weight 8)
+  IIIIXXXXZIIXXZ   (weight 8)
+  IIIIXXIIXYYZYY   (weight 8)
+
+class 267   |U_3| = 11338
+  IIIIIXXXXXXXIY   (weight 8)
+  IIIXXXXXZIIIXX   (weight 8)
+  IIIXXIIIXYYYZX   (weight 8)
+
+class 268   |U_3| = 11338
+  XIXXIIXXXIIIXX   (weight 8)
+  IXXXIIIIIXXXXX   (weight 8)
+  XIXXXXIIIXXXII   (weight 8)
+
+class 269   |U_3| = 11338
+  IIXXIXXIIIXXXX   (weight 8)
+  IXXXIIIXXXXXII   (weight 8)
+  IIXXXIIXXXIIYY   (weight 8)
+
+class 270   |U_3| = 11338
+  IIIXIXXIXXXIZX   (weight 8)
+  IIXXIIIXXXIXXZ   (weight 8)
+  IIXXXXXIIIZYYI   (weight 8)
+
+class 271   |U_3| = 11338
+  IIIXIXIIXXXXXX   (weight 8)
+  IIXIIXXXIIXXXX   (weight 8)
+  IIIXXIXXIIYYYY   (weight 8)
+
+class 272   |U_3| = 11338
+  IIIXIXIIXXXXZZ   (weight 8)
+  IIXXIIXXXXIIXX   (weight 8)
+  IIXXXXIIIIZZYY   (weight 8)
+
+class 273   |U_3| = 11338
+  IIIXIXIIXXXXXX   (weight 8)
+  IIXXIIXXXXIIZZ   (weight 8)
+  IIIXXIXXIIYYYY   (weight 8)
+
+class 274   |U_3| = 11338
+  IIXXIXXIIXXIZX   (weight 8)
+  IIXXIIIXXXIXXZ   (weight 8)
+  IIXXXIIXXIYZIY   (weight 8)
+
+class 275   |U_3| = 11338
+  IIXXIXIXXXXXII   (weight 8)
+  IIXXIIXXXXIIXX   (weight 8)
+  IIXXXIXIIIYYZZ   (weight 8)
+
+class 276   |U_3| = 11338
+  IIXXXXIIXXXXII   (weight 8)
+  IIXXIIXXXXIIXX   (weight 8)
+  IIXXIIXXIIYYZZ   (weight 8)
+
+class 277   |U_3| = 11338
+  IIXIXXIIIXXXXZ   (weight 8)
+  IIXIIIXXXXZIXX   (weight 8)
+  IIXXIIXXXIXYYI   (weight 8)
+
+class 278   |U_3| = 11338
+  IIXIXXIIXXXXIY   (weight 8)
+  IIXIIIXXXXZIXX   (weight 8)
+  IIXXIIXXIIXYZX   (weight 8)
+
+class 279   |U_3| = 11338
+  IIIXIXIXXIXXZX   (weight 8)
+  IIIXIIXXIXXXXZ   (weight 8)
+  IIIXXIXIYZYYIY   (weight 8)
+
+class 280   |U_3| = 11338
+  IIIIIXXXIYXZXX   (weight 8)
+  IIIIXXIIXXXXZZ   (weight 8)
+  IIIIXIYYZXYIYY   (weight 8)
+
+class 281   |U_3| = 11338
+  IIIIXXXXIIYYYY   (weight 8)
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIYYZZXXXX   (weight 8)
+
+class 282   |U_3| = 11338
+  IIIIXXXXIIYYXX   (weight 8)
+  IIIIXXIIXXXXZZ   (weight 8)
+  IIIIIIYYZZXXYY   (weight 8)
+
+class 283   |U_3| = 11338
+  IIIXIXIXXIZXXX   (weight 8)
+  IIIXIIXXIXXZZZ   (weight 8)
+  IIIXXIXIYZIYYY   (weight 8)
+
+class 284   |U_3| = 11338
+  IXIIXXXIIIXXXX   (weight 8)
+  IXIIIIIXXXXXZZ   (weight 8)
+  IXXXIIIXXXIIXX   (weight 8)
+
+class 285   |U_3| = 11338
+  IIIXXXIIXIXXZX   (weight 8)
+  IIIXIIXXIXXXXZ   (weight 8)
+  IIIXIIXXYZYYIY   (weight 8)
+
+class 286   |U_3| = 11338
+  IXIXIXIIIXXXXX   (weight 8)
+  IIXXIIXXXXXXII   (weight 8)
+  IXIXXIXXXIIIYY   (weight 8)
+
+class 287   |U_3| = 11338
+  IXIXIIXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IXIXXXIIXXIIYY   (weight 8)
+
+class 288   |U_3| = 11338
+  IIXXIXIXXXXXII   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+  IIXXXXIIIIZZYY   (weight 8)
+
+class 289   |U_3| = 11338
+  IIIIXIXXXXIYXX   (weight 8)
+  IIIIIXXXZIXXZZ   (weight 8)
+  IIIXIXIIXYZXYY   (weight 8)
+
+class 290   |U_3| = 11338
+  IIIXIIIXXXXXXX   (weight 8)
+  IIIIXXXXXXZZII   (weight 8)
+  IIXIXXXIIIXXYY   (weight 8)
+
+class 291   |U_3| = 11338
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+  IIXXIIXXIIXXYY   (weight 8)
+
+class 292   |U_3| = 11338
+  IIIIIXXXXXIYXZ   (weight 8)
+  IIIIXIXXXXXZIY   (weight 8)
+  IIIIXIYYYYZXYI   (weight 8)
+
+class 293   |U_3| = 11338
+  IIIIIXXXIYXZZZ   (weight 8)
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIZZYYYYYY   (weight 8)
+
+class 294   |U_3| = 11338
+  IIIXIIIXXXXXXX   (weight 8)
+  IIIXXXXIIIYYYY   (weight 8)
+  IIXXXXXXXXIIII   (weight 8)
+
+class 295   |U_3| = 11338
+  IIIXXIIIXXXXZZ   (weight 8)
+  IIIXIXXXIIXXXX   (weight 8)
+  IIIXIXXXYYYYII   (weight 8)
+
+class 296   |U_3| = 11350
+  IXXIXXIIIIZZXX   (weight 8)
+  IXIXIIZZZZIIYY   (weight 8)
+  IXXIIIYYYYYYII   (weight 8)
+
+class 297   |U_3| = 11350
+  IXXIXXIIIIXXZZ   (weight 8)
+  IIXXIIXXXXIIYY   (weight 8)
+  IXIXIIZZZZYYII   (weight 8)
+
+class 298   |U_3| = 11350
+  IXXIXXIIIIYYZZ   (weight 8)
+  IXIXIIZZZZXXII   (weight 8)
+  IIIIXXYYYYIIXX   (weight 8)
+
+class 299   |U_3| = 11350
+  IXIXXIZXYIIIYY   (weight 8)
+  IXXIIIYYYYYYII   (weight 8)
+  IIIIIXYIZXXXXX   (weight 8)
+
+class 300   |U_3| = 11350
+  IIXXXIXZIIIYYY   (weight 8)
+  IXIXXIZXYYYIII   (weight 8)
+  IIIIIXYIZZZXXX   (weight 8)
+
+class 301   |U_3| = 11350
+  IXXIIXIIIYXZZZ   (weight 8)
+  IXIXXIZZZXYIII   (weight 8)
+  IIIIIXYYYIZXXX   (weight 8)
+
+class 302   |U_3| = 11350
+  IXIXXXYYIIIIYY   (weight 8)
+  IXXIIIYYYYYYII   (weight 8)
+  IIIIIIZZXXXXXX   (weight 8)
+
+class 303   |U_3| = 11350
+  IIXXXXIIIIYYYY   (weight 8)
+  IXIXXXYYYYIIII   (weight 8)
+  IIIIIIZZZZXXXX   (weight 8)
+
+class 304   |U_3| = 11350
+  IIIXXXIIXZIYYY   (weight 8)
+  XXXIXXIIZXYIII   (weight 8)
+  IIXIIIXXYIZXXX   (weight 8)
+
+class 305   |U_3| = 11350
+  IXXIIIIIXXZZZZ   (weight 8)
+  IXIXXXZZYYIIII   (weight 8)
+  IIIIIIYYZZXXXX   (weight 8)
+
+class 306   |U_3| = 11350
+  IXIXXXYYIIIIYY   (weight 8)
+  IXXIIIZZYYYYII   (weight 8)
+  IIIIIIYYXXXXXX   (weight 8)
+
+class 307   |U_3| = 11350
+  IIIXXXIIXZIYYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+  IIXIIIXXYIZXXX   (weight 8)
+
+class 308   |U_3| = 11350
+  IIXIXZZZIIIYYY   (weight 8)
+  IIXIZXXXYYYIII   (weight 8)
+  IIIXYIIIZZZXXX   (weight 8)
+
+class 309   |U_3| = 11350
+  IIXIZXXXYIIIYY   (weight 8)
+  IIIIYYYYYYYYII   (weight 8)
+  IIIXYIIIZXXXXX   (weight 8)
+
+class 310   |U_3| = 11350
+  IIXXIIIIXXZZXX   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  IIIIXXXXYYYYII   (weight 8)
+
+class 311   |U_3| = 11350
+  XXIIXXXXXXIIII   (weight 8)
+  IIXXIIIIXXZZZZ   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+
+class 312   |U_3| = 11350
+  IIXXIIIIXXXXXX   (weight 8)
+  XXIIIIIIZZZZYY   (weight 8)
+  IIIIXXXXYYYYII   (weight 8)
+
+class 313   |U_3| = 11350
+  XXXXXXXXIIIIII   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+  XXIIIIIIZZZZZZ   (weight 8)
+
+class 314   |U_3| = 11350
+  IIXXXIIIXXZXYI   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  IIIIIXXXYYYIZX   (weight 8)
+
+class 315   |U_3| = 11350
+  IXIIXXYZIIIYYY   (weight 8)
+  IXXXIIZYYYYIII   (weight 8)
+  IIIIIIYYXXXXXX   (weight 8)
+
+class 316   |U_3| = 11350
+  IIIXXIIIYYYYYY   (weight 8)
+  IIXXXXXXIIIIZZ   (weight 8)
+  XXXXIIIIZZZZII   (weight 8)
+
+class 317   |U_3| = 11350
+  IIIXXIIIYYZZYY   (weight 8)
+  XXXXIIIIZZYYII   (weight 8)
+  IIXIIXXXYYIIXX   (weight 8)
+
+class 318   |U_3| = 11350
+  XXIXIXXXIIIIYY   (weight 8)
+  IIIXXIIIXXXXZZ   (weight 8)
+  IIXIIXXXYYYYII   (weight 8)
+
+class 319   |U_3| = 11350
+  IIXXIIIIYYYYZZ   (weight 8)
+  IIIIZZZZXXXXII   (weight 8)
+  IIXXYYYYIIIIXX   (weight 8)
+
+class 320   |U_3| = 11350
+  IIIIXXZZZZIIYY   (weight 8)
+  IIIIZZXXXXYYII   (weight 8)
+  IIXXYYIIIIZZXX   (weight 8)
+
+class 321   |U_3| = 11350
+  IIIIZZXXXXIIYY   (weight 8)
+  IIIIYYYYYYYYII   (weight 8)
+  IIXXYYIIIIXXXX   (weight 8)
+
+class 322   |U_3| = 11350
+  XIXXXIIIXXXXII   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  XIIIIXXXYYIIXX   (weight 8)
+
+class 323   |U_3| = 11350
+  IXXXXIIIYYZZII   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  XIIIIXXXYYIIZZ   (weight 8)
+
+class 324   |U_3| = 11350
+  XXIXIXXXIIIIXX   (weight 8)
+  IIIXXIIIXXXXYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+
+class 325   |U_3| = 11350
+  IIIXXIIIXXZZYY   (weight 8)
+  XXXIXIIIZZXXII   (weight 8)
+  IIXIIXXXYYIIXX   (weight 8)
+
+class 326   |U_3| = 11350
+  IIIXXIIIXXZZYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+  IIXIIXXXYYIIXX   (weight 8)
+
+class 327   |U_3| = 11350
+  XXXXIIXXIIIIZZ   (weight 8)
+  XXIIXXIIZZZZII   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 328   |U_3| = 11350
+  IIXXXXIIXXIIYY   (weight 8)
+  XXIIXXIIZZYYII   (weight 8)
+  IIIIIIXXYYZZXX   (weight 8)
+
+class 329   |U_3| = 11350
+  XXIIXXIIZZIIYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+  IIIIIIXXYYXXXX   (weight 8)
+
+class 330   |U_3| = 11350
+  XIXXXIIIXYZXII   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  IIIIIXXXYYYIXX   (weight 8)
+
+class 331   |U_3| = 11350
+  XIXXXXIIXYYIII   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  IIIIIIXXYYZXXX   (weight 8)
+
+class 332   |U_3| = 11350
+  XIIXXIIIXZZXIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+  IIIIIXXXYYYIXX   (weight 8)
+
+class 333   |U_3| = 11350
+  XIIXXIIIXXXXIY   (weight 8)
+  XXXIIIIIZZZYYI   (weight 8)
+  IIIIIXXXYYYIXX   (weight 8)
+
+class 334   |U_3| = 11350
+  XIIXXXIIXZYIIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+  IIIIIIXXYYZXXX   (weight 8)
+
+class 335   |U_3| = 11350
+  IXXXXXIIYXIIIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+  IIIIIIXXYYZZZX   (weight 8)
+
+class 336   |U_3| = 11350
+  IIXXXIIIYXZZIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+  IXIIIXXXYYIIZX   (weight 8)
+
+class 337   |U_3| = 11350
+  XIXIIXXXXIIIXX   (weight 8)
+  IIXXXIIIYXXXIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+
+class 338   |U_3| = 11350
+  XIIXXXIIZZIIYY   (weight 8)
+  IXXIXXIIXXYYII   (weight 8)
+  XIXIIIXXIIZZXX   (weight 8)
+
+class 339   |U_3| = 11350
+  XIIXXIIIXZZZIY   (weight 8)
+  IXXIXIIIZXXXYI   (weight 8)
+  XIXIIXXXYIIIZX   (weight 8)
+
+class 340   |U_3| = 11350
+  IXXIIIXYZXXXII   (weight 8)
+  IIIIIIZZYYYYYY   (weight 8)
+  IIIXXXYYYIIIXX   (weight 8)
+
+class 341   |U_3| = 11350
+  IIIIIXXIXXYYYY   (weight 8)
+  XXXXXIXIZZIIII   (weight 8)
+  IIIIXIIXYYXXXX   (weight 8)
+
+class 342   |U_3| = 11350
+  IIIIIXXIYYYYYY   (weight 8)
+  XXXXXXIIYYIIII   (weight 8)
+  IIIIXIIXXXXXXX   (weight 8)
+
+class 343   |U_3| = 11350
+  IIXIIIXZZXXXIY   (weight 8)
+  IXIIIIZYYYYYYI   (weight 8)
+  IIIXXXYYYIIIXX   (weight 8)
+
+class 344   |U_3| = 11350
+  IXIXXXXIIIIYZX   (weight 8)
+  IIXIIIXZZZZXIY   (weight 8)
+  IXIIIIZYYYYYYI   (weight 8)
+
+class 345   |U_3| = 11350
+  IIXIIIXXXXXXIY   (weight 8)
+  IXIIIIZZZYYYYI   (weight 8)
+  IIIXXXYYYIIIXX   (weight 8)
+
+class 346   |U_3| = 11350
+  IXXXXXIIIIIZZZ   (weight 8)
+  IIXIIIXXXXXXIY   (weight 8)
+  IXIIIIZZZZZYYI   (weight 8)
+
+class 347   |U_3| = 11350
+  XXIXIXXXIIIIZZ   (weight 8)
+  IIIXXIIIXXXXYY   (weight 8)
+  XXXIXIIIZZZZII   (weight 8)
+
+class 348   |U_3| = 11350
+  IIIIXXIIYZYYYY   (weight 8)
+  XXXXXIIIZYYIII   (weight 8)
+  IIIXIIXXYIXXXX   (weight 8)
+
+class 349   |U_3| = 11350
+  IIXXIIXZXXYIIY   (weight 8)
+  IXIIIIZYYYYYYI   (weight 8)
+  IIIIXXYYIIZXXX   (weight 8)
+
+class 350   |U_3| = 11350
+  IXXXIIYXZZIIIY   (weight 8)
+  IXIIIIZYYYYYYI   (weight 8)
+  IIIIXXYYIIZZZX   (weight 8)
+
+class 351   |U_3| = 11350
+  IXIIXXXIIIXXXX   (weight 8)
+  IXXXIIYXXXIIIY   (weight 8)
+  IXIIIIZYYYYYYI   (weight 8)
+
+class 352   |U_3| = 11350
+  IXXIXXIIXXIIYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+  XIXIIIXXIIXXXX   (weight 8)
+
+class 353   |U_3| = 11350
+  IXIXIIZZXXIIYY   (weight 8)
+  IXXIIIYYYYYYII   (weight 8)
+  IIIIXXYYIIXXXX   (weight 8)
+
+class 354   |U_3| = 11350
+  IIXXIIXXZZIIYY   (weight 8)
+  IXIXIIZZXXYYII   (weight 8)
+  IIIIXXYYIIZZXX   (weight 8)
+
+class 355   |U_3| = 11356
+  XXIIIIIXXZZZZI   (weight 8)
+  IXIIIIIYZXXXXY   (weight 8)
+  IIXXXXXYYIIIIZ   (weight 8)
+
+class 356   |U_3| = 11356
+  XIXXXXXXIIIIIX   (weight 8)
+  XXIIIIIXXXXXXI   (weight 8)
+  IXIIIIIYZZZZZY   (weight 8)
+
+class 357   |U_3| = 11356
+  IXXIIIIZZZZIYY   (weight 8)
+  XIXIIIIXXXXYIY   (weight 8)
+  XIIXXXXIIIIZXX   (weight 8)
+
+class 358   |U_3| = 11356
+  XXXIIIIXZZZIIY   (weight 8)
+  IXXIIIIYXXXYYI   (weight 8)
+  IIIXXXXYIIIZZX   (weight 8)
+
+class 359   |U_3| = 11356
+  XXXXIIIZZIIIYY   (weight 8)
+  IIXXIIIXXYYYIY   (weight 8)
+  IIIIXXXIIZZZXX   (weight 8)
+
+class 360   |U_3| = 11358
+  IXIIXXIIIXXXZZ   (weight 8)
+  XIIIXXXXXIIIYY   (weight 8)
+  XXXXXXIIIIIIYY   (weight 8)
+
+class 361   |U_3| = 11358
+  XXIIXXIIXXXXII   (weight 8)
+  XXXXIIXXIIIIZZ   (weight 8)
+  XXXXXXIIIIIIYY   (weight 8)
+
+class 362   |U_3| = 11358
+  IXIXXIIIXXIYXZ   (weight 8)
+  IIIXXXXXIIXZIY   (weight 8)
+  IXXIIXXXIIZXYI   (weight 8)
+
+class 363   |U_3| = 11358
+  IXIXXIIXXXIIZZ   (weight 8)
+  IIIXXXXIIIXXYY   (weight 8)
+  IXXXXIIIIIYYYY   (weight 8)
+
+class 364   |U_3| = 11358
+  IIXXIIIXXXXIXX   (weight 8)
+  IIXXXXXIIIYXIY   (weight 8)
+  IXIIXXXIIIXZYY   (weight 8)
+
+class 365   |U_3| = 11358
+  XXIIIIXXXXXXII   (weight 8)
+  XIIXXXXXIIIIXX   (weight 8)
+  XXXXXXIIIIIIZZ   (weight 8)
+
+class 366   |U_3| = 11358
+  IIXXXXXXIIIIXX   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIXXIIIIYYYYXX   (weight 8)
+
+class 367   |U_3| = 11358
+  IIIIIXXXXXIYXZ   (weight 8)
+  IIXXXIIIXXXZIY   (weight 8)
+  IIXXXIIIYYZXYI   (weight 8)
+
+class 368   |U_3| = 11358
+  IXIXXIIXXXIIXX   (weight 8)
+  IIIXXXXIIIXXYY   (weight 8)
+  IXXIIXXIIIZZYY   (weight 8)
+
+class 369   |U_3| = 11358
+  IXXXXIIIXXXXII   (weight 8)
+  IXIIIXXXXXIIXX   (weight 8)
+  IXIIIXXXIIYYZZ   (weight 8)
+
+class 370   |U_3| = 11358
+  IXIXXIIXXXIIYY   (weight 8)
+  IIIXXXXIIIXXZZ   (weight 8)
+  IXXIIXXIIIZZXX   (weight 8)
+
+class 371   |U_3| = 11358
+  IXIIXXIIIXXXXX   (weight 8)
+  XIIIXXXXXIIIYY   (weight 8)
+  IXXXIIXXXIIIYY   (weight 8)
+
+class 372   |U_3| = 11358
+  XXIXXXIIIXXXII   (weight 8)
+  IIIXXXXXXIIIXX   (weight 8)
+  XXXIIIXXXIIIZZ   (weight 8)
+
+class 373   |U_3| = 11358
+  IIIXIIXXIYXZZZ   (weight 8)
+  IIIXXXIIXZIYYY   (weight 8)
+  IIXXIIIIYYYYYY   (weight 8)
+
+class 374   |U_3| = 11358
+  IIXXIIIIXXXXXX   (weight 8)
+  IIXXXXXXIIIIYY   (weight 8)
+  XXIIXXXXIIIIXX   (weight 8)
+
+class 375   |U_3| = 11358
+  IIIXIXXXIIYYYY   (weight 8)
+  IIIXXIIIXXZZZZ   (weight 8)
+  IIXIXIIIZZXXXX   (weight 8)
+
+class 376   |U_3| = 11358
+  IIXIIXXXXIIYXX   (weight 8)
+  IIXXXIIIXXXZIY   (weight 8)
+  IIIXXIIIYZZXYY   (weight 8)
+
+class 377   |U_3| = 11358
+  IIIXIXXXIIYYZZ   (weight 8)
+  IIIXXIIIXXZZYY   (weight 8)
+  IIXXIIIIYYYYYY   (weight 8)
+
+class 378   |U_3| = 11358
+  IIIXIXXXIIYYXX   (weight 8)
+  IIIXXIIIXXZZYY   (weight 8)
+  IIXIXIIIZZXXYY   (weight 8)
+
+class 379   |U_3| = 11358
+  IIIXXXXXIIIXXZ   (weight 8)
+  IIXXXIIIXXXZIY   (weight 8)
+  IIIXXIIIYYYXYY   (weight 8)
+
+class 380   |U_3| = 11358
+  IIIXIIXXIYXZXX   (weight 8)
+  IIIXXXIIXZIYYY   (weight 8)
+  IIXIXXIIZXYIYY   (weight 8)
+
+class 381   |U_3| = 11358
+  IXIXIIIXXXXIZX   (weight 8)
+  IIIXXXXIIIXXYY   (weight 8)
+  IXXIXXXIIIYZIY   (weight 8)
+
+class 382   |U_3| = 11358
+  IIXXIIXXIIXXXX   (weight 8)
+  IIXXXXIIXXIIYY   (weight 8)
+  IIIIXXIIZZYYYY   (weight 8)
+
+class 383   |U_3| = 11358
+  IXIXXXIIIXXIZX   (weight 8)
+  IXIIIIXXXXIXXZ   (weight 8)
+  IXXIIIXXXIYZIY   (weight 8)
+
+class 384   |U_3| = 11358
+  IXIXXIIIIXXXZZ   (weight 8)
+  IIIXXXXXXIIIYY   (weight 8)
+  IXXIIXXXXIYYII   (weight 8)
+
+class 385   |U_3| = 11358
+  IXIXXIIIIXXXZZ   (weight 8)
+  IXIIIXXXXXIIXX   (weight 8)
+  IXXIIXXXXIYYII   (weight 8)
+
+class 386   |U_3| = 11358
+  IIIIXXXXXXIIYY   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIXXIIIIYYZZXX   (weight 8)
+
+class 387   |U_3| = 11358
+  IXXIIIXXXXXXII   (weight 8)
+  IIXXXXIIIIXXXX   (weight 8)
+  IXIXXXIIIIYYZZ   (weight 8)
+
+class 388   |U_3| = 11358
+  IXXXXIIIXXIIXX   (weight 8)
+  IIXXXXXXIIXXII   (weight 8)
+  IXIIIXXXIIZZYY   (weight 8)
+
+class 389   |U_3| = 11358
+  IXIXXXXXXXIIII   (weight 8)
+  IIXXXXIIIIXXXX   (weight 8)
+  IXIXXXIIIIYYYY   (weight 8)
+
+class 390   |U_3| = 11358
+  IXIXXIIXXXIIXX   (weight 8)
+  IXXIIXXIIIZZYY   (weight 8)
+  IXXXXIIIIIYYYY   (weight 8)
+
+class 391   |U_3| = 11358
+  IIIXXXXIIIXXXX   (weight 8)
+  IXXIIXXIIIZZZZ   (weight 8)
+  IIXIIIIXXXYYYY   (weight 8)
+
+class 392   |U_3| = 11358
+  IIXXIIXXIIXXZZ   (weight 8)
+  IIXXXXIIXXIIYY   (weight 8)
+  IIXXIIIIYYYYYY   (weight 8)
+
+class 393   |U_3| = 11358
+  IXIXIIIIXXXXXX   (weight 8)
+  XIIXXXXXIIIIXX   (weight 8)
+  IXXIXXXXIIIIYY   (weight 8)
+
+class 394   |U_3| = 11358
+  IIXXIIXXIIXXXX   (weight 8)
+  IIIIXXIIZZYYYY   (weight 8)
+  IIXXIIIIYYYYYY   (weight 8)
+
+class 395   |U_3| = 11358
+  IXIXXXIIXXXXII   (weight 8)
+  XIIXXXXXIIIIXX   (weight 8)
+  XXXXXXIIIIIIYY   (weight 8)
+
+class 396   |U_3| = 11358
+  IIXIIIXXXXXXIY   (weight 8)
+  IIXXXXIIIIYXXZ   (weight 8)
+  IXIXXXIIIIXYZX   (weight 8)
+
+class 397   |U_3| = 11366
+  IIIIIXIXXXZZXX   (weight 8)
+  IIIIIIXXZZXXZZ   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 398   |U_3| = 11366
+  IIIIIXIXXXYYXX   (weight 8)
+  IIIIIIXXZZXXXX   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 399   |U_3| = 11366
+  IIIIIXIXXXXXXX   (weight 8)
+  IIIIIIXXZZZZZZ   (weight 8)
+  IIIIXIXIXXXXYY   (weight 8)
+
+class 400   |U_3| = 11366
+  IIIIXXIXXXIYXX   (weight 8)
+  IIIIXIXXZIXXZZ   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 401   |U_3| = 11366
+  IIIIXIXXZIXXXX   (weight 8)
+  IIIIIXXIYXXXXZ   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 402   |U_3| = 11366
+  IIIIXXIIXXXZXX   (weight 8)
+  IIIIXIXXZIXXZZ   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 403   |U_3| = 11366
+  IIIIXXIIXXXZZZ   (weight 8)
+  IIIIXIXXZIXXXX   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 404   |U_3| = 11366
+  IIXIXXIXXIIXXX   (weight 8)
+  IIIXXXIIIXXXZZ   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+
+class 405   |U_3| = 11366
+  IIIXIXXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIIIXXXXXXXXII   (weight 8)
+
+class 406   |U_3| = 11366
+  IIIIIXXXIYZZXX   (weight 8)
+  IIIIIXZIXXXXZZ   (weight 8)
+  IIIIIXIZZZZZZZ   (weight 8)
+
+class 407   |U_3| = 11366
+  IIIIIXXXIYYYXX   (weight 8)
+  IIIIIXZIXXXXZZ   (weight 8)
+  IIIIIXIZZZZZZZ   (weight 8)
+
+class 408   |U_3| = 11366
+  IIIXXIIIXXXXXX   (weight 8)
+  IIIXIXXXXXZZII   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+
+class 409   |U_3| = 11366
+  IIXXIIXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIIIXXXXXXXXII   (weight 8)
+
+class 410   |U_3| = 11366
+  IXIXXXIIXXIIXX   (weight 8)
+  IIXXXXIIIIXXXX   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+
+class 411   |U_3| = 11366
+  IIIIIXZIXXXXXX   (weight 8)
+  IIIIIIYXXXXZZZ   (weight 8)
+  IIIIIXIZZZZZZZ   (weight 8)
+
+class 412   |U_3| = 11366
+  IIIXIXXIIXXXXX   (weight 8)
+  IIIXIIIXXXZZZZ   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+
+class 413   |U_3| = 11366
+  IIIXIXXIIXXXXX   (weight 8)
+  IIIXIIIXXXZZZZ   (weight 8)
+  IIIXXIIXXIXXXX   (weight 8)
+
+class 414   |U_3| = 11366
+  IIIXXIXIXXXXIY   (weight 8)
+  IIIXXIIXXXZIXX   (weight 8)
+  IIIIIXXXXXIZZZ   (weight 8)
+
+class 415   |U_3| = 11366
+  IIIXXXIXIXXIZX   (weight 8)
+  IIIXXXIIXXIXXZ   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+
+class 416   |U_3| = 11366
+  IIIIXIXIXXXXXZ   (weight 8)
+  IIIXXIIXXXZIXX   (weight 8)
+  IIIIIXXXXXIZZZ   (weight 8)
+
+class 417   |U_3| = 11366
+  IIIXIXIXIXZZXX   (weight 8)
+  IIIIXXIIXXXXZZ   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+
+class 418   |U_3| = 11366
+  IIIXIXXIIXXXXX   (weight 8)
+  IIIXIIIXXXZZXX   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+
+class 419   |U_3| = 11366
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIIIXXXXZZIIXX   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 420   |U_3| = 11366
+  IIIIIIXXXXXXXX   (weight 8)
+  IIIIXXIIYYXXXX   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 421   |U_3| = 11366
+  IIIIXIXXXXXIZX   (weight 8)
+  IIIIIXXXZZIXXZ   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 422   |U_3| = 11372
+  IIIXIYXZZIIYYY   (weight 8)
+  IIIXIXYXXYYIIY   (weight 8)
+  IIIIXYYIIZZXXX   (weight 8)
+
+class 423   |U_3| = 11372
+  IIIXXZZZIIIXXZ   (weight 8)
+  IIIXXIIIZZZZZZ   (weight 8)
+  IIIXIXXXYYYIIY   (weight 8)
+
+class 424   |U_3| = 11372
+  IIIXXZIIIXXXXZ   (weight 8)
+  IIIXIYXXXZZIIY   (weight 8)
+  IIIIIZZZZYYYYI   (weight 8)
+
+class 425   |U_3| = 11372
+  IIIXXZIIIXXXXZ   (weight 8)
+  IIIXIXYYYXXIIY   (weight 8)
+  IIIIIZZZZYYYYI   (weight 8)
+
+class 426   |U_3| = 11372
+  IIIXXZIIIXXXXZ   (weight 8)
+  IIIXIYXXXIIYYY   (weight 8)
+  IIIXIXYYYYYIIY   (weight 8)
+
+class 427   |U_3| = 11372
+  IIXIXIXXIIYXZZ   (weight 8)
+  IIIIXXIYXXZIYY   (weight 8)
+  IIXXIXIXZZXYII   (weight 8)
+
+class 428   |U_3| = 11372
+  IIIIIYXXZZZIYY   (weight 8)
+  IIIIIXYZXXXYIY   (weight 8)
+  IIIXXYYYIIIZXX   (weight 8)
+
+class 429   |U_3| = 11372
+  IIIIXXIYYYZIYY   (weight 8)
+  IIIXXXXIIIZZZZ   (weight 8)
+  IIXXXIIZZZYYII   (weight 8)
+
+class 430   |U_3| = 11372
+  IIIIXXIYZIYYYY   (weight 8)
+  IIXXIXIXXYIIYY   (weight 8)
+  IIIXIIXYIZXXXX   (weight 8)
+
+class 431   |U_3| = 11372
+  IIIXXXIIIYYXZY   (weight 8)
+  IXXIXXIIIXXYXI   (weight 8)
+  IIXIIIXXXYYYIX   (weight 8)
+
+class 432   |U_3| = 11372
+  IXXIIXXXXZIIIZ   (weight 8)
+  IIIIXXXIIYXXXY   (weight 8)
+  IXXXXIIIIZZZZI   (weight 8)
+
+class 433   |U_3| = 11372
+  XXIIIXXXXIIIYY   (weight 8)
+  XIXXXIIXXIIYIY   (weight 8)
+  XXIIXIIIIXXZXX   (weight 8)
+
+class 434   |U_3| = 11372
+  IIIXXIIYXXZIYY   (weight 8)
+  IIXIXIIXYZXYIY   (weight 8)
+  IIIIIXXYYYIZXX   (weight 8)
+
+class 435   |U_3| = 11372
+  IIXXXXIIIYYYZI   (weight 8)
+  IXIIXXIIIXXXXY   (weight 8)
+  IXIIIIXXXYYYIZ   (weight 8)
+
+class 436   |U_3| = 11372
+  IXXIIXXIIXXXIZ   (weight 8)
+  XIIIIXXXXIIYXY   (weight 8)
+  IXXXXIIXXIIXZI   (weight 8)
+
+class 437   |U_3| = 11372
+  IIIXXXIYXIIYYY   (weight 8)
+  IIXIXXIXYYYIIY   (weight 8)
+  IIIIIIXYYZZXXX   (weight 8)
+
+class 438   |U_3| = 11372
+  IIXXIIIYYXXZZI   (weight 8)
+  IIIXIIIXXYZXXY   (weight 8)
+  IIIIXXXYYYYIIZ   (weight 8)
+
+class 439   |U_3| = 11372
+  IXIIXXIIIYXZZY   (weight 8)
+  IIXXIXIIIXYXXY   (weight 8)
+  IXIXIIXXXYYIIX   (weight 8)
+
+class 440   |U_3| = 11372
+  IIXXXXIIIYYXXI   (weight 8)
+  IXIIXXIIIXXYZY   (weight 8)
+  IIIIIIXXXYYYYZ   (weight 8)
+
+class 441   |U_3| = 11372
+  IIIXXIIYYZZIYY   (weight 8)
+  IIXIXIIXXXXYIY   (weight 8)
+  IIXIIXXYYIIZXX   (weight 8)
+
+class 442   |U_3| = 11372
+  IIXXIIXXXIIZZX   (weight 8)
+  IIXIXXIXYZZIIY   (weight 8)
+  IIXXIIIZZYYYYI   (weight 8)
+
+class 443   |U_3| = 11372
+  IXXIIXXXXZIIIZ   (weight 8)
+  IXIIXXIIIYXXXY   (weight 8)
+  IIXXIXIIIXYYYY   (weight 8)
+
+class 444   |U_3| = 11372
+  IIXIXXIXXXIIYX   (weight 8)
+  IXIIXXXIIYXXZI   (weight 8)
+  IIXXIIXIIXZZXY   (weight 8)
+
+class 445   |U_3| = 11372
+  IIXIXXXZIIIXXZ   (weight 8)
+  IIXIXXIXYYYIIY   (weight 8)
+  IIXXIIIZZZZYYI   (weight 8)
+
+class 446   |U_3| = 11372
+  IIXIXXXZIIIXXZ   (weight 8)
+  IIIXXXIYXXXIIY   (weight 8)
+  IIXXIIIZZZZYYI   (weight 8)
+
+class 447   |U_3| = 11372
+  IIXXIIXXXXXIIX   (weight 8)
+  IIXIXXXZIIIXXZ   (weight 8)
+  IIXXIIIZZZZYYI   (weight 8)
+
+class 448   |U_3| = 11372
+  IIIXXIIYYYYIYY   (weight 8)
+  IIXXXXXIIIIZZZ   (weight 8)
+  IIXIXIIXXXXYIY   (weight 8)
+
+class 449   |U_3| = 11372
+  IIXIXXXZZZIIIZ   (weight 8)
+  IIIXXXXIIIZZZZ   (weight 8)
+  IIIIIIXYYYYYYX   (weight 8)
+
+class 450   |U_3| = 11372
+  XXIIXXXXIIIYZI   (weight 8)
+  XIXXIIXXIIIXXY   (weight 8)
+  XXIXIIIIXXXYIZ   (weight 8)
+
+class 451   |U_3| = 11372
+  IXIIXXXIIYYYZI   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+  IIXXIIXIIXXXXY   (weight 8)
+
+class 452   |U_3| = 11372
+  IXIIXXXIIYZIYY   (weight 8)
+  IIXXIIXIIXXYYY   (weight 8)
+  IXIXIIIXXYIZXX   (weight 8)
+
+class 453   |U_3| = 11372
+  IXXIIXXIIZZIYY   (weight 8)
+  IXIXXIXIIXXYIY   (weight 8)
+  IXXIXIIXXIIZXX   (weight 8)
+
+class 454   |U_3| = 11372
+  IIXXIIIYYYYXXI   (weight 8)
+  IIXXXXXIIIIZZZ   (weight 8)
+  IIIXIIIXXXXYZY   (weight 8)
+
+class 455   |U_3| = 11372
+  IIIXXXXIIYYIYY   (weight 8)
+  IXXIIXXIIXXYIY   (weight 8)
+  IIXIIIIXXYYZXX   (weight 8)
+
+class 456   |U_3| = 11372
+  IIIIXXXIIYYYXY   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+  IXXXXIIIIZZZZI   (weight 8)
+
+class 457   |U_3| = 11372
+  IIIIXXXIIYXYYY   (weight 8)
+  IXXXIXXIIXYIIY   (weight 8)
+  IIIXIIIXXYYXXX   (weight 8)
+
+class 458   |U_3| = 11372
+  IIXIXXXXXXIIIX   (weight 8)
+  IIXXIIIYYXXXXI   (weight 8)
+  IIIXIIIXXYZZZY   (weight 8)
+
+class 459   |U_3| = 11372
+  XIIIXXXXIIIYXY   (weight 8)
+  IXXXIIXXIIIXYY   (weight 8)
+  XIIXIIIIXXXYYX   (weight 8)
+
+class 460   |U_3| = 11372
+  IIXXXIIYYXZIIY   (weight 8)
+  IIIXXIIXXYXYYI   (weight 8)
+  IIIIIXXYYYIZZX   (weight 8)
+
+class 461   |U_3| = 11372
+  IIIXXXXZZIIIXX   (weight 8)
+  IIIXXIIXXYYYXI   (weight 8)
+  IIXIIIIZZZZZYY   (weight 8)
+
+class 462   |U_3| = 11372
+  IIXXXXXIIIIZZZ   (weight 8)
+  IIIXXIIXXXXYXI   (weight 8)
+  IIXIIIIZZZZZYY   (weight 8)
+
+class 463   |U_3| = 11376
+  IXXIIYXXXIIIYY   (weight 8)
+  XIIIIZYYYYYYII   (weight 8)
+  IIIXXYIIIXXXXX   (weight 8)
+
+class 464   |U_3| = 11378
+  XIIXXXIIIIZZYY   (weight 8)
+  IXXIXXIIIIXXYY   (weight 8)
+  XIXIIIXXXXIIXX   (weight 8)
+
+class 465   |U_3| = 11378
+  XXXXIIIIXXIIZZ   (weight 8)
+  XXIIXXXXIIZZII   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+
+class 466   |U_3| = 11378
+  IIXXXIIIXZIYYY   (weight 8)
+  IXIXXIIIZXYIYY   (weight 8)
+  IIIIIXXXYIZXXX   (weight 8)
+
+class 467   |U_3| = 11378
+  IIXXXXIIIIXXYY   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  IIIIIIXXXXYYXX   (weight 8)
+
+class 468   |U_3| = 11378
+  IIXXXIIIXZIYYY   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+  IIIIIXXXYIZXXX   (weight 8)
+
+class 469   |U_3| = 11378
+  IIXXIIZZIIYYYY   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+  IIIIXXIIZZXXXX   (weight 8)
+
+class 470   |U_3| = 11378
+  IIXXXXIIIIXXYY   (weight 8)
+  XXIIXXIIIIZZYY   (weight 8)
+  IIIIIIXXXXYYXX   (weight 8)
+
+class 471   |U_3| = 11378
+  IIXXXXXXXXIIII   (weight 8)
+  XXXIXIIIIIXXXX   (weight 8)
+  XXXXIIIIIIZZZZ   (weight 8)
+
+class 472   |U_3| = 11378
+  IIXXXXIIIIYZYY   (weight 8)
+  XXIXXXIIIIXXIY   (weight 8)
+  IXIIIIXXXXYIXX   (weight 8)
+
+class 473   |U_3| = 11378
+  IIXXXXIIIIYYYY   (weight 8)
+  IXIXXXIIYYIIYY   (weight 8)
+  IIIIIIXXZZXXXX   (weight 8)
+
+class 474   |U_3| = 11378
+  IIXXXXIIIIYYYY   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+  IIIIIIXXZZXXXX   (weight 8)
+
+class 475   |U_3| = 11378
+  IXXIIIXXIIZZXX   (weight 8)
+  IXIXXXIIZZIIYY   (weight 8)
+  IIIIIIXXYYXXXX   (weight 8)
+
+class 476   |U_3| = 11378
+  IXXIIIXXIIYYZZ   (weight 8)
+  IXIXXXIIZZXXII   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+
+class 477   |U_3| = 11378
+  IXIXXXIIZZZZII   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 478   |U_3| = 11378
+  IXXXXIIIYZIIYY   (weight 8)
+  IIXXXIIIXXYYIY   (weight 8)
+  IIIIIXXXYIZZXX   (weight 8)
+
+class 479   |U_3| = 11378
+  IXXXXXIIIIYXIY   (weight 8)
+  XIXXXXIIIIXYYI   (weight 8)
+  IIIIIIXXXXYYZX   (weight 8)
+
+class 480   |U_3| = 11378
+  IXXXXIIIIIYXXZ   (weight 8)
+  XIXXXIIIIIXYZX   (weight 8)
+  IIIIIXXXXXYYYI   (weight 8)
+
+class 481   |U_3| = 11378
+  IXIIXXXXXIIIXX   (weight 8)
+  IXXXIIIIYXXXIY   (weight 8)
+  IIXXIIIIXZZZYY   (weight 8)
+
+class 482   |U_3| = 11378
+  XIIXXXIIIIZZYY   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  XIXIIIXXXXIIXX   (weight 8)
+
+class 483   |U_3| = 11378
+  XXIXIXXXXXIIII   (weight 8)
+  XXXIXIIIIIZZZZ   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+
+class 484   |U_3| = 11378
+  IIXIIIXZZZIYYY   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+  IIIXXXYIIIZXXX   (weight 8)
+
+class 485   |U_3| = 11378
+  IIXIIIXZZZIYYY   (weight 8)
+  IIXIIIZXXXYIYY   (weight 8)
+  IIIXXXYIIIZXXX   (weight 8)
+
+class 486   |U_3| = 11378
+  XXXIXIIIIIZZXX   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  IIXIIXXXXXYYII   (weight 8)
+
+class 487   |U_3| = 11378
+  IIXXIIZZIIYYYY   (weight 8)
+  IIXXIIXXYYIIYY   (weight 8)
+  IIIIXXIIZZXXXX   (weight 8)
+
+class 488   |U_3| = 11378
+  XXXIXIIIIIXXXX   (weight 8)
+  XXXXIIIIIIZZYY   (weight 8)
+  IIXIIXXXXXYYII   (weight 8)
+
+class 489   |U_3| = 11378
+  IXXIIIIIXXZZZZ   (weight 8)
+  IXIXXXXXYYIIII   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+
+class 490   |U_3| = 11378
+  IXXIIIIIXXZZZZ   (weight 8)
+  IXIXXXXXYYIIII   (weight 8)
+  IXXIIIIIZZYYYY   (weight 8)
+
+class 491   |U_3| = 11378
+  XXXXXXIIIIYYII   (weight 8)
+  IIXXXXIIIIXXYY   (weight 8)
+  IIIIIIXXXXYYZZ   (weight 8)
+
+class 492   |U_3| = 11378
+  IXXXXIIIIIYYZZ   (weight 8)
+  XIXXXIIIIIXXXX   (weight 8)
+  XIIIIXXXXXYYII   (weight 8)
+
+class 493   |U_3| = 11378
+  IXXXIIIIYXZZIY   (weight 8)
+  IXXXIIIIXYXXYI   (weight 8)
+  IIIIXXXXYYIIZX   (weight 8)
+
+class 494   |U_3| = 11378
+  IXXIIIIIYXXZZZ   (weight 8)
+  IXXIIIIIXYZXXX   (weight 8)
+  IIIXXXXXYYYIII   (weight 8)
+
+class 495   |U_3| = 11378
+  IIXXIIIXXXIYXZ   (weight 8)
+  IIXXXXXIIIXZIY   (weight 8)
+  XXIIXXXIIIZXYI   (weight 8)
+
+class 496   |U_3| = 11378
+  IIIIIIXXZZZZYY   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+  IIXXXXYYIIIIXX   (weight 8)
+
+class 497   |U_3| = 11378
+  IIXXIIXXXXIIYY   (weight 8)
+  IIXXXXIIIIXXZZ   (weight 8)
+  XXIIXXIIIIZZXX   (weight 8)
+
+class 498   |U_3| = 11378
+  IXXXXXIIIIYXIY   (weight 8)
+  XIIXXXIIIIXZYY   (weight 8)
+  IIIIIIXXXXYYZX   (weight 8)
+
+class 499   |U_3| = 11378
+  IIIIIIXXZZZZYY   (weight 8)
+  IIIIIIZZXXXXYY   (weight 8)
+  IIXXXXYYIIIIXX   (weight 8)
+
+class 500   |U_3| = 11378
+  XXXIXXXIIIYYII   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  IIXIIIIXXXZZXX   (weight 8)
+
+class 501   |U_3| = 11378
+  IIXXIIIIXXZZYY   (weight 8)
+  IXIXIIIIZZXXYY   (weight 8)
+  IIIIXXXXYYIIXX   (weight 8)
+
+class 502   |U_3| = 11378
+  IIXXIIIIXXZZYY   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+  IIIIXXXXYYIIXX   (weight 8)
+
+class 503   |U_3| = 11378
+  IXXXIIIXXXIIXX   (weight 8)
+  IXXXXXXIIIXXII   (weight 8)
+  XIIIXXXIIIZZYY   (weight 8)
+
+class 504   |U_3| = 11378
+  IXXIXXXXIIIIXX   (weight 8)
+  IIXXIIIIXXXXYY   (weight 8)
+  IXIXIIIIZZZZYY   (weight 8)
+
+class 505   |U_3| = 11378
+  IXXXIIIIXIZZZX   (weight 8)
+  IXIIXXXXYZIIIY   (weight 8)
+  IXXXIIIIZYYYYI   (weight 8)
+
+class 506   |U_3| = 11378
+  IXXIXXXXIIIIZZ   (weight 8)
+  IIXXIIIIXXXXYY   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+
+class 507   |U_3| = 11378
+  XXXXIXIIIIXXIY   (weight 8)
+  XXXXXIIIIIZYYI   (weight 8)
+  IIIXIIXXXXYIXX   (weight 8)
+
+class 508   |U_3| = 11378
+  IIIXXXXIIIYYYY   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  IIXIIIIXXXXXXX   (weight 8)
+
+class 509   |U_3| = 11378
+  IXXXXIIIIIZZXX   (weight 8)
+  IXIIIXXXZZIIYY   (weight 8)
+  IXXXXIIIYYYYII   (weight 8)
+
+class 510   |U_3| = 11378
+  XXXXXIXIIIIIYY   (weight 8)
+  XXXXXXIIIIYYII   (weight 8)
+  IIIIXIIXXXXXXX   (weight 8)
+
+class 511   |U_3| = 11378
+  IIIIXXXXXXIIZZ   (weight 8)
+  XXXXXXIIIIZZII   (weight 8)
+  IIIIXIIXXXYYXX   (weight 8)
+
+class 512   |U_3| = 11378
+  IIIXXXXIIIYYYY   (weight 8)
+  XXXIXXXIIIIIYY   (weight 8)
+  IIXIIIIXXXXXXX   (weight 8)
+
+class 513   |U_3| = 11378
+  IXXXIIIIYXZZIY   (weight 8)
+  IIXXIIIIXZXXYY   (weight 8)
+  IIIIXXXXYYIIZX   (weight 8)
+
+class 514   |U_3| = 11378
+  XXXIXXIIIIZXYI   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  IIXIIIXXXXYIZX   (weight 8)
+
+class 515   |U_3| = 11378
+  IXXIIIIXIYXZZZ   (weight 8)
+  IXIXXXXIZXYIII   (weight 8)
+  IXXIIIIIYYYYYY   (weight 8)
+
+class 516   |U_3| = 11386
+  IIIIXXIIXXYYXX   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+  IIXXIIXXIIXXYY   (weight 8)
+
+class 517   |U_3| = 11386
+  IIIXIIIXXXXXZZ   (weight 8)
+  IIIIXXXXXXIIXX   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 518   |U_3| = 11386
+  IIIXXIIXXXXIZX   (weight 8)
+  IIIIIXXXXXIXXZ   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 519   |U_3| = 11386
+  IXIIXXXXIIIXXX   (weight 8)
+  XXIIIIIIXXXXXX   (weight 8)
+  XXXXXXXXIIIIII   (weight 8)
+
+class 520   |U_3| = 11386
+  IIXXIIXXXXXXII   (weight 8)
+  IIIIXXXXXXIIXX   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+
+class 521   |U_3| = 11386
+  IIIXIIIXXXXXXX   (weight 8)
+  IIIXXXXIIIXXXX   (weight 8)
+  IIXIXXXIIIYYYY   (weight 8)
+
+class 522   |U_3| = 11386
+  IXIXXIIIIXXXXX   (weight 8)
+  IXIIIXXXXXXXII   (weight 8)
+  IXXIIXXXXIIIYY   (weight 8)
+
+class 523   |U_3| = 11386
+  IIIIXXIIXXZZXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+
+class 524   |U_3| = 11386
+  XXIIIXXXIIIXXX   (weight 8)
+  XXIIIIIIXXXXXX   (weight 8)
+  XXXXXIIIXXXIII   (weight 8)
+
+class 525   |U_3| = 11386
+  IXIIXXXIIIXXXX   (weight 8)
+  IXIIIIIXXXXXXX   (weight 8)
+  IXXXIIIXXXIIYY   (weight 8)
+
+class 526   |U_3| = 11386
+  IXIIXXXIIIXXXX   (weight 8)
+  IXIIIIIXXXXXZZ   (weight 8)
+  IXXXIIIXXXIIYY   (weight 8)
+
+class 527   |U_3| = 11392
+  IXIXIXXXIIIYYX   (weight 8)
+  IIIXXIIXXXXZZI   (weight 8)
+  IIXIIXXYYYYIIZ   (weight 8)
+
+class 528   |U_3| = 11392
+  XXIIIXXXXIIIXX   (weight 8)
+  XIIXXXIIIXXXXI   (weight 8)
+  IXXIIXIIIYYYZY   (weight 8)
+
+class 529   |U_3| = 11392
+  IIXIIYYZXXXIIY   (weight 8)
+  IIIIIZZYYYYYYI   (weight 8)
+  IIIXXYYYIIIXXX   (weight 8)
+
+class 530   |U_3| = 11392
+  IIXIIXXXZZZIIY   (weight 8)
+  IIIIIZZYYYYYYI   (weight 8)
+  IIIXXYYYIIIZZX   (weight 8)
+
+class 531   |U_3| = 11392
+  IIXXXIIIIXXXXZ   (weight 8)
+  IIXIIYYYYZXIIY   (weight 8)
+  IIIIIZZZZYYYYI   (weight 8)
+
+class 532   |U_3| = 11392
+  IIXXXIIIIXXXXZ   (weight 8)
+  IIIIIZZZZYYYYI   (weight 8)
+  IIIXXYYYYYIIIX   (weight 8)
+
+class 533   |U_3| = 11392
+  IIIXIYZXXYIIYY   (weight 8)
+  IIXIIZYYYYYYII   (weight 8)
+  IIIIXYYIIZXXXX   (weight 8)
+
+class 534   |U_3| = 11392
+  IIXXIXXZZIIIYY   (weight 8)
+  IIXIIZYYYYYYII   (weight 8)
+  IIIIXYYIIZZZXX   (weight 8)
+
+class 535   |U_3| = 11392
+  IIXIXXIIIXXXXX   (weight 8)
+  IIXXIXXXXIIIYY   (weight 8)
+  IIXIIZYYYYYYII   (weight 8)
+
+class 536   |U_3| = 11392
+  IIXIXXIIIXXXZZ   (weight 8)
+  IIXXIXXXXIIIYY   (weight 8)
+  IIIXIYZZZYYYII   (weight 8)
+
+class 537   |U_3| = 11392
+  IIIXXXIIIXXYZY   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+  IIIIIIXXXYYYYZ   (weight 8)
+
+class 538   |U_3| = 11392
+  XIIXXXIIIXXYXI   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+  XIIIIIXXXYYYIX   (weight 8)
+
+class 539   |U_3| = 11392
+  XIIXXXIIIXYYZI   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+  IIIIIIXXXYYYYX   (weight 8)
+
+class 540   |U_3| = 11392
+  XIIXXXIIIXXXZI   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+  IIIIIIXXXYYYYX   (weight 8)
+
+class 541   |U_3| = 11392
+  IIXXXXIIIYXXZI   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+  IXIIIIXXXYYYIZ   (weight 8)
+
+class 542   |U_3| = 11392
+  IIXXXXIIIYYYZI   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+  IXIIIIXXXYYYIZ   (weight 8)
+
+class 543   |U_3| = 11392
+  XXIIXXXIIXYIIY   (weight 8)
+  XXXXIIIIIZZYYI   (weight 8)
+  IXIIIIIXXYYXXX   (weight 8)
+
+class 544   |U_3| = 11392
+  IIXXXXXIIYXIIY   (weight 8)
+  XXXXIIIIIZZYYI   (weight 8)
+  IXIIIIIXXYYZZX   (weight 8)
+
+class 545   |U_3| = 11392
+  XIIIXXXXXZIIIZ   (weight 8)
+  XXXXIIIIIZZZZI   (weight 8)
+  IXIIIIIXXYYYYX   (weight 8)
+
+class 546   |U_3| = 11392
+  IIIXXXXIIYZIYY   (weight 8)
+  XXXXXIIIIZYYII   (weight 8)
+  IXXIIIIXXYIZXX   (weight 8)
+
+class 547   |U_3| = 11392
+  IIIXXXIIIXXXZY   (weight 8)
+  XXXXIIIIIZZYYI   (weight 8)
+  IIXIIIXXXYYYIX   (weight 8)
+
+class 548   |U_3| = 11392
+  IIIXXXIIIYYXZY   (weight 8)
+  XXXXIIIIIZZYYI   (weight 8)
+  IIXIIIXXXYYYIX   (weight 8)
+
+class 549   |U_3| = 11392
+  IIIXXXXIIXXIYY   (weight 8)
+  XXXXXIIIIZYYII   (weight 8)
+  IIXIIIIXXYYZXX   (weight 8)
+
+class 550   |U_3| = 11392
+  XXIXXIIXXXIIIX   (weight 8)
+  IIIXXXXIIXXXXI   (weight 8)
+  IIXIIIIXXYYYYZ   (weight 8)
+
+class 551   |U_3| = 11392
+  IIIIXXXIIYXYYY   (weight 8)
+  XXXXXIIIIZYYII   (weight 8)
+  IIIXIIIXXYYXXX   (weight 8)
+
+class 552   |U_3| = 11392
+  IIIIXXXIIYXYYY   (weight 8)
+  XXXXIXXIIXZIII   (weight 8)
+  IIIXIIIXXYYXXX   (weight 8)
+
+class 553   |U_3| = 11392
+  XIIXXXIIIXXZZI   (weight 8)
+  IXXIIXIIIYZXXY   (weight 8)
+  XIXIIIXXXYYIIZ   (weight 8)
+
+class 554   |U_3| = 11392
+  IXIXXIXXXXIIIX   (weight 8)
+  XIIXXXIIIXXXXI   (weight 8)
+  IXXIIXIIIYZZZY   (weight 8)
+
+class 555   |U_3| = 11392
+  IXXIIXXIIYXIYY   (weight 8)
+  XXXXXIIIIZYYII   (weight 8)
+  XIXIIIIXXYIXXX   (weight 8)
+
+class 556   |U_3| = 11392
+  XIIXXXXIIXZIIY   (weight 8)
+  IXXIIXXIIYXYYI   (weight 8)
+  XIXIIIIXXYIZZX   (weight 8)
+
+class 557   |U_3| = 11392
+  IIXXIIIXYYZXXI   (weight 8)
+  IXIIIIIZZZYYYY   (weight 8)
+  IIIIXXXYYYYIIX   (weight 8)
+
+class 558   |U_3| = 11392
+  IXIIXXXXXXIIIZ   (weight 8)
+  IIXXIIIXYYZZZI   (weight 8)
+  IXIIIIIZZZYYYY   (weight 8)
+
+class 559   |U_3| = 11392
+  IIXXXXXZIIIIXX   (weight 8)
+  IIXXIIIXYYYYZI   (weight 8)
+  IXIIIIIZZZZZYY   (weight 8)
+
+class 560   |U_3| = 11392
+  IIXXIIIXXXZXXI   (weight 8)
+  IXIIIIIZZZYYYY   (weight 8)
+  IIIIXXXYYYYIIX   (weight 8)
+
+class 561   |U_3| = 11392
+  IXIIXXXXXXIIIZ   (weight 8)
+  IIXXIIIXXXZZZI   (weight 8)
+  IXIIIIIZZZYYYY   (weight 8)
+
+class 562   |U_3| = 11392
+  IXXXXXXIIIIIZZ   (weight 8)
+  IIXXIIIXXXXXZI   (weight 8)
+  IXIIIIIZZZZZYY   (weight 8)
+
+class 563   |U_3| = 11392
+  IIIXXIIXYZXYIY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IIIIIXXYYYIZXX   (weight 8)
+
+class 564   |U_3| = 11392
+  IXIXXIIXYXXIIY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IXIIIXXYYIIXXX   (weight 8)
+
+class 565   |U_3| = 11392
+  IIXXXIIYXZZIIY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IXIIIXXYYIIZZX   (weight 8)
+
+class 566   |U_3| = 11392
+  IIIXXXXZIIIXXZ   (weight 8)
+  IXIXXIIXYYYIIY   (weight 8)
+  IXXIIIIZZZZYYI   (weight 8)
+
+class 567   |U_3| = 11392
+  IXIXXIIYYZXIIY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IIIIIXXYYYIXXX   (weight 8)
+
+class 568   |U_3| = 11392
+  IIXXXIIXXXZIIY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IIIIIXXYYYIZZX   (weight 8)
+
+class 569   |U_3| = 11392
+  IXIXXXXIIIIXXZ   (weight 8)
+  IXXIIIIZZZZYYI   (weight 8)
+  IIIIIXXYYYYYIX   (weight 8)
+
+class 570   |U_3| = 11392
+  IXIXXXIYYYIIIY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IIIIIIXYYZXXXX   (weight 8)
+
+class 571   |U_3| = 11392
+  IIXXXXIXXIIIYY   (weight 8)
+  IXXIIIIZZYYYYI   (weight 8)
+  IIIIIIXYYZZZXX   (weight 8)
+
+class 572   |U_3| = 11392
+  IXIXXXXIIIIXXZ   (weight 8)
+  IXXIIIIZZZZYYI   (weight 8)
+  IIIIIIXYYYYZXX   (weight 8)
+
+class 573   |U_3| = 11392
+  IXIIXXIYZYIIYY   (weight 8)
+  IXXXIIIZYYYYII   (weight 8)
+  IIIIIIXYYZXXXX   (weight 8)
+
+class 574   |U_3| = 11392
+  IIXXXXIXXIIIYY   (weight 8)
+  IXXXIIIZYYYYII   (weight 8)
+  IIIIIIXYYZZZXX   (weight 8)
+
+class 575   |U_3| = 11392
+  IXXXIIXXIIIXZZ   (weight 8)
+  IXIIXXIYZZZYII   (weight 8)
+  IIIIIIXYYYYZXX   (weight 8)
+
+class 576   |U_3| = 11392
+  IXXXIIXXIIIXXX   (weight 8)
+  IIXXXXIXXXXIII   (weight 8)
+  IIIIIIXYYYYZZZ   (weight 8)
+
+class 577   |U_3| = 11392
+  IXXXIIXXXXIIIX   (weight 8)
+  IXIIXXXIIIXXXX   (weight 8)
+  IIIIIIXYYYYYYZ   (weight 8)
+
+class 578   |U_3| = 11392
+  IIIXXIIXXZZIYY   (weight 8)
+  IXXXIIIZYYYYII   (weight 8)
+  IIXIIXXYYIIZXX   (weight 8)
+
+class 579   |U_3| = 11392
+  IXIXIXXXIIIXXX   (weight 8)
+  IIIXXIIXXXXIYY   (weight 8)
+  IXXXIIIZYYYYII   (weight 8)
+
+class 580   |U_3| = 11392
+  IXIXIXXXIIIXZZ   (weight 8)
+  IIIXXIIXXXXIYY   (weight 8)
+  IXXIXIIYZZZYII   (weight 8)
+
+class 581   |U_3| = 11398
+  XXXXIIIIXXZZII   (weight 8)
+  IIXXIIIIZZXXYY   (weight 8)
+  IIIIXXXXYYIIZZ   (weight 8)
+
+class 582   |U_3| = 11398
+  IXXIIIIIXXZZZZ   (weight 8)
+  XIXIIIIIZZXXXX   (weight 8)
+  XIIXXXXXYYIIII   (weight 8)
+
+class 583   |U_3| = 11398
+  XXXXXIIIXZIIIY   (weight 8)
+  IIXXXIIIZXYYYI   (weight 8)
+  IIIIIXXXYIZZZX   (weight 8)
+
+class 584   |U_3| = 11398
+  XXIIXXXXIIIIXX   (weight 8)
+  XXXXIIIIXXXXII   (weight 8)
+  IIXXIIIIZZZZYY   (weight 8)
+
+class 585   |U_3| = 11398
+  IXXXIIIIXZZZIY   (weight 8)
+  XIXXIIIIZXXXYI   (weight 8)
+  XIIIXXXXYIIIZX   (weight 8)
+
+class 586   |U_3| = 11398
+  XXIIXXXXIIIIYY   (weight 8)
+  IIXXIIIIZZZZXX   (weight 8)
+  XXIIIIIIYYYYYY   (weight 8)
+
+class 587   |U_3| = 11398
+  IXXXXIIIZZIIYY   (weight 8)
+  XIXXXIIIXXYYII   (weight 8)
+  XIIIIXXXIIZZXX   (weight 8)
+
+class 588   |U_3| = 11400
+  IIIIXIIYYXZZZX   (weight 8)
+  IIIIIXXZZIYYYY   (weight 8)
+  IIIIIYYYYYYYYI   (weight 8)
+
+class 589   |U_3| = 11400
+  IXXIXXIIIXXXIZ   (weight 8)
+  IIIIXXXXXIIYXY   (weight 8)
+  IXXXIIXXXIIXZI   (weight 8)
+
+class 590   |U_3| = 11400
+  IIIIXIIYYYYXZX   (weight 8)
+  IIIIIXXZZZZIYY   (weight 8)
+  IIIIIZZXXXXYIY   (weight 8)
+
+class 591   |U_3| = 11400
+  IXXIIIIXXXXZIZ   (weight 8)
+  IXIIXXXXIIIYXY   (weight 8)
+  IXXXXXXIIIIZZI   (weight 8)
+
+class 592   |U_3| = 11400
+  IIIIXXIXXXXIYY   (weight 8)
+  IIIXIXIZZZZYIY   (weight 8)
+  IIIIIIXYYYYZXX   (weight 8)
+
+class 593   |U_3| = 11400
+  IIXIXIIXXXIZXX   (weight 8)
+  IIIIXXXIIYXYYY   (weight 8)
+  IIXXIXXIIXZIYY   (weight 8)
+
+class 594   |U_3| = 11400
+  IIXIXIIXXXIZZZ   (weight 8)
+  IIIIXXXIIYXYYY   (weight 8)
+  IIXXXIIIIZYYYY   (weight 8)
+
+class 595   |U_3| = 11400
+  IIIIXXXXXIIZZZ   (weight 8)
+  IIXXXIXIIXXYIY   (weight 8)
+  IIXXXXIIIZZYYI   (weight 8)
+
+class 596   |U_3| = 11400
+  IIIXXIIXXIYZZX   (weight 8)
+  IIIXIXXIIXXXXZ   (weight 8)
+  IIIXIXXYYZXIIY   (weight 8)
+
+class 597   |U_3| = 11400
+  IIXXIXXIIXXIYX   (weight 8)
+  IXIIIXXXXIIXZY   (weight 8)
+  IIXXXIIXXIIZXY   (weight 8)
+
+class 598   |U_3| = 11400
+  IIIXIXIXXIYXXX   (weight 8)
+  IIXIIXXIIXZYYY   (weight 8)
+  IIIXXIXIIZXYYY   (weight 8)
+
+class 599   |U_3| = 11400
+  IIIXIXXXIIYYYX   (weight 8)
+  IIIXXIIYXXZZZI   (weight 8)
+  IIIIXIIXZZXXXY   (weight 8)
+
+class 600   |U_3| = 11400
+  IIXIXXXXXZIIIZ   (weight 8)
+  IIIXXXIIIYXXXY   (weight 8)
+  IIXIXXIIIXYYYY   (weight 8)
+
+class 601   |U_3| = 11400
+  IIXXIIXXXXXIIX   (weight 8)
+  IIIXXXIIIYXXXY   (weight 8)
+  IIXIXXIIIXYZZY   (weight 8)
+
+class 602   |U_3| = 11400
+  IIXXIXXIIIXXZX   (weight 8)
+  IXIIIXXXXXIIYY   (weight 8)
+  IIXXXIIXXXIYIY   (weight 8)
+
+class 603   |U_3| = 11400
+  IIIXXIIIYXXZZX   (weight 8)
+  IIIIXXXXZIIYYY   (weight 8)
+  IIIXIXXZXYYIIY   (weight 8)
+
+class 604   |U_3| = 11400
+  IIXXIXIXXIIXZX   (weight 8)
+  IIXXXIXIIZZYIY   (weight 8)
+  IIXXXXIIIYYYYI   (weight 8)
+
+class 605   |U_3| = 11400
+  IIIXXXXZIIIXXZ   (weight 8)
+  IIIXIIIYXXXZZY   (weight 8)
+  IIIXIIIXYYYXXY   (weight 8)
+
+class 606   |U_3| = 11400
+  IIXIXIIXXXIXXZ   (weight 8)
+  IIXXIXXIIXZYYI   (weight 8)
+  IIXXXIIIIZYYYY   (weight 8)
+
+class 607   |U_3| = 11400
+  IIIXXIXIIXZXXX   (weight 8)
+  IIIIXXIXXIYYYY   (weight 8)
+  IIIXIXIZZYIYYY   (weight 8)
+
+class 608   |U_3| = 11400
+  IIXXXXIIXIIXZX   (weight 8)
+  IIIIXXXXIXXIYY   (weight 8)
+  IIXXIIXXIZZYIY   (weight 8)
+
+class 609   |U_3| = 11400
+  IIIXXIXIIYYXZX   (weight 8)
+  IIIIXXIXXZZIYY   (weight 8)
+  IIIXIXIZZXXYIY   (weight 8)
+
+class 610   |U_3| = 11400
+  IIIXXXXXXIIIZZ   (weight 8)
+  IIXXIXIIIXXXXY   (weight 8)
+  IIXXXIIIIZZZYY   (weight 8)
+
+class 611   |U_3| = 11400
+  IIXIXIXXXXIIYX   (weight 8)
+  IIXXIXIIIXZZXY   (weight 8)
+  IIXXXIIIIZYYYY   (weight 8)
+
+class 612   |U_3| = 11400
+  IIXIXXIIXXXXIZ   (weight 8)
+  IXIIXXXXIIIYXY   (weight 8)
+  IXXXXXIIIIIZYY   (weight 8)
+
+class 613   |U_3| = 11400
+  IIIIXXXXXIIYYX   (weight 8)
+  IIIXIIIYXXXZZY   (weight 8)
+  IIIXIIIXYZZXXY   (weight 8)
+
+class 614   |U_3| = 11400
+  IIIXXXXZZZIIIZ   (weight 8)
+  IIIXIIIYYYXXXY   (weight 8)
+  IIIXXXXIIIZZZZ   (weight 8)
+
+class 615   |U_3| = 11400
+  IIIIIXXXXIYXZX   (weight 8)
+  IIIXXIIYXXZIYY   (weight 8)
+  IIIXXIIXYZXYIY   (weight 8)
+
+class 616   |U_3| = 11400
+  IIIXIXXXIIYXXX   (weight 8)
+  IIIXXIIYXXZIYY   (weight 8)
+  IIIIXIIXZZXYYY   (weight 8)
+
+class 617   |U_3| = 11400
+  IIXIIIXXXXXXIX   (weight 8)
+  IIXXXXIIIYYXXI   (weight 8)
+  IIIXXXIIIXXYZY   (weight 8)
+
+class 618   |U_3| = 11400
+  IIIXIXXXIIYXZZ   (weight 8)
+  IIIXXIIYXXZIYY   (weight 8)
+  IIIXIIIZYYYYYY   (weight 8)
+
+class 619   |U_3| = 11400
+  IIIXIXIXXIYYYX   (weight 8)
+  IIXIIXXIIXZZZY   (weight 8)
+  IIIXXIXIIZXXXY   (weight 8)
+
+class 620   |U_3| = 11400
+  IIIXXIIYYYYYZI   (weight 8)
+  IIIIXIIXXXXXXY   (weight 8)
+  IIIIIXXYYYYYIZ   (weight 8)
+
+class 621   |U_3| = 11400
+  IIXXXIIIXXXXIZ   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+  IIXXXIIIIZZZYY   (weight 8)
+
+class 622   |U_3| = 11400
+  IIIXIXXXIIYXXX   (weight 8)
+  IIIIXIIXZZXYYY   (weight 8)
+  IIIXIIIZYYYYYY   (weight 8)
+
+class 623   |U_3| = 11400
+  IIIXIXIXXIYZZX   (weight 8)
+  IIXIIXXIIXZYYY   (weight 8)
+  IIXXXXIIIYYYYI   (weight 8)
+
+class 624   |U_3| = 11400
+  IIIXXIIYXXXXZI   (weight 8)
+  IIIIXIIXZZZZXY   (weight 8)
+  IIIIIXXYYYYYIZ   (weight 8)
+
+class 625   |U_3| = 11400
+  IIXXXIIIXXXXIZ   (weight 8)
+  IIXIIXXXXZIIXX   (weight 8)
+  IIXIIXXXIXYYZI   (weight 8)
+
+class 626   |U_3| = 11400
+  IIXXXIIIXXIXXZ   (weight 8)
+  IIIXXXXXIYXIIY   (weight 8)
+  IIXIIXXXIXZYYI   (weight 8)
+
+class 627   |U_3| = 11400
+  IIIXXXXIIYYYZI   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+  IIXIIXXIIXXXXY   (weight 8)
+
+class 628   |U_3| = 11400
+  IIIXXIIYYYZIYY   (weight 8)
+  IIIXXXXIIIZZZZ   (weight 8)
+  IIIIXIIXXXXYYY   (weight 8)
+
+class 629   |U_3| = 11400
+  IIIXXXXIIIZZZZ   (weight 8)
+  IIIIXIIXXXXYYY   (weight 8)
+  IIIXIIIZZZYYYY   (weight 8)
+
+class 630   |U_3| = 11400
+  IIIXXIIYYYZZZI   (weight 8)
+  IIIXXXXIIIZZZZ   (weight 8)
+  IIIIXIIXXXXXXY   (weight 8)
+
+class 631   |U_3| = 11400
+  IIIXIIXXXXXIYX   (weight 8)
+  IIIXXXIIIYYXZY   (weight 8)
+  IIXIXXIIIXXZXY   (weight 8)
+
+class 632   |U_3| = 11400
+  IXIXIXIIXXXIYX   (weight 8)
+  IXXIIXXXIIIXZY   (weight 8)
+  IXIXXIXXIIIZXY   (weight 8)
+
+class 633   |U_3| = 11400
+  IIXIXIIIXXXXXX   (weight 8)
+  IXIIXXXXIIIYXY   (weight 8)
+  IIXXIXXXIIIXYY   (weight 8)
+
+class 634   |U_3| = 11400
+  IIIXXIXIIXZZZX   (weight 8)
+  IIIIXXIXXIYYYY   (weight 8)
+  IIIXXIIYYYYYYI   (weight 8)
+
+class 635   |U_3| = 11400
+  IIXXXIIXXXIIYX   (weight 8)
+  IIIXXXXIIYXXZI   (weight 8)
+  IIXIIXXIIXZZXY   (weight 8)
+
+class 636   |U_3| = 11400
+  IIIIXIIYYXZXXX   (weight 8)
+  IIIIIXXZZIYYYY   (weight 8)
+  IIIIIZZXXYIYYY   (weight 8)
+
+class 637   |U_3| = 11406
+  IIXXIIIIXXXXXX   (weight 8)
+  IIIIXXXXXXXXII   (weight 8)
+  XXIIXXXXIIIIYY   (weight 8)
+
+class 638   |U_3| = 11406
+  IIIIXXXXIIYYZZ   (weight 8)
+  IIXXIIIIXXZZYY   (weight 8)
+  IIIIXXXXYYIIXX   (weight 8)
+
+class 639   |U_3| = 11406
+  IIIIXXXXIIYYYY   (weight 8)
+  IIXXIIIIXXZZZZ   (weight 8)
+  IIXXIIIIZZXXXX   (weight 8)
+
+class 640   |U_3| = 11406
+  IXIXIIIIXXXXZZ   (weight 8)
+  XIIXXXXXIIIIYY   (weight 8)
+  XIXIIIIIXXXXXX   (weight 8)
+
+class 641   |U_3| = 11406
+  IIIIIXXXIYXZZZ   (weight 8)
+  IIXXXIIIXZIYYY   (weight 8)
+  IIIIIXXXYIZXXX   (weight 8)
+
+class 642   |U_3| = 11406
+  IXXIIIIIXXXXZZ   (weight 8)
+  IIXXXXXXIIIIYY   (weight 8)
+  IXIXXXXXIIYYII   (weight 8)
+
+class 643   |U_3| = 11406
+  IXXIIIIXXXIYXZ   (weight 8)
+  IIXXXXXIIIXZIY   (weight 8)
+  IXIXXXXIIIZXYI   (weight 8)
+
+class 644   |U_3| = 11406
+  IIXXXXIIIIXXXX   (weight 8)
+  IXIXXXIIIIZZZZ   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+
+class 645   |U_3| = 11406
+  IXXIIIXXXXIIYY   (weight 8)
+  IIXXXXIIIIXXZZ   (weight 8)
+  IXIXXXIIIIZZXX   (weight 8)
+
+class 646   |U_3| = 11406
+  IXXIIIXXXXIIZZ   (weight 8)
+  IIXXXXIIIIXXYY   (weight 8)
+  IIIIIIXXXXYYXX   (weight 8)
+
+class 647   |U_3| = 11406
+  XXIXIIIXXXXXII   (weight 8)
+  XXXIXXXIIIIIZZ   (weight 8)
+  IIXIIIIXXXXXYY   (weight 8)
+
+class 648   |U_3| = 11406
+  XXXXIIIIXXXXII   (weight 8)
+  IIXXXXXXIIIIXX   (weight 8)
+  XXIIXXXXIIIIZZ   (weight 8)
+
+class 649   |U_3| = 11406
+  IIIXXXIIIXXXXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  XXXIIIXXXIIIYY   (weight 8)
+
+class 650   |U_3| = 11418
+  IXXIIIYXXXYIIY   (weight 8)
+  XIIIIIZYYYYYYI   (weight 8)
+  IIIXXXYIIIZXXX   (weight 8)
+
+class 651   |U_3| = 11418
+  XXIIIIYYXXXXII   (weight 8)
+  IIIIIIZZYYYYYY   (weight 8)
+  IIXXXXYYIIIIXX   (weight 8)
+
+class 652   |U_3| = 11418
+  IXXIIIZZZZIIYY   (weight 8)
+  XXIIIIYYYYYYII   (weight 8)
+  XIIXXXIIIIZZXX   (weight 8)
+
+class 653   |U_3| = 11418
+  XXXXIIZZIIIIYY   (weight 8)
+  XXIIIIYYYYYYII   (weight 8)
+  IIIIXXIIZZZZXX   (weight 8)
+
+class 654   |U_3| = 11418
+  XIXIIIXXXXIIYY   (weight 8)
+  XXIIIIYYYYYYII   (weight 8)
+  XIIXXXIIIIXXXX   (weight 8)
+
+class 655   |U_3| = 11418
+  XXXIIIXZZZIIIY   (weight 8)
+  XIIIIIZYYYYYYI   (weight 8)
+  IIIXXXYIIIZZZX   (weight 8)
+
+class 656   |U_3| = 11418
+  XXXXXXIIIIIIXX   (weight 8)
+  XXIIIIYYYYYYII   (weight 8)
+  IIIIIIZZZZZZYY   (weight 8)
+
+class 657   |U_3| = 11418
+  IIXXIIXXYYIIYY   (weight 8)
+  XXIIIIYYYYYYII   (weight 8)
+  IIIIXXIIZZXXXX   (weight 8)
+
+class 658   |U_3| = 11418
+  XXIIIIXXZZZZII   (weight 8)
+  IIIIIIZZYYYYYY   (weight 8)
+  IIXXXXYYIIIIZZ   (weight 8)
+
+class 659   |U_3| = 11418
+  XIXXXXXIIIIIZX   (weight 8)
+  IXIIIIYZZZZZIY   (weight 8)
+  XIIIIIZYYYYYYI   (weight 8)
+
+class 660   |U_3| = 11418
+  IXIIIIYZXXXXIY   (weight 8)
+  XIIIIIZYYYYYYI   (weight 8)
+  IIXXXXYYIIIIXX   (weight 8)
+
+class 661   |U_3| = 11420
+  IXIIXXIIIYZYYY   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+  IIIIIIXXXYYZZZ   (weight 8)
+
+class 662   |U_3| = 11420
+  IIXXXXIIIXXIYY   (weight 8)
+  IXIXXXIIIYYYIY   (weight 8)
+  IIIIIIXXXYYZXX   (weight 8)
+
+class 663   |U_3| = 11420
+  IIXXXXXIIIIYXY   (weight 8)
+  XXIIXXXIIIIXYY   (weight 8)
+  IXIIIIIXXXXYYX   (weight 8)
+
+class 664   |U_3| = 11420
+  IIXXXXIIIXXIYY   (weight 8)
+  IXIIXXIIIYZYYY   (weight 8)
+  IIIIIIXXXYYZXX   (weight 8)
+
+class 665   |U_3| = 11420
+  IIXIIIIXXXZZZY   (weight 8)
+  IIXIIIIYYZXXXY   (weight 8)
+  IIIXXXXYYYIIIX   (weight 8)
+
+class 666   |U_3| = 11420
+  IIXXXXXIIIIXXZ   (weight 8)
+  IIXIIIIXXXXXZY   (weight 8)
+  IIXIIIIYYYYZXY   (weight 8)
+
+class 667   |U_3| = 11420
+  IXIIXXIIIXXYYY   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+  IXIIIIXXXYIZZZ   (weight 8)
+
+class 668   |U_3| = 11420
+  IIXXXXIIIYZIYY   (weight 8)
+  IXIIXXIIIXXYYY   (weight 8)
+  IXIIIIXXXYIZXX   (weight 8)
+
+class 669   |U_3| = 11420
+  IIIXXXXXXZIIIZ   (weight 8)
+  IIXXXIIIIYXXXY   (weight 8)
+  IXIXXIIIIXYYYY   (weight 8)
+
+class 670   |U_3| = 11420
+  IIXXXIIIIYXZZY   (weight 8)
+  IXIXXIIIIXYXXY   (weight 8)
+  IXIIIXXXXYYIIX   (weight 8)
+
+class 671   |U_3| = 11420
+  IXXXXXIIIYXIIY   (weight 8)
+  IIIXXXIIIXYYYY   (weight 8)
+  IIIIIIXXXYYZZX   (weight 8)
+
+class 672   |U_3| = 11420
+  IXXXXIIIIYYYZI   (weight 8)
+  IIXXXIIIIXXXXY   (weight 8)
+  IIIIIXXXXYYYIZ   (weight 8)
+
+class 673   |U_3| = 11420
+  IIXXIIIXXZZIYY   (weight 8)
+  IIXXIIIYYXXYIY   (weight 8)
+  IIIIXXXYYIIZXX   (weight 8)
+
+class 674   |U_3| = 11420
+  IIXXXXXIIIIXXZ   (weight 8)
+  IIXXIIIXXXXIYY   (weight 8)
+  IIXXIIIYYYYYIY   (weight 8)
+
+class 675   |U_3| = 11420
+  IIXXXIIIIXXXZY   (weight 8)
+  IXIXXIIIIYYZXY   (weight 8)
+  IIIIIXXXXYYYIX   (weight 8)
+
+class 676   |U_3| = 11420
+  IXXXXIIIIYXXZI   (weight 8)
+  IIXXXIIIIXYYXY   (weight 8)
+  IIIIIXXXXYYYIZ   (weight 8)
+
+class 677   |U_3| = 11420
+  XXXXIXXIIIIXZI   (weight 8)
+  XXXXXIIIIIIZYY   (weight 8)
+  IIIXIIIXXXXYYX   (weight 8)
+
+class 678   |U_3| = 11420
+  XXXXIIXXIIIYIY   (weight 8)
+  XXXXXXIIIIIYYI   (weight 8)
+  IIXXIIIIXXXZXX   (weight 8)
+
+class 679   |U_3| = 11420
+  IIXXXIIXZIIYYY   (weight 8)
+  IIIXXIIYXYYIYY   (weight 8)
+  IIIIIXXYIZZXXX   (weight 8)
+
+class 680   |U_3| = 11420
+  IIXXXIIXZIIYYY   (weight 8)
+  IIXIIIIZYYYYYY   (weight 8)
+  IIIIIXXYIZZXXX   (weight 8)
+
+class 681   |U_3| = 11420
+  IIIXXIIYXYYYYI   (weight 8)
+  IIXIIIIZYYYYYY   (weight 8)
+  IIIIIXXYIZZZZX   (weight 8)
+
+class 682   |U_3| = 11420
+  IIIXXXIIIXZYYY   (weight 8)
+  IXXIXXIIIYXIYY   (weight 8)
+  IIXIIIXXXYIXXX   (weight 8)
+
+class 683   |U_3| = 11420
+  XXIXXIIIIXXXIX   (weight 8)
+  IIIXXXXXXIIXXI   (weight 8)
+  XXXXXIIIIIIZYY   (weight 8)
+
+class 684   |U_3| = 11420
+  IIXIXXXXIIIXXX   (weight 8)
+  IIIXIIIYZZZYYY   (weight 8)
+  IIXIIIIZYYYYYY   (weight 8)
+
+class 685   |U_3| = 11420
+  IIIXXXXIIIXXXX   (weight 8)
+  IIXIIIIZZZYYYY   (weight 8)
+  IIIIIXXYYYIXXX   (weight 8)
+
+class 686   |U_3| = 11420
+  XXXIIXXIIIIYZY   (weight 8)
+  XXXXXIIIIIIZYY   (weight 8)
+  IIXIIIIXXXXYYZ   (weight 8)
+
+class 687   |U_3| = 11420
+  IXIXIXXXXXIIIX   (weight 8)
+  IXXIXIIIIYZZZY   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+
+class 688   |U_3| = 11420
+  IXXIXIIIIYZXXY   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+  IIXIIXXXXYYIIZ   (weight 8)
+
+class 689   |U_3| = 11420
+  XIIXXXXXIIIIYY   (weight 8)
+  XXXXXXIIIIIYYI   (weight 8)
+  XIXIIIIIXXXZXX   (weight 8)
+
+class 690   |U_3| = 11420
+  IIIXXIIYYYYYXI   (weight 8)
+  IIXIIIIZZZZZYY   (weight 8)
+  IIIIIXXYYYYYIX   (weight 8)
+
+class 691   |U_3| = 11420
+  IIIXIIIYZXXYYY   (weight 8)
+  IIXIIIIZYYYYYY   (weight 8)
+  IIIIXXXYYIIZZZ   (weight 8)
+
+class 692   |U_3| = 11420
+  IXXXXIIIXIIXZX   (weight 8)
+  IXIIIXXXIZZYIY   (weight 8)
+  IXXXXIIIIYYYYI   (weight 8)
+
+class 693   |U_3| = 11420
+  IIIXXIIZZIYYYY   (weight 8)
+  IIXIXIIXXYIYYY   (weight 8)
+  IIXIIXXIIZXXXX   (weight 8)
+
+class 694   |U_3| = 11420
+  IIXIXIIXXYYYIY   (weight 8)
+  IIXXIIIYYYYYYI   (weight 8)
+  IIXIIXXIIZZZXX   (weight 8)
+
+class 695   |U_3| = 11420
+  IXXXIIIIXXXXIX   (weight 8)
+  IXIIXXXXXIIIXX   (weight 8)
+  IXXXIIIIIZZZYY   (weight 8)
+
+class 696   |U_3| = 11420
+  XXXIIXXIIIIXXY   (weight 8)
+  XXXXXIIIIIIZYY   (weight 8)
+  IXXIIIIXXXXYIZ   (weight 8)
+
+class 697   |U_3| = 11420
+  XIXXXIIIIXXXIZ   (weight 8)
+  XXIIIXXXXIIXZI   (weight 8)
+  XXXXXIIIIIIZYY   (weight 8)
+
+class 698   |U_3| = 11420
+  IXXXIIIIXXIXXX   (weight 8)
+  IIXXXXXXIXXIII   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+
+class 699   |U_3| = 11420
+  IXXXIIIIXXIXZZ   (weight 8)
+  IXIIXXXXIYZYII   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+
+class 700   |U_3| = 11420
+  IXIXXIIIXIYXXX   (weight 8)
+  IIIXXXXXIXZIIY   (weight 8)
+  IXXXXIIIIYYYYI   (weight 8)
+
+class 701   |U_3| = 11420
+  IXIXXIIIXIYZZX   (weight 8)
+  IXXIIXXXIZXIIY   (weight 8)
+  IXXXXIIIIYYYYI   (weight 8)
+
+class 702   |U_3| = 11420
+  XIIXXXXIIIIXZY   (weight 8)
+  XXXXXXIIIIIYYI   (weight 8)
+  XIXIIIIXXXXYIX   (weight 8)
+
+class 703   |U_3| = 11420
+  XIIXXXXIIIIXZY   (weight 8)
+  XXXXXIIIIIIZYY   (weight 8)
+  XIXIIIIXXXXYIX   (weight 8)
+
+class 704   |U_3| = 11420
+  IIXIXXXXIIIXXX   (weight 8)
+  IIXXIIIXXXXIYY   (weight 8)
+  IIIXIIIYZZZYYY   (weight 8)
+
+class 705   |U_3| = 11420
+  IIXXIIIXXZZIYY   (weight 8)
+  IIIXIIIYZXXYYY   (weight 8)
+  IIIIXXXYYIIZXX   (weight 8)
+
+class 706   |U_3| = 11420
+  IXXIIXXIIYYYIY   (weight 8)
+  IXXXXIIIIYYYYI   (weight 8)
+  IIXIIIIXXZZZXX   (weight 8)
+
+class 707   |U_3| = 11420
+  IIIXXXXIIIYYYY   (weight 8)
+  IXXIIXXIIYIYYY   (weight 8)
+  IIXIIIIXXZXXXX   (weight 8)
+
+class 708   |U_3| = 11420
+  IXIIXXXXXIIIXX   (weight 8)
+  IXIIXXXIIYYYXI   (weight 8)
+  IXXXIIIIIZZZYY   (weight 8)
+
+class 709   |U_3| = 11420
+  IXXXIIIXXXIIYZ   (weight 8)
+  IXIIXXXIIYZZXI   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+
+class 710   |U_3| = 11420
+  IIXIXXXXIIIXZZ   (weight 8)
+  IIXXIIIXXXXIYY   (weight 8)
+  IIXIIIIZYYYYYY   (weight 8)
+
+class 711   |U_3| = 11420
+  IXXIXXIIIYXYYI   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+  IIXIIIXXXYIZZX   (weight 8)
+
+class 712   |U_3| = 11420
+  IIIXXXIIIXZYYY   (weight 8)
+  IXXXIIIIIZYYYY   (weight 8)
+  IIXIIIXXXYIXXX   (weight 8)
+
+class 713   |U_3| = 11426
+  IXIIIIXXXXIYXZ   (weight 8)
+  IXXXXXIIIIXZIY   (weight 8)
+  XIXXXXIIIIZXYI   (weight 8)
+
+class 714   |U_3| = 11426
+  IXIIIXXXXXIIYY   (weight 8)
+  IXXXXIIIIIXXZZ   (weight 8)
+  XIXXXIIIIIZZXX   (weight 8)
+
+class 715   |U_3| = 11426
+  XXIIIIXXXXIIXX   (weight 8)
+  XXXXXXIIIIXXII   (weight 8)
+  IIXXXXIIIIZZYY   (weight 8)
+
+class 716   |U_3| = 11428
+  IIIXXXIIXXIXXX   (weight 8)
+  IIIXIIXXXIXXXX   (weight 8)
+  IIIXIIXXIYZYYY   (weight 8)
+
+class 717   |U_3| = 11428
+  IIIXIIXXXIXXXX   (weight 8)
+  IIIIXXXXIXXXXI   (weight 8)
+  IIIXIIXXIYZZZY   (weight 8)
+
+class 718   |U_3| = 11428
+  IIIXIXIXXXIXXX   (weight 8)
+  IIIXIIXXXIXXZZ   (weight 8)
+  IIIXXIXIIYZYYY   (weight 8)
+
+class 719   |U_3| = 11428
+  IIIXIXIXXXIYYX   (weight 8)
+  IIIXIIXXXIXXXX   (weight 8)
+  IIIXXIXIIYZXXY   (weight 8)
+
+class 720   |U_3| = 11428
+  IIIXIIXXXIXXXX   (weight 8)
+  IIIXXIXIIYZZZY   (weight 8)
+  IIIXXXIIIZYYYY   (weight 8)
+
+class 721   |U_3| = 11428
+  IIXIXXIIIXXXXX   (weight 8)
+  IIXIIIXXXXXZIZ   (weight 8)
+  IIXXIIXXXIIXYY   (weight 8)
+
+class 722   |U_3| = 11428
+  IIXIIXXIIXXXYX   (weight 8)
+  IIXIIIIXXXXZXX   (weight 8)
+  IIXXXIIXXIIXXY   (weight 8)
+
+class 723   |U_3| = 11428
+  IIXXIXXIIXXXIX   (weight 8)
+  IIXXIIIXXXXIXX   (weight 8)
+  IIXXXIIXXIIYZY   (weight 8)
+
+class 724   |U_3| = 11428
+  IIIIXIIXXXXXXX   (weight 8)
+  IIIIXXXIIYXXXY   (weight 8)
+  IIIXIXXIIXYYYY   (weight 8)
+
+class 725   |U_3| = 11428
+  IIIIXIIXXXXZZX   (weight 8)
+  IIIIIXXXXZIXXZ   (weight 8)
+  IIIXIIIXXYYXXX   (weight 8)
+
+class 726   |U_3| = 11428
+  IIIXIIXXXXXXIZ   (weight 8)
+  IIIXXXIIIYYYXY   (weight 8)
+  IIIXXXXXXIIIZZ   (weight 8)
+
+class 727   |U_3| = 11428
+  IIIXIIXXXXXXIZ   (weight 8)
+  IIIIXXXXXZIIXX   (weight 8)
+  IIIIIIXXXYYYYX   (weight 8)
+
+class 728   |U_3| = 11428
+  IIXXXIXIIXXXIZ   (weight 8)
+  IIIIIXXXXXXIZZ   (weight 8)
+  IIXXXXXIIIIZYY   (weight 8)
+
+class 729   |U_3| = 11428
+  IIIXIXXIIXXXYZ   (weight 8)
+  IIXXIIIXXXXIXX   (weight 8)
+  IIXXXXXIIIIZYY   (weight 8)
+
+class 730   |U_3| = 11428
+  IIIIIXXXXIYZZX   (weight 8)
+  IIIIXXXIIXXXXZ   (weight 8)
+  IIIIIXXYYYIXXX   (weight 8)
+
+class 731   |U_3| = 11428
+  IIIIIXXXXIYYYX   (weight 8)
+  IIIIXXXIIXXXXZ   (weight 8)
+  IIIIXIIYYZXXXY   (weight 8)
+
+class 732   |U_3| = 11428
+  IIIIXIXXIXZZXX   (weight 8)
+  IIIIIXXIXXXXZZ   (weight 8)
+  IIIIIIXYYZXXXX   (weight 8)
+
+class 733   |U_3| = 11428
+  IIIIXIXXIXXXXX   (weight 8)
+  IIIIIXXIXXXXZZ   (weight 8)
+  IIIIIXIYZYYYYY   (weight 8)
+
+class 734   |U_3| = 11428
+  IIIIXIXXIYYXXX   (weight 8)
+  IIIIIXXIXXXXXX   (weight 8)
+  IIIIIXIYZXXYYY   (weight 8)
+
+class 735   |U_3| = 11428
+  IIIIIXXIXXXXXX   (weight 8)
+  IIIIIXIYZZZYYY   (weight 8)
+  IIIIXIIZYYYYYY   (weight 8)
+
+class 736   |U_3| = 11428
+  IIIXIXXIXXXXIX   (weight 8)
+  IIXXIIIXXXXIXX   (weight 8)
+  IIXXXXXIIIIZYY   (weight 8)
+
+class 737   |U_3| = 11428
+  IIIXXIIXXXXIYX   (weight 8)
+  IIIXIXXXXIIXXZ   (weight 8)
+  IIIXIXXIIYYZXY   (weight 8)
+
+class 738   |U_3| = 11428
+  IIIXXIIIXXXXZX   (weight 8)
+  IIIXIXXXXIIXXZ   (weight 8)
+  IIIXIXXXIYYYIY   (weight 8)
+
+class 739   |U_3| = 11428
+  IIIIIXXXXXXIYX   (weight 8)
+  IIIIXIIXXXXXZY   (weight 8)
+  IIIIXIIYYYYZXY   (weight 8)
+
+class 740   |U_3| = 11428
+  IIIXXXIIXXIXXX   (weight 8)
+  IIIXIIXXXIXXZZ   (weight 8)
+  IIIXIIXXIYZYYY   (weight 8)
+
+class 741   |U_3| = 11434
+  XIIIXXXIIIYXXZ   (weight 8)
+  IXXXIIXIIIXYZX   (weight 8)
+  XIIXIIIXXXYYYI   (weight 8)
+
+class 742   |U_3| = 11434
+  XIIIXXXXIIYXIY   (weight 8)
+  IXXXIIXXIIXYYI   (weight 8)
+  XIIXIIIIXXYYZX   (weight 8)
+
+class 743   |U_3| = 11434
+  IIXXXXIIIIZZZZ   (weight 8)
+  IIIXIIXXXXYZIY   (weight 8)
+  IIXIIIZZZZZYYI   (weight 8)
+
+class 744   |U_3| = 11434
+  IIIXXXXXIIIYYY   (weight 8)
+  IIIXZIIIXXXXXX   (weight 8)
+  IIIXYYYYYYYIII   (weight 8)
+
+class 745   |U_3| = 11434
+  IIXXXXXXIIIIZZ   (weight 8)
+  IXXXXIIIZZZZII   (weight 8)
+  IIXIIIIXYYYYXX   (weight 8)
+
+class 746   |U_3| = 11434
+  IIXXIXXXIIIYZZ   (weight 8)
+  IIXIXIXYZZZXII   (weight 8)
+  IIIIIXYYYYYIXX   (weight 8)
+
+class 747   |U_3| = 11434
+  IIXIXXXXXIIIZX   (weight 8)
+  IIIXIIXXYZZZIY   (weight 8)
+  IIXIIIZZZYYYYI   (weight 8)
+
+class 748   |U_3| = 11434
+  IIIXIIXXYZXXIY   (weight 8)
+  IIXIIIZZZYYYYI   (weight 8)
+  IIIIXXYYYYIIXX   (weight 8)
+
+class 749   |U_3| = 11434
+  IIXXIXXXXXIIIY   (weight 8)
+  IIXIXXZIIIXXXX   (weight 8)
+  IIIIIXYYYYYYYI   (weight 8)
+
+class 750   |U_3| = 11434
+  XIXXIIXXIIXXIY   (weight 8)
+  IXXXXXIIIIZYYI   (weight 8)
+  XXIXIIIIXXYIXX   (weight 8)
+
+class 751   |U_3| = 11434
+  XIXXXIIXXIIIYY   (weight 8)
+  IXXXXXXIIIYYII   (weight 8)
+  XXIIXIIIIXXXXX   (weight 8)
+
+class 752   |U_3| = 11434
+  IIXXIIXXYYXXII   (weight 8)
+  IIIIIIZZZZYYYY   (weight 8)
+  IIIIXXYYYYIIXX   (weight 8)
+
+class 753   |U_3| = 11434
+  IXXIIIXXIIXXYY   (weight 8)
+  XXXXXXIIIIZZII   (weight 8)
+  XIXIIIIIXXYYXX   (weight 8)
+
+class 754   |U_3| = 11434
+  IIIXXXXIYYIIYY   (weight 8)
+  IXXXXIIIZZYYII   (weight 8)
+  IIXIIIIXYYZZXX   (weight 8)
+
+class 755   |U_3| = 11434
+  XIIXXXXXIIYYII   (weight 8)
+  IXXIIIXXIIXXYY   (weight 8)
+  XIXIIIIIXXYYZZ   (weight 8)
+
+class 756   |U_3| = 11434
+  IIXXXXXXXXIIII   (weight 8)
+  IXXIIIXXIIXXXX   (weight 8)
+  XIXIIIIIXXYYYY   (weight 8)
+
+class 757   |U_3| = 11434
+  IXXIIXXIXXIIYY   (weight 8)
+  IXXXXIIIZZYYII   (weight 8)
+  IIXIIIIXYYXXXX   (weight 8)
+
+class 758   |U_3| = 11434
+  IXIXXIXIXXIIYY   (weight 8)
+  IIXXXXIIYYYYII   (weight 8)
+  IXXIXIIXIIXXXX   (weight 8)
+
+class 759   |U_3| = 11434
+  IIXIXXXYYIIIYY   (weight 8)
+  IIXXIIZZYYYYII   (weight 8)
+  IIIIIIYYZXXXXX   (weight 8)
+
+class 760   |U_3| = 11434
+  IIXXXXZZIIIIXX   (weight 8)
+  IIXXIIXXYYYYII   (weight 8)
+  IIIIIIZZZZZZYY   (weight 8)
+
+class 761   |U_3| = 11434
+  IIIXXXIIIYYYZZ   (weight 8)
+  IIIIXYZZZXXXII   (weight 8)
+  IIIXYYYYYIIIXX   (weight 8)
+
+class 762   |U_3| = 11434
+  IXXIIXXXZIIIXX   (weight 8)
+  IXIIXXIIYXXXIY   (weight 8)
+  IIXXIXIIXYYYYI   (weight 8)
+
+class 763   |U_3| = 11434
+  IIIXXXYXIIIYYY   (weight 8)
+  IIXIXXXYYYYIII   (weight 8)
+  IIIIIIYYZZZXXX   (weight 8)
+
+class 764   |U_3| = 11434
+  IIIXXIIIXXXYZX   (weight 8)
+  IXXIIIIIZZZZYY   (weight 8)
+  IIIIIXXXYYYYYI   (weight 8)
+
+class 765   |U_3| = 11434
+  IXIIXXIIXXXXIY   (weight 8)
+  IXXXIIIIZZZYYI   (weight 8)
+  IXIIIIXXYYYIXX   (weight 8)
+
+class 766   |U_3| = 11434
+  IIIIXXXXIIYYYY   (weight 8)
+  XXXXXXIIIIZZII   (weight 8)
+  IIXXIIIIXXYYXX   (weight 8)
+
+class 767   |U_3| = 11434
+  IIIXXXIIYYXZIY   (weight 8)
+  IXXXIIIIZZZYYI   (weight 8)
+  IIXIIIXXYYYIZX   (weight 8)
+
+class 768   |U_3| = 11434
+  IIIIXXIIYXXZYY   (weight 8)
+  IXXXXIIIZZYYII   (weight 8)
+  IIIXIIXXYYYIXX   (weight 8)
+
+class 769   |U_3| = 11434
+  IXIIXXIIYXZZIY   (weight 8)
+  IIXXIXIIXYXXYI   (weight 8)
+  IXIXIIXXYYIIZX   (weight 8)
+
+class 770   |U_3| = 11434
+  IXIXXXIIXXYYII   (weight 8)
+  IXXIIIIIZZZZYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 771   |U_3| = 11434
+  IXIXXXXXZZIIII   (weight 8)
+  IXXIIIIIZZZZZZ   (weight 8)
+  IIIIIIXXYYYYYY   (weight 8)
+
+class 772   |U_3| = 11434
+  IXXIXIXXXXIIIY   (weight 8)
+  IIIIXXIIYXXXXZ   (weight 8)
+  IIIXIIXXYYYYYI   (weight 8)
+
+class 773   |U_3| = 11434
+  IIIIIXXIXXYYYY   (weight 8)
+  IXXXXXIIZYYIII   (weight 8)
+  IIIIXIIXYYXXXX   (weight 8)
+
+class 774   |U_3| = 11434
+  IXIIXXIIXXYZIY   (weight 8)
+  IXXXIIIIZZZYYI   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 775   |U_3| = 11434
+  IIXIXIXXXXIIYY   (weight 8)
+  IIXXIIZZYYYYII   (weight 8)
+  IIXIIXYYIIXXXX   (weight 8)
+
+class 776   |U_3| = 11434
+  IIIXXXXIIIYYXX   (weight 8)
+  XXXXIIIIIIZZZZ   (weight 8)
+  IIXIIIIXXXYYYY   (weight 8)
+
+class 777   |U_3| = 11434
+  IIIIXYZXXXIIYY   (weight 8)
+  IIIIZZYYYYYYII   (weight 8)
+  IIIXYYYIIIXXXX   (weight 8)
+
+class 778   |U_3| = 11434
+  IIXXXXIIIIZZZZ   (weight 8)
+  IIXIXIXXXXIIYY   (weight 8)
+  IIXXIIZZZZYYII   (weight 8)
+
+class 779   |U_3| = 11434
+  IIIXXIYYZZIIYY   (weight 8)
+  IIXXIIZZYYYYII   (weight 8)
+  IIXIIXYYIIZZXX   (weight 8)
+
+class 780   |U_3| = 11434
+  XIIIXXXIIIXXXX   (weight 8)
+  XXXXIIIIIIZZZZ   (weight 8)
+  XIIIIIIXXXYYYY   (weight 8)
+
+class 781   |U_3| = 11434
+  IXIXXIIXXXIIZZ   (weight 8)
+  IXXIIXXIXXZZII   (weight 8)
+  IIXIIIIXYYYYXX   (weight 8)
+
+class 782   |U_3| = 11434
+  IIXIXIXYZXIIYY   (weight 8)
+  IIXXIIZZYYYYII   (weight 8)
+  IIIIIXYYYIXXXX   (weight 8)
+
+class 783   |U_3| = 11440
+  IXXXXIIIIXXZZI   (weight 8)
+  XIIXXIIIIYZXXY   (weight 8)
+  XIIIIXXXXYYIIZ   (weight 8)
+
+class 784   |U_3| = 11440
+  IXXIIXXXXXIIIX   (weight 8)
+  IXXXXIIIIXXXXI   (weight 8)
+  XIIXXIIIIYZZZY   (weight 8)
+
+class 785   |U_3| = 11440
+  IIXXXXIIIZZIYY   (weight 8)
+  XXIIXXIIIXXYIY   (weight 8)
+  XXIIIIXXXIIZXX   (weight 8)
+
+class 786   |U_3| = 11440
+  IIIXXXXXXIIIXX   (weight 8)
+  XIIXXXIIIYYYXI   (weight 8)
+  XXXIIIIIIZZZYY   (weight 8)
+
+class 787   |U_3| = 11440
+  XXXXXXIIIXXIII   (weight 8)
+  IIIXXXIIIYZYYY   (weight 8)
+  IIIIIIXXXYYZZZ   (weight 8)
+
+class 788   |U_3| = 11440
+  IXXXXXIIIXZIIY   (weight 8)
+  XIIXXXIIIYXYYI   (weight 8)
+  XIIIIIXXXYIZZX   (weight 8)
+
+class 789   |U_3| = 11446
+  XXIIIIIIXXZZZZ   (weight 8)
+  XXIIIIIIYYXXXX   (weight 8)
+  IIXXXXXXYYIIII   (weight 8)
+
+class 790   |U_3| = 11446
+  XIXIIIIIXXXXYY   (weight 8)
+  XXIIIIIIYYYYYY   (weight 8)
+  XIIXXXXXIIIIZZ   (weight 8)
+
+class 791   |U_3| = 11446
+  XXXIIIIIXZZZIY   (weight 8)
+  IXXIIIIIYXXXYY   (weight 8)
+  IIIXXXXXYIIIZX   (weight 8)
+
+class 792   |U_3| = 11446
+  XXXXXXXXIIIIII   (weight 8)
+  XXIIIIIIXXXXXX   (weight 8)
+  XXIIIIIIYYYYYY   (weight 8)
+
+class 793   |U_3| = 11446
+  IXXIIIIIZZZZYY   (weight 8)
+  XIXIIIIIXXXXYY   (weight 8)
+  XIIXXXXXIIIIXX   (weight 8)
+
+class 794   |U_3| = 11446
+  IIXXIIIIXXYYYY   (weight 8)
+  XXIIIIIIYYYYYY   (weight 8)
+  IIIIXXXXIIZZZZ   (weight 8)
+
+class 795   |U_3| = 11446
+  XXXXIIIIZZIIYY   (weight 8)
+  IIXXIIIIXXYYYY   (weight 8)
+  IIIIXXXXIIZZXX   (weight 8)
+
+class 796   |U_3| = 11448
+  IXIXXIIIIXXXZX   (weight 8)
+  IIIXXXXXXIIIYY   (weight 8)
+  IXXIIXXXXIIYIY   (weight 8)
+
+class 797   |U_3| = 11448
+  IIIXIIXXXIYZZX   (weight 8)
+  IIIXXXIIIXZYYY   (weight 8)
+  IIXIIIXXXYIXXX   (weight 8)
+
+class 798   |U_3| = 11448
+  IIIXIIXXXIYYYX   (weight 8)
+  IIIXXXIIIXZZZY   (weight 8)
+  IIXIXXIIIZXXXY   (weight 8)
+
+class 799   |U_3| = 11448
+  IXXXIIIIXXXXIX   (weight 8)
+  IIXXXXXXIIIXXI   (weight 8)
+  IXIIXXXXIIIYZY   (weight 8)
+
+class 800   |U_3| = 11448
+  IXIXXIIIXXXIYX   (weight 8)
+  IIIXXXXXIIIXZY   (weight 8)
+  IXXIIXXXIIIZXY   (weight 8)
+
+class 801   |U_3| = 11448
+  IIXXIIXXXIIXZX   (weight 8)
+  IIXXXXIIIXXIYY   (weight 8)
+  IIIIIIXXXYYZXX   (weight 8)
+
+class 802   |U_3| = 11448
+  IIXIIIXXXXIXXX   (weight 8)
+  IIIXXXIIIYZYYY   (weight 8)
+  IIIIIIXXXYYZZZ   (weight 8)
+
+class 803   |U_3| = 11448
+  IIXIIIXXXXIXZZ   (weight 8)
+  IIXXXXIIIXXIYY   (weight 8)
+  IIIIIIXXXYYZXX   (weight 8)
+
+class 804   |U_3| = 11448
+  IIIXXXXXXIIIXX   (weight 8)
+  IIXXXIIIIXXXZY   (weight 8)
+  IIIIIXXXXYYYIX   (weight 8)
+
+class 805   |U_3| = 11448
+  IXIXIIIXXXXXIX   (weight 8)
+  IXXIXXXIIIIYZY   (weight 8)
+  IIXIIIIXXXXYYZ   (weight 8)
+
+class 806   |U_3| = 11448
+  IIXIIXXXXXIIYZ   (weight 8)
+  IIXXXIIIIXXXZY   (weight 8)
+  IIIIIXXXXYYYIX   (weight 8)
+
+class 807   |U_3| = 11448
+  IIXXIIIXXXXXIZ   (weight 8)
+  IIXXXXXIIIIYXY   (weight 8)
+  IXIIIIIXXXXYYX   (weight 8)
+
+class 808   |U_3| = 11456
+  IIIIXIXIXXXXXX   (weight 8)
+  IIIXXIIXXXXZIZ   (weight 8)
+  IIIIIXXXXXXIZZ   (weight 8)
+
+class 809   |U_3| = 11456
+  IIIIXIXXIXXXYX   (weight 8)
+  IIIXXIIIXXXZXX   (weight 8)
+  IIIIIXXXXXXIZZ   (weight 8)
+
+class 810   |U_3| = 11456
+  IIIXIXIXIXXXZX   (weight 8)
+  IIIIXXIIXXXXXZ   (weight 8)
+  IIIIIIXXXXXZZZ   (weight 8)
+
+class 811   |U_3| = 11456
+  IIIXXIXIIXXXXX   (weight 8)
+  IIIXXIIXXXXZIZ   (weight 8)
+  IIIIIXXXXXXIZZ   (weight 8)
+
+class 812   |U_3| = 11456
+  IIIIXIXXXXXXIX   (weight 8)
+  IIIIIXXXXZZIXX   (weight 8)
+  IIIIXXXXXIIZZZ   (weight 8)
+
+class 813   |U_3| = 11456
+  IIIIXIIXXXXXYZ   (weight 8)
+  IIIIIXXXXZZIXX   (weight 8)
+  IIIIXXXXXIIZZZ   (weight 8)
+
+class 814   |U_3| = 11456
+  IIIIIXIXXXXXZX   (weight 8)
+  IIIIIIXXXZZXXZ   (weight 8)
+  IIIIXXXXXIIZZZ   (weight 8)
+
+class 815   |U_3| = 11456
+  IIIIXXIIXXXZZX   (weight 8)
+  IIIIXIXXXZIXXZ   (weight 8)
+  IIIIIXXXXIZZZZ   (weight 8)
+
+class 816   |U_3| = 11456
+  IIIIXIXXXZIXXZ   (weight 8)
+  IIIIIXXXIYXXXY   (weight 8)
+  IIIIIXXXXIZZZZ   (weight 8)
+
+class 817   |U_3| = 11456
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIXXXIYXXXY   (weight 8)
+  IIIIIXXXXIZZZZ   (weight 8)
+
+class 818   |U_3| = 11456
+  IIIIXIXIXXYXXX   (weight 8)
+  IIIIXIIXXZXXZZ   (weight 8)
+  IIIIIXXXXIZZZZ   (weight 8)
+
+class 819   |U_3| = 11456
+  IIIIXIXIXXXXYX   (weight 8)
+  IIIIXIIXXZZZXX   (weight 8)
+  IIIIXXIXIXXXXY   (weight 8)
+
+class 820   |U_3| = 11456
+  IIIIIXXXXIYXZX   (weight 8)
+  IIIIIXXZIXXXXZ   (weight 8)
+  IIIIIXXIZZZZZZ   (weight 8)
+
+class 821   |U_3| = 11456
+  IIIIIIXXXXXZZX   (weight 8)
+  IIIIIXXZIXXXXZ   (weight 8)
+  IIIIIXXIZZZZZZ   (weight 8)
+
+class 822   |U_3| = 11456
+  IIIIIIXXXYYZZX   (weight 8)
+  IIIIIXXZIXXXXZ   (weight 8)
+  IIIIIXXIZZZZZZ   (weight 8)
+
+class 823   |U_3| = 11456
+  IIIIIIXXXXXZZX   (weight 8)
+  IIIIIXIYXXXYYY   (weight 8)
+  IIIIIXXIZZZZZZ   (weight 8)
+
+class 824   |U_3| = 11456
+  IIIIIIXXXXXXXX   (weight 8)
+  IIIIIXIYYYXXXY   (weight 8)
+  IIIIIXIXXXYYYY   (weight 8)
+
+class 825   |U_3| = 11460
+  IXXIIIIYZZXXXI   (weight 8)
+  XIIIIIIZYYYYYY   (weight 8)
+  IIIXXXXYYYIIIX   (weight 8)
+
+class 826   |U_3| = 11460
+  IIXXIIIZZXXYIY   (weight 8)
+  XXIIIIIYYYYYYI   (weight 8)
+  IIIIXXXYYIIZXX   (weight 8)
+
+class 827   |U_3| = 11460
+  IXXXIIIXZZZIIY   (weight 8)
+  XXIIIIIYYYYYYI   (weight 8)
+  XIIIXXXYIIIZZX   (weight 8)
+
+class 828   |U_3| = 11460
+  IXXXXXXIIIIIXX   (weight 8)
+  IXXIIIIYYYYYXI   (weight 8)
+  XIIIIIIZZZZZYY   (weight 8)
+
+class 829   |U_3| = 11460
+  XXXXIIIXXZZIII   (weight 8)
+  XIIIIIIZYYYYYY   (weight 8)
+  IIIIXXXYYIIZZZ   (weight 8)
+
+class 830   |U_3| = 11460
+  XIXXIIIZXXXIIY   (weight 8)
+  XXIIIIIYYYYYYI   (weight 8)
+  XIIIXXXYIIIXXX   (weight 8)
+
+class 831   |U_3| = 11460
+  IXXIIIIYYYXXXI   (weight 8)
+  XIIIIIIZZZYYYY   (weight 8)
+  IIIXXXXYYYIIIX   (weight 8)
+
+class 832   |U_3| = 11460
+  IXXXIIIYZXXYII   (weight 8)
+  XIIIIIIZYYYYYY   (weight 8)
+  IIIIXXXYYIIZXX   (weight 8)
+
+class 833   |U_3| = 11460
+  XIIXXXXXIIIIYZ   (weight 8)
+  IXXIIIIYZZZZXI   (weight 8)
+  XIIIIIIZYYYYYY   (weight 8)
+
+class 834   |U_3| = 11460
+  XXIIXXXIIIIXZX   (weight 8)
+  IIXXIIIZZZZYIY   (weight 8)
+  XXIIIIIYYYYYYI   (weight 8)
+
+class 835   |U_3| = 11460
+  XIIIXXXXIIIXXX   (weight 8)
+  XXXXIIIXXXXIII   (weight 8)
+  XIIIIIIZYYYYYY   (weight 8)
+
+class 836   |U_3| = 11462
+  IXXXXIIIXXXXII   (weight 8)
+  IXIIIXXXIIXXZZ   (weight 8)
+  IXXXXIIIIIZZYY   (weight 8)
+
+class 837   |U_3| = 11462
+  IIXXXXIIIIYYXX   (weight 8)
+  IXIXXXIIIIXXYY   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+
+class 838   |U_3| = 11462
+  IIXXIIIIYYXXZZ   (weight 8)
+  IIXXIIIIXXYYXX   (weight 8)
+  IIIIXXXXYYYYII   (weight 8)
+
+class 839   |U_3| = 11462
+  IIXXXXXXZZIIII   (weight 8)
+  IIXXIIIIYYXXXX   (weight 8)
+  IIXXIIIIXXYYYY   (weight 8)
+
+class 840   |U_3| = 11462
+  IXXXIXXIIIXYYI   (weight 8)
+  IXXXXIIIIIZZYY   (weight 8)
+  IIIXIIIXXXYYZX   (weight 8)
+
+class 841   |U_3| = 11462
+  IXXIXXIIIXXIXX   (weight 8)
+  IIIIXXXXXIYXIY   (weight 8)
+  IXXXXXIIIIZYYI   (weight 8)
+
+class 842   |U_3| = 11462
+  XIXXIXXIIIIXZZ   (weight 8)
+  XIXXXIIXXXXIII   (weight 8)
+  IXXXXXXIIIIIYY   (weight 8)
+
+class 843   |U_3| = 11462
+  IXXXIXIIIIXYZX   (weight 8)
+  IXXXXIIIIIZZYY   (weight 8)
+  IIIXIIXXXXYYYI   (weight 8)
+
+class 844   |U_3| = 11462
+  IXIXXIIIIXXXXX   (weight 8)
+  IIXXXXXXXXIIII   (weight 8)
+  IXXXXIIIIIZZZZ   (weight 8)
+
+class 845   |U_3| = 11462
+  IXIXXIIIIXXXXX   (weight 8)
+  IIIXXXXXXIYYII   (weight 8)
+  IXXXXIIIIIZZYY   (weight 8)
+
+class 846   |U_3| = 11462
+  IXIXXIIIIXXXZZ   (weight 8)
+  IXXIIXXXXIXXII   (weight 8)
+  IXXXXIIIIIZZYY   (weight 8)
+
+class 847   |U_3| = 11462
+  IXXXXIXIIIYZIY   (weight 8)
+  IXXXXXIIIIZYYI   (weight 8)
+  IIIIXIIXXXYYXX   (weight 8)
+
+class 848   |U_3| = 11462
+  IXXXIXXIIXIIXX   (weight 8)
+  IIIIIXXXXIXXYY   (weight 8)
+  IXXXXXXIIIYYII   (weight 8)
+
+class 849   |U_3| = 11462
+  IIXXIIXXIIXXZZ   (weight 8)
+  XXIIIIXXXXIIYY   (weight 8)
+  XXIIXXIIIIXXXX   (weight 8)
+
+class 850   |U_3| = 11462
+  XXXXIIIIXXXXII   (weight 8)
+  XIIIIXXXXXIIXX   (weight 8)
+  IXXXXIIIXXIIYY   (weight 8)
+
+class 851   |U_3| = 11462
+  IXXXIXXXIIXXII   (weight 8)
+  XIIIIXXXXXIIXX   (weight 8)
+  IXXXXIIIXXIIZZ   (weight 8)
+
+class 852   |U_3| = 11462
+  IXXXIXXIIXIIZZ   (weight 8)
+  IIIIIXXXXIXXYY   (weight 8)
+  IXXXXIIXXIZZII   (weight 8)
+
+class 853   |U_3| = 11462
+  IIIIIXXXXIYYYY   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+  IXXXXXXIIIZZII   (weight 8)
+
+class 854   |U_3| = 11462
+  XIIXXXXXIIIIYY   (weight 8)
+  XXXXXXIIIIIIZZ   (weight 8)
+  XIXIIIIIXXXXYY   (weight 8)
+
+class 855   |U_3| = 11462
+  IIXXXIIIYYXZIY   (weight 8)
+  IIIXXIIIXXYXYY   (weight 8)
+  IIIIIXXXYYYIZX   (weight 8)
+
+class 856   |U_3| = 11462
+  XXXXIIXXIIIIXX   (weight 8)
+  XXXXXXIIIIIIZZ   (weight 8)
+  IIXXIIIIXXXXYY   (weight 8)
+
+class 857   |U_3| = 11462
+  IIXXXXIIYYIIYY   (weight 8)
+  IIIIXXIIXXYYYY   (weight 8)
+  IIIIIIXXYYZZXX   (weight 8)
+
+class 858   |U_3| = 11462
+  IIIIXXIIXXYYYY   (weight 8)
+  IIXXIIIIZZYYYY   (weight 8)
+  IIIIIIXXYYZZZZ   (weight 8)
+
+class 859   |U_3| = 11462
+  IIXXXXXXIIIIZZ   (weight 8)
+  IIIIXXIIXXXXYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 860   |U_3| = 11462
+  IIIIXXIIXXXXXX   (weight 8)
+  IIXXIIIIZZZZZZ   (weight 8)
+  IIIIIIXXYYYYYY   (weight 8)
+
+class 861   |U_3| = 11462
+  IIIXXIIIYYZZYY   (weight 8)
+  IIXIXIIIXXXXYY   (weight 8)
+  IIXIIXXXYYIIXX   (weight 8)
+
+class 862   |U_3| = 11462
+  IIXIXIIIXXXXYY   (weight 8)
+  IIXXIIIIZZYYYY   (weight 8)
+  IIXIIXXXYYIIZZ   (weight 8)
+
+class 863   |U_3| = 11462
+  IIIXXIIIYYYYYY   (weight 8)
+  IIXXXXXXIIIIZZ   (weight 8)
+  IIXIXIIIXXXXYY   (weight 8)
+
+class 864   |U_3| = 11462
+  IIIIZZIIYYYYYY   (weight 8)
+  IIIIXXYYIIYYYY   (weight 8)
+  IIIIIIZZXXXXXX   (weight 8)
+
+class 865   |U_3| = 11462
+  IXXIIXXIIIXXYY   (weight 8)
+  IXXXXIIIIIZZYY   (weight 8)
+  IIXIIIIXXXYYZZ   (weight 8)
+
+class 866   |U_3| = 11462
+  IIIIIIYYXXZZZZ   (weight 8)
+  IIIIXXZZIIYYYY   (weight 8)
+  IIIIYYIIZZXXXX   (weight 8)
+
+class 867   |U_3| = 11462
+  IIIXXIIIYXXZYY   (weight 8)
+  IIXIXIIIXYZXYY   (weight 8)
+  IIIIIXXXYYYIXX   (weight 8)
+
+class 868   |U_3| = 11462
+  IIIXXXIIYXIYYY   (weight 8)
+  IIXIXXIIXYYIYY   (weight 8)
+  IIIIIIXXYYZXXX   (weight 8)
+
+class 869   |U_3| = 11462
+  IIIXXXIIYXIYYY   (weight 8)
+  IIXXIIIIZZYYYY   (weight 8)
+  IIIIIIXXYYZXXX   (weight 8)
+
+class 870   |U_3| = 11462
+  IIIXXXXIIIYYYY   (weight 8)
+  IXXIIXXIIIXXYY   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 871   |U_3| = 11462
+  IIXXIIIXXXIYZZ   (weight 8)
+  IIXIXXXIXYZXII   (weight 8)
+  IIXXIIIIZZYYYY   (weight 8)
+
+class 872   |U_3| = 11462
+  IXIIXXXIIIYZYY   (weight 8)
+  IXXXXXIIIIZYYI   (weight 8)
+  IXIXIIIXXXYIXX   (weight 8)
+
+class 873   |U_3| = 11462
+  IIXXIIIXXXXXIY   (weight 8)
+  IIXIXXXXZIIIXX   (weight 8)
+  IIXXIIIIZZZZYY   (weight 8)
+
+class 874   |U_3| = 11462
+  IIXXIIIIXXXZZZ   (weight 8)
+  IIXIXXXXXYYIII   (weight 8)
+  IIXXIIIIZZYYYY   (weight 8)
+
+class 875   |U_3| = 11462
+  IIXXXIIXXIIYZX   (weight 8)
+  IIXIIXXIXZZXIY   (weight 8)
+  IIXXXIIIZYYYYI   (weight 8)
+
+class 876   |U_3| = 11462
+  IIIXXXXXIIIZZZ   (weight 8)
+  IIXIIXXIXXXXIY   (weight 8)
+  IIXXXIIIZZZYYI   (weight 8)
+
+class 877   |U_3| = 11462
+  IXIIIXXXIIYYYY   (weight 8)
+  IIXXXIIXIIYYYY   (weight 8)
+  IXIIXIIIXXXXXX   (weight 8)
+
+class 878   |U_3| = 11462
+  IIXXXIIIXIXZZX   (weight 8)
+  IIXIIXXXXZYIIY   (weight 8)
+  IIXXXIIIZYYYYI   (weight 8)
+
+class 879   |U_3| = 11462
+  IIXXXIIIXIXXXX   (weight 8)
+  IIIXXXXXYXIIIY   (weight 8)
+  IIXXXIIIZYYYYI   (weight 8)
+
+class 880   |U_3| = 11462
+  IXIIIXXXIIYYYY   (weight 8)
+  IXXXXXXIIIYYII   (weight 8)
+  IXIIXIIIXXXXXX   (weight 8)
+
+class 881   |U_3| = 11462
+  IIIIXXIIYZYYYY   (weight 8)
+  IIXXIXIIXXIYYY   (weight 8)
+  IIIXIIXXYIXXXX   (weight 8)
+
+class 882   |U_3| = 11462
+  IIXXIXXIXXIIZZ   (weight 8)
+  IXIIIXXXIIXXYY   (weight 8)
+  IXIIXIIIXXYYXX   (weight 8)
+
+class 883   |U_3| = 11462
+  IIXXIXIIXXYYIY   (weight 8)
+  IIXXXIIIZYYYYI   (weight 8)
+  IIIXIIXXYIZZXX   (weight 8)
+
+class 884   |U_3| = 11462
+  IIXXXXIIIIZZXX   (weight 8)
+  IIXXIIXXZZIIYY   (weight 8)
+  IIXXXXIIYYYYII   (weight 8)
+
+class 885   |U_3| = 11462
+  IIXXXXIIIIXXZZ   (weight 8)
+  IIIIXXXXXXIIYY   (weight 8)
+  IIXXIIXXZZYYII   (weight 8)
+
+class 886   |U_3| = 11462
+  IIIIIXXIYYYYYY   (weight 8)
+  IIXXXIXIIIYYYY   (weight 8)
+  IIIIXIIXXXXXXX   (weight 8)
+
+class 887   |U_3| = 11462
+  IXIIIXXXIIXXXX   (weight 8)
+  IIXXXIIXIIZZZZ   (weight 8)
+  IXIIXIIIXXYYYY   (weight 8)
+
+class 888   |U_3| = 11462
+  IIXXXIXIYYIIYY   (weight 8)
+  IIXXXXIIYYYYII   (weight 8)
+  IIIIXIIXZZXXXX   (weight 8)
+
+class 889   |U_3| = 11462
+  IIXXIXXIIXIYXZ   (weight 8)
+  IXIIIXXXXIXZIY   (weight 8)
+  IIXXXIIXXIZXYI   (weight 8)
+
+class 890   |U_3| = 11462
+  IIXXIXIXIIZZZZ   (weight 8)
+  IIIIIXXIXXYYYY   (weight 8)
+  IIIIXIIXYYXXXX   (weight 8)
+
+class 891   |U_3| = 11462
+  IIXXIXIXIIXXZZ   (weight 8)
+  IIXXXIXIZZYYII   (weight 8)
+  IIIIXIIXYYZZXX   (weight 8)
+
+class 892   |U_3| = 11462
+  IIIIXXXXIIZZZZ   (weight 8)
+  IIXXXXIIZZYYII   (weight 8)
+  IIIIXIIXYYZZXX   (weight 8)
+
+class 893   |U_3| = 11462
+  IIIIIXXIYYYYYY   (weight 8)
+  IIXXXXIIZZZZII   (weight 8)
+  IIIIXIIXYYYYXX   (weight 8)
+
+class 894   |U_3| = 11462
+  XXIIIXXXXIIIYY   (weight 8)
+  XIXXXIIXXIIIYY   (weight 8)
+  XXIIXIIIIXXXXX   (weight 8)
+
+class 895   |U_3| = 11462
+  IIIXIXIXIYXZZZ   (weight 8)
+  IIXIIXXIXZIYYY   (weight 8)
+  IIXIXIIXYIZXXX   (weight 8)
+
+class 896   |U_3| = 11462
+  IIIIIIYXXZZZYY   (weight 8)
+  IIIIIIXYZXXXYY   (weight 8)
+  IIIXXXYYYIIIXX   (weight 8)
+
+class 897   |U_3| = 11462
+  IIIXIIYXZZIYYY   (weight 8)
+  IIIXIIXYXXYIYY   (weight 8)
+  IIIIXXYYIIZXXX   (weight 8)
+
+class 898   |U_3| = 11462
+  IIIXIIYXZZIYYY   (weight 8)
+  IIIIIIZZYYYYYY   (weight 8)
+  IIIIXXYYIIZXXX   (weight 8)
+
+class 899   |U_3| = 11462
+  IIIXXXZIIIXXZZ   (weight 8)
+  IIIXIIYXXXIYYY   (weight 8)
+  IIIXIIXYYYYIYY   (weight 8)
+
+class 900   |U_3| = 11462
+  IIIXXXZIIIXXXX   (weight 8)
+  IIIXIIYXXXIYYY   (weight 8)
+  IIIIIIZZZZYYYY   (weight 8)
+
+class 901   |U_3| = 11462
+  IIIXXIYZIIYYYY   (weight 8)
+  IIIIXIXXYYIYYY   (weight 8)
+  IIIIIXYIZZXXXX   (weight 8)
+
+class 902   |U_3| = 11462
+  IIIIXIXXYYYYIY   (weight 8)
+  IIIXIIZYYYYYYI   (weight 8)
+  IIIIIXYIZZZZXX   (weight 8)
+
+class 903   |U_3| = 11462
+  IXXIIXXIIIZZYY   (weight 8)
+  IXIXXIXIIIXXYY   (weight 8)
+  IXXIXIIXXXIIXX   (weight 8)
+
+class 904   |U_3| = 11462
+  IIIXXXIIIZZZZZ   (weight 8)
+  IIIIXIXXXXIYYY   (weight 8)
+  IIIIIXYYYIXXXX   (weight 8)
+
+class 905   |U_3| = 11462
+  IIIIXIXXXXXXIY   (weight 8)
+  IIIXIIZZZZZYYI   (weight 8)
+  IIIIIXYYYYYIXX   (weight 8)
+
+class 906   |U_3| = 11462
+  IIIIXXIIYYYYYY   (weight 8)
+  IIIXIXYYIIYYYY   (weight 8)
+  IIIIIIZZXXXXXX   (weight 8)
+
+class 907   |U_3| = 11462
+  IIIXXIIIZZXXXX   (weight 8)
+  IIIXIXZZIIYYYY   (weight 8)
+  IIIIIIYYXXXXXX   (weight 8)
+
+class 908   |U_3| = 11462
+  IIIXXIIIXXZZZZ   (weight 8)
+  IIIIXXXXIIYYYY   (weight 8)
+  IIIIIIYYZZXXXX   (weight 8)
+
+class 909   |U_3| = 11462
+  IIIXXIIIYYZZXX   (weight 8)
+  IIIXIXZZXXIIYY   (weight 8)
+  IIIXXIYYYYYYII   (weight 8)
+
+class 910   |U_3| = 11462
+  IIIXXIIIYYXXZZ   (weight 8)
+  IIIIXXXXZZIIYY   (weight 8)
+  IIIXIXZZXXYYII   (weight 8)
+
+class 911   |U_3| = 11462
+  IIXXXXXXXXIIII   (weight 8)
+  IXIIIXXXIIXXXX   (weight 8)
+  IXXXXIIIIIZZZZ   (weight 8)
+
+class 912   |U_3| = 11466
+  XIIIIIXZZZZZIY   (weight 8)
+  XIIIIIZXXXXXYI   (weight 8)
+  IXXXXXYIIIIIZX   (weight 8)
+
+class 913   |U_3| = 11466
+  IIIIIIXXZZZZZZ   (weight 8)
+  IIIIIIZZXXXXXX   (weight 8)
+  XXXXXXYYIIIIII   (weight 8)
+
+class 914   |U_3| = 11466
+  XXIIIIZZZZIIYY   (weight 8)
+  XXIIIIXXXXYYII   (weight 8)
+  IIXXXXIIIIZZXX   (weight 8)
+
+class 915   |U_3| = 11468
+  IXXIIIIXXXXXIX   (weight 8)
+  IXXXXXXIIIIXXI   (weight 8)
+  XIIXXXXIIIIYZY   (weight 8)
+
+class 916   |U_3| = 11468
+  IIXXIIIXXXXIYX   (weight 8)
+  IIXXXXXIIIIXZY   (weight 8)
+  XXIIXXXIIIIZXY   (weight 8)
+
+class 917   |U_3| = 11476
+  IIIIXXIIXXXXZX   (weight 8)
+  IIIIIIXXXXXXXZ   (weight 8)
+  IIXXIIIIXXXZXX   (weight 8)
+
+class 918   |U_3| = 11476
+  IIIXXIIXXXXXIX   (weight 8)
+  IIIIIXXXXXXIXX   (weight 8)
+  IIXIIIIXXXXYYZ   (weight 8)
+
+class 919   |U_3| = 11486
+  XXIIXXXXIIIIYY   (weight 8)
+  IIIIYYYYYYYYII   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+
+class 920   |U_3| = 11488
+  XIIIXXXXXXIIIX   (weight 8)
+  XXXXIIIIIXXXXI   (weight 8)
+  IXXXIIIIIYZZZY   (weight 8)
+
+class 921   |U_3| = 11488
+  XXXXIIIIIXXZZI   (weight 8)
+  IXXXIIIIIYZXXY   (weight 8)
+  IIIIXXXXXYYIIZ   (weight 8)
+
+class 922   |U_3| = 11488
+  XXIIIXXXXIIIYX   (weight 8)
+  IIXXXIIIIZZZXY   (weight 8)
+  IIIIIXXXXYYYIX   (weight 8)
+
+class 923   |U_3| = 11488
+  XXXXXIIIIXZIIY   (weight 8)
+  IIXXXIIIIZXYYY   (weight 8)
+  IIIIIXXXXYIZZX   (weight 8)
+
+class 924   |U_3| = 11488
+  IXXXIIIIIXZZZY   (weight 8)
+  XIXXIIIIIZXXXY   (weight 8)
+  XIIIXXXXXYIIIX   (weight 8)
+
+class 925   |U_3| = 11488
+  XXXXXIIIIXZIIY   (weight 8)
+  IXXXXIIIIYXYYI   (weight 8)
+  IIIIIXXXXYIZZX   (weight 8)
+
+class 926   |U_3| = 11488
+  IXXXXIIIIZZIYY   (weight 8)
+  XIXXXIIIIXXYIY   (weight 8)
+  XIIIIXXXXIIZXX   (weight 8)
+
+class 927   |U_3| = 11490
+  IIIXXIXXIIYYXX   (weight 8)
+  IIIIXXIIXXZZYY   (weight 8)
+  IIIXIXIIZZXXYY   (weight 8)
+
+class 928   |U_3| = 11490
+  IIIXXIXXIIYYZZ   (weight 8)
+  IIIIXXIIXXZZYY   (weight 8)
+  IIIXXIIIYYYYYY   (weight 8)
+
+class 929   |U_3| = 11490
+  IIIIXXIIXXXXYY   (weight 8)
+  IIIXIXIIZZZZYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 930   |U_3| = 11490
+  IIIIXXIIXXXXYY   (weight 8)
+  IIIXXIIIYYYYYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 931   |U_3| = 11490
+  IIIXIXXXXIIYZX   (weight 8)
+  IIIXXIIIYXXZYY   (weight 8)
+  IIIIIXXXYYYIXX   (weight 8)
+
+class 932   |U_3| = 11490
+  IIXXXXIIXXIIXX   (weight 8)
+  IIIIXXXXIIXXYY   (weight 8)
+  IIXXIIXXIIZZYY   (weight 8)
+
+class 933   |U_3| = 11490
+  IIIIIXIYYYXZZZ   (weight 8)
+  IIIIXIXZZZIYYY   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+
+class 934   |U_3| = 11490
+  IIXXIXIXXXIIYY   (weight 8)
+  IIXXXIXIIIZZXX   (weight 8)
+  IIXXXXIIIIYYYY   (weight 8)
+
+class 935   |U_3| = 11490
+  IIIIIXIYXZZZXX   (weight 8)
+  IIIIXIXZIYYYYY   (weight 8)
+  IIIIIXYIZXXXXX   (weight 8)
+
+class 936   |U_3| = 11490
+  IIIXXIIXIYXZXX   (weight 8)
+  IIIIXXXIXZIYYY   (weight 8)
+  IIIXIXXIZXYIYY   (weight 8)
+
+class 937   |U_3| = 11490
+  IIIXXIIXIYXZZZ   (weight 8)
+  IIIIXXXIXZIYYY   (weight 8)
+  IIIXXIIIYYYYYY   (weight 8)
+
+class 938   |U_3| = 11490
+  IIIXIIIXXXXXZZ   (weight 8)
+  IIIXXXXIIIYYYY   (weight 8)
+  IIXIIIIXXXYYXX   (weight 8)
+
+class 939   |U_3| = 11490
+  IIIXXIIIXXZZXX   (weight 8)
+  IIIIXXXXIIYYYY   (weight 8)
+  IIIXIXXXYYIIYY   (weight 8)
+
+class 940   |U_3| = 11490
+  IIIXXIIIXXZZZZ   (weight 8)
+  IIIIXXXXIIYYYY   (weight 8)
+  IIIXXIIIYYYYYY   (weight 8)
+
+class 941   |U_3| = 11490
+  IIIXXIIIXXZZXX   (weight 8)
+  IIIXIXXXIIXXZZ   (weight 8)
+  IIIXIXXXYYIIYY   (weight 8)
+
+class 942   |U_3| = 11490
+  IIIXXIIIXXZZZZ   (weight 8)
+  IIIXIXXXIIXXXX   (weight 8)
+  IIIXXIIIZZYYYY   (weight 8)
+
+class 943   |U_3| = 11490
+  IIIIIIXXXXZZZZ   (weight 8)
+  IIXXXXXIXIIIYY   (weight 8)
+  IIXXXXXXIIYYII   (weight 8)
+
+class 944   |U_3| = 11490
+  IIXXIXIXXXIIXX   (weight 8)
+  IIXXXIXIIIZZYY   (weight 8)
+  IIIIXIIXXXYYXX   (weight 8)
+
+class 945   |U_3| = 11490
+  IIXXIXIIXXIYXZ   (weight 8)
+  IIXXXIXXIIZXYI   (weight 8)
+  IIXXXXIIIIYYYY   (weight 8)
+
+class 946   |U_3| = 11490
+  IIIXXXIIXIZXXX   (weight 8)
+  IIIXIIXXIXXZZZ   (weight 8)
+  IIIXIIXXYZIYYY   (weight 8)
+
+class 947   |U_3| = 11490
+  IIXXXXIIXXIIZZ   (weight 8)
+  IIIIXXXXIIXXYY   (weight 8)
+  IIXXXXIIIIYYYY   (weight 8)
+
+class 948   |U_3| = 11490
+  IIIIXXIIYYYYXX   (weight 8)
+  IIIIIIXXZZZZYY   (weight 8)
+  IIIIIIZZXXXXYY   (weight 8)
+
+class 949   |U_3| = 11490
+  IIIIIXXXXXIZZZ   (weight 8)
+  IIXXXXIXIIXXIY   (weight 8)
+  IIXXXXXIIIZYYI   (weight 8)
+
+class 950   |U_3| = 11490
+  IIXIXIIXXXXIXX   (weight 8)
+  IIXXIXXIIIXZYY   (weight 8)
+  IIIXIIIXXXYYZX   (weight 8)
+
+class 951   |U_3| = 11490
+  IIXXXIIIXXXIXX   (weight 8)
+  IIIXXXXXIIYXIY   (weight 8)
+  IIXIIXXXIIXZYY   (weight 8)
+
+class 952   |U_3| = 11490
+  IIXXIIIIXXXXXZ   (weight 8)
+  IIIXXXXXIIYXIY   (weight 8)
+  IIXIXXXXIIXYYI   (weight 8)
+
+class 953   |U_3| = 11490
+  IIXXIIIXXXXXIY   (weight 8)
+  IIIXXXXIIIYXXZ   (weight 8)
+  IIXIXXXIIIXYZX   (weight 8)
+
+class 954   |U_3| = 11490
+  IIIIIXXXXXIYZZ   (weight 8)
+  IIIXXIIIYXXZYY   (weight 8)
+  IIIIIXXXYYYIXX   (weight 8)
+
+class 955   |U_3| = 11490
+  IIIIIXXXXXIYYY   (weight 8)
+  IIIXXIIIYXXZZZ   (weight 8)
+  IIIXXIIIXYZXXX   (weight 8)
+
+class 956   |U_3| = 11490
+  IIIXIXIIXXZZXX   (weight 8)
+  IIXIIXXXIIYYYY   (weight 8)
+  IIXIXIIIXXXXXX   (weight 8)
+
+class 957   |U_3| = 11490
+  IXXXIXXIIXXXII   (weight 8)
+  IXXXXIIXXIIIZZ   (weight 8)
+  IXXXXXXIIIIIYY   (weight 8)
+
+class 958   |U_3| = 11490
+  IIIIXXXXXXXXII   (weight 8)
+  IXXXXIIXXIIIXX   (weight 8)
+  IXXXXXXIIIIIZZ   (weight 8)
+
+class 959   |U_3| = 11490
+  IIXXXIXIIIXXXX   (weight 8)
+  IIXXXXIIIIZZZZ   (weight 8)
+  IIIIXIIXXXYYYY   (weight 8)
+
+class 960   |U_3| = 11490
+  IIIXIXIIXXYYZZ   (weight 8)
+  IIXIIXXXIIZZYY   (weight 8)
+  IIXXXXIIIIYYYY   (weight 8)
+
+class 961   |U_3| = 11490
+  IIIIXXIIYYYYZZ   (weight 8)
+  IIIIIIXXZZZZYY   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+
+class 962   |U_3| = 11490
+  IIIIXXIIYYZZXX   (weight 8)
+  IIIIIIXXZZYYYY   (weight 8)
+  IIIIXXYYIIXXXX   (weight 8)
+
+class 963   |U_3| = 11490
+  IIIXIIXXXIXXXX   (weight 8)
+  IIIIXXIIXZYYYY   (weight 8)
+  IIIIIIXXYYZZZX   (weight 8)
+
+class 964   |U_3| = 11490
+  IXXXIIIXXXXXII   (weight 8)
+  IXXXXXXIIIIIZZ   (weight 8)
+  IXIIXIIIXXXXYY   (weight 8)
+
+class 965   |U_3| = 11490
+  IIIXIIXXXIXZZX   (weight 8)
+  IIIXXXIIYXIYYY   (weight 8)
+  IIIIIIXXYYZXXX   (weight 8)
+
+class 966   |U_3| = 11490
+  IIXXIXXIIIXXXX   (weight 8)
+  IXIIIXXXXXIIYY   (weight 8)
+  IIXXXIIXXXIIYY   (weight 8)
+
+class 967   |U_3| = 11490
+  IIXXIXXIIIXXZZ   (weight 8)
+  IXIIIXXXXXIIYY   (weight 8)
+  IXXXXXXIIIIIYY   (weight 8)
+
+class 968   |U_3| = 11490
+  IXIXIXIIIXXXZZ   (weight 8)
+  IXXIIXXXXIIIYY   (weight 8)
+  IXXIXIIIIXXXXX   (weight 8)
+
+class 969   |U_3| = 11490
+  IIXXIIXXXXXXII   (weight 8)
+  IIXXXXIIIIYYXX   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+
+class 970   |U_3| = 11490
+  IIIIXXXXXXIIZZ   (weight 8)
+  IIXXXIXIIIXXXX   (weight 8)
+  IIXXXXIIIIZZYY   (weight 8)
+
+class 971   |U_3| = 11490
+  IIIIXXXXXXIIZZ   (weight 8)
+  IIXXXIXIIIXXYY   (weight 8)
+  IIIIXIIXXXYYXX   (weight 8)
+
+class 972   |U_3| = 11490
+  IIXXXIXIIIZZZZ   (weight 8)
+  IIXXXXIIIIYYYY   (weight 8)
+  IIIIXIIXXXYYYY   (weight 8)
+
+class 973   |U_3| = 11490
+  IIIXXIXXIIZZXX   (weight 8)
+  IIIIXXIIXXYYYY   (weight 8)
+  IIIIIIXXYYXXXX   (weight 8)
+
+class 974   |U_3| = 11490
+  IXXXIIXXIIIXXX   (weight 8)
+  IXXXXXIIXXXIII   (weight 8)
+  XXXXXXXXIIIIII   (weight 8)
+
+class 975   |U_3| = 11490
+  XIXXIXXIIIIXXX   (weight 8)
+  XXIIIXXXXXXIII   (weight 8)
+  XIXXXIIXXXXIII   (weight 8)
+
+class 976   |U_3| = 11490
+  IXIXXIIIIXXXXX   (weight 8)
+  IIIXXXXXXIIIYY   (weight 8)
+  IXXIIXXXXIIIXX   (weight 8)
+
+class 977   |U_3| = 11502
+  IXXXXIIIXXZZII   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  XIIIIXXXYYIIZZ   (weight 8)
+
+class 978   |U_3| = 11502
+  IIXXXXXXIIIIXX   (weight 8)
+  XIXXXIIIYYYYII   (weight 8)
+  XXIIIIIIZZZZYY   (weight 8)
+
+class 979   |U_3| = 11502
+  XXIIXXIIXXIIYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+  XXIIIIXXIIXXXX   (weight 8)
+
+class 980   |U_3| = 11502
+  XIXXXIIIYYXXII   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  XIIIIXXXYYIIXX   (weight 8)
+
+class 981   |U_3| = 11502
+  IIXXXIIIYYZXYI   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  IIIIIXXXYYYIZX   (weight 8)
+
+class 982   |U_3| = 11502
+  IIXXIIIIYYZZXX   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+  IIIIXXXXYYYYII   (weight 8)
+
+class 983   |U_3| = 11502
+  IIXXXXIIZZIIYY   (weight 8)
+  XXXXIIIIYYYYII   (weight 8)
+  XXIIIIXXIIZZXX   (weight 8)
+
+class 984   |U_3| = 11502
+  XIIXXIIIYZXXIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+  XIIIIXXXYYIIXX   (weight 8)
+
+class 985   |U_3| = 11502
+  IXXIIXXXXIIIZX   (weight 8)
+  XIIXXIIIYZZZIY   (weight 8)
+  XXXIIIIIZYYYYI   (weight 8)
+
+class 986   |U_3| = 11502
+  XXIIXXXXXXIIII   (weight 8)
+  IIXXIIIIYYZZZZ   (weight 8)
+  XXIIIIIIZZYYYY   (weight 8)
+
+class 987   |U_3| = 11518
+  IIIIIXXXXXIYXZ   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIIIXXXYYYIZX   (weight 8)
+
+class 988   |U_3| = 11518
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIIIIXXYYZZXX   (weight 8)
+
+class 989   |U_3| = 11518
+  IIIIIIXXXXYYXX   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIIXXIIYYXXYY   (weight 8)
+
+class 990   |U_3| = 11518
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIIIXXIIXXXXYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 991   |U_3| = 11518
+  IIIXXIXXXXXXII   (weight 8)
+  IIIXIXXXXXIIXX   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+
+class 992   |U_3| = 11518
+  IIIXIXXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+  IIXXXXXXIIIIYY   (weight 8)
+
+class 993   |U_3| = 11518
+  IIIIXIXXXIXXZX   (weight 8)
+  IIIIIXXXIXXXXZ   (weight 8)
+  IIIIIIXXYYZZXX   (weight 8)
+
+class 994   |U_3| = 11518
+  IIIIIXXXIXXXXZ   (weight 8)
+  IIIIXXIIXXXXYY   (weight 8)
+  IIIIIIXXYYYYXX   (weight 8)
+
+class 995   |U_3| = 11518
+  IIIXXIIIXXXXXX   (weight 8)
+  IIIXIXXXXXIIXX   (weight 8)
+  IIIXIXXXIIYYYY   (weight 8)
+
+class 996   |U_3| = 11518
+  IIIIIXIXXXZZXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIIIXIIXZZXXXX   (weight 8)
+
+class 997   |U_3| = 11518
+  IIIIIXIXYYXXXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIIIXIXIXXYYYY   (weight 8)
+
+class 998   |U_3| = 11518
+  IIIXXIIIXXXXXX   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIXIXXXIIYYYY   (weight 8)
+
+class 999   |U_3| = 11518
+  IIIXIXXXIIXXXX   (weight 8)
+  IIXIIXXXXXIIXX   (weight 8)
+  IIXXXXXXIIIIZZ   (weight 8)
+
+class 1000   |U_3| = 11518
+  IIIXIXIXXXXIZX   (weight 8)
+  IIIXIIXXXXIXXZ   (weight 8)
+  IIIIXIIXXXYYXX   (weight 8)
+
+class 1001   |U_3| = 11518
+  IIXXIIXXXIIXXX   (weight 8)
+  IXXXIIIIIXXXXX   (weight 8)
+  IXXXXXXXXIIIII   (weight 8)
+
+class 1002   |U_3| = 11518
+  IIIIXIXXXXXXIY   (weight 8)
+  IIIIIXXXXXZIXX   (weight 8)
+  IIIXIIXXXXYYYI   (weight 8)
+
+class 1003   |U_3| = 11518
+  IIIXIXIIXXXYXX   (weight 8)
+  IIIXIIXXXXIXXZ   (weight 8)
+  IIIXXIXXIIYXYY   (weight 8)
+
+class 1004   |U_3| = 11518
+  IIIXIXXIIXXXXX   (weight 8)
+  IIIXIIIXXXXXZZ   (weight 8)
+  IIIXXIIXXIYYYY   (weight 8)
+
+class 1005   |U_3| = 11518
+  IIIIXIIXXXXXXZ   (weight 8)
+  IIIIIXXXXXZIXX   (weight 8)
+  IIIXIIIXXXYYZX   (weight 8)
+
+class 1006   |U_3| = 11518
+  IIIXIIIXXXXXZZ   (weight 8)
+  IIIIIXXXXIXXYY   (weight 8)
+  IIIXXIIXXIZZYY   (weight 8)
+
+class 1007   |U_3| = 11518
+  IIIXIIIXXXXXXX   (weight 8)
+  IIIIIXXXXIXXYY   (weight 8)
+  IIIXXXXIIIYYYY   (weight 8)
+
+class 1008   |U_3| = 11518
+  IIIXIXIIXXXXXX   (weight 8)
+  IIXXIIXXXXXXII   (weight 8)
+  IIXIXIIIXXXXYY   (weight 8)
+
+class 1009   |U_3| = 11518
+  IIXXIIXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIXXXXIIXXIIYY   (weight 8)
+
+class 1010   |U_3| = 11518
+  IIXXIXIIIXXXXX   (weight 8)
+  IIXXIIXXXXXXII   (weight 8)
+  IIXXXIXXXIIIYY   (weight 8)
+
+class 1011   |U_3| = 11518
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIXXIIIIXXXXYY   (weight 8)
+
+class 1012   |U_3| = 11518
+  IXIXIIXXIIXXXX   (weight 8)
+  IIXXIIIIXXXXXX   (weight 8)
+  IXXIXXIIIIXXXX   (weight 8)
+
+class 1013   |U_3| = 11518
+  IIIIXXXXXXIIYY   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIIXXXXYYYYII   (weight 8)
+
+class 1014   |U_3| = 11518
+  IIIXIXXXXXIIXX   (weight 8)
+  IIIIXXXXIIXXXX   (weight 8)
+  IIIXIXXXIIYYZZ   (weight 8)
+
+class 1015   |U_3| = 11528
+  XIIIIZXXXXXIIY   (weight 8)
+  IIIIIYYYYYYYYI   (weight 8)
+  IXXXXYIIIIIXXX   (weight 8)
+
+class 1016   |U_3| = 11528
+  XXIIIXXXXYIIIY   (weight 8)
+  IIIIIYYYYYYYYI   (weight 8)
+  IIXXXIIIIZXXXX   (weight 8)
+
+class 1017   |U_3| = 11530
+  IIXXXXIIIIZZYY   (weight 8)
+  XXIIXXIIIIXXYY   (weight 8)
+  XXIIIIXXXXIIXX   (weight 8)
+
+class 1018   |U_3| = 11530
+  XXIIXXIIIIXXYY   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  XXIIIIXXXXIIZZ   (weight 8)
+
+class 1019   |U_3| = 11530
+  IXXXXXXIIIIIYY   (weight 8)
+  XIIIXXXIIIYYYY   (weight 8)
+  XIIIIIIXXXZZXX   (weight 8)
+
+class 1020   |U_3| = 11530
+  IIXXXXXXXXIIII   (weight 8)
+  IXXXXIIIIIXXXX   (weight 8)
+  XIXXXIIIIIYYYY   (weight 8)
+
+class 1021   |U_3| = 11530
+  XIIIXXXIIIYYYY   (weight 8)
+  XXXXIIIIIIYYYY   (weight 8)
+  XIIIIIIXXXZZZZ   (weight 8)
+
+class 1022   |U_3| = 11530
+  XXXXXXIIIIXXII   (weight 8)
+  IIXXXXIIIIYYYY   (weight 8)
+  IIIIIIXXXXYYZZ   (weight 8)
+
+class 1023   |U_3| = 11530
+  IXXXXIIIIIXXZZ   (weight 8)
+  XIXXXIIIIIYYXX   (weight 8)
+  XIIIIXXXXXYYII   (weight 8)
+
+class 1024   |U_3| = 11530
+  IXXXXXIIIIXZIY   (weight 8)
+  XIIXXXIIIIYXYY   (weight 8)
+  XIIIIIXXXXYIZX   (weight 8)
+
+class 1025   |U_3| = 11546
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIXXXXZZXX   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+
+class 1026   |U_3| = 11546
+  IIIIIXIXXXXXXX   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+  IIIIXIIXXXYYYY   (weight 8)
+
+class 1027   |U_3| = 11546
+  IIIIIIXXXXXXXZ   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+  IIIIIIXXYYYYZX   (weight 8)
+
+class 1028   |U_3| = 11546
+  IIIIIXIXXYXXZX   (weight 8)
+  IIIIIIXXZXXXXZ   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 1029   |U_3| = 11546
+  IIIIIXXIXXZZXX   (weight 8)
+  IIIIIXIXXXXXZZ   (weight 8)
+  IIIIIIXXZZZZZZ   (weight 8)
+
+class 1030   |U_3| = 11546
+  IIIIIXIXXXXXYY   (weight 8)
+  IIIIIIXXXXZZXX   (weight 8)
+  IIIIXXXXXXIIZZ   (weight 8)
+
+class 1031   |U_3| = 11546
+  IIIIIXIXXXXXZZ   (weight 8)
+  IIIIIIXXXXYYYY   (weight 8)
+  IIIIIIXXZZZZZZ   (weight 8)
+
+class 1032   |U_3| = 11546
+  IIIXIXIXIXXXYY   (weight 8)
+  IIIIXXIIXXXXXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+
+class 1033   |U_3| = 11546
+  IIIIIIYYXXZZXX   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+  IIIIIIZZZZZZZZ   (weight 8)
+
+class 1034   |U_3| = 11546
+  IIIIXXIXXXXXIY   (weight 8)
+  IIIIXIXXXXZIXX   (weight 8)
+  IIIIIXXXXXIZZZ   (weight 8)
+
+class 1035   |U_3| = 11546
+  IIIIXXIIXXXXXZ   (weight 8)
+  IIIIXIXXXXZIXX   (weight 8)
+  IIIIIXXXXXIZZZ   (weight 8)
+
+class 1036   |U_3| = 11546
+  IIIIXXIXXIXXXX   (weight 8)
+  IIIXXXIIIXXXZZ   (weight 8)
+  IIIIIIXXXXXXZZ   (weight 8)
+
+class 1037   |U_3| = 11546
+  IIIIXIXIXXXYZX   (weight 8)
+  IIIIXIIXXXZXXZ   (weight 8)
+  IIIIIXXXXXIZZZ   (weight 8)
+
+class 1038   |U_3| = 11546
+  IIIIXXIXIXZZXX   (weight 8)
+  IIIIXXIIXXXXZZ   (weight 8)
+  IIIIIIXXXXZZZZ   (weight 8)
+
+class 1039   |U_3| = 11546
+  IIIIXXIXIXXXXX   (weight 8)
+  IIIIXXIIXXZZZZ   (weight 8)
+  IIIIXXXIXIXXYY   (weight 8)
+
+class 1040   |U_3| = 11546
+  IIIXIXXIIXXXXX   (weight 8)
+  IIIXIIIXXXXXZZ   (weight 8)
+  IIIIXXXXXXXXII   (weight 8)
+
+class 1041   |U_3| = 11546
+  IIIIIXXXXXIYYY   (weight 8)
+  IIIIIXXXZIXXXX   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 1042   |U_3| = 11546
+  IIXIXXIXXIIXXX   (weight 8)
+  IIIXXXIIIXXXXX   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+
+class 1043   |U_3| = 11546
+  IIIIIIXXXXYYXZ   (weight 8)
+  IIIIIXXXZIXXXX   (weight 8)
+  IIIIIXXXIZZZZZ   (weight 8)
+
+class 1044   |U_3| = 11556
+  XXIIIIIZZZZIYY   (weight 8)
+  XXIIIIIXXXXYIY   (weight 8)
+  IIXXXXXIIIIZXX   (weight 8)
+
+class 1045   |U_3| = 11556
+  XIIIIIIXZZZZZY   (weight 8)
+  XIIIIIIZXXXXXY   (weight 8)
+  IXXXXXXYIIIIIX   (weight 8)
+
+class 1046   |U_3| = 11558
+  IIXXIIIIXXXXZZ   (weight 8)
+  IIXXXXXXIIIIYY   (weight 8)
+  XXIIIIIIXXXXXX   (weight 8)
+
+class 1047   |U_3| = 11558
+  IXXXIIIXXXXXII   (weight 8)
+  IXXXXXXIIIIIXX   (weight 8)
+  XIIIIIIXXXXXYY   (weight 8)
+
+class 1048   |U_3| = 11570
+  XXIIIIZZXXXXII   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+  IIXXXXYYIIIIXX   (weight 8)
+
+class 1049   |U_3| = 11570
+  XXXIIIZXXXYIII   (weight 8)
+  IIIIIIYYYYYYYY   (weight 8)
+  IIIXXXYIIIZXXX   (weight 8)
+
+class 1050   |U_3| = 11576
+  IIIIIZZZZZZIYY   (weight 8)
+  IIIIIXXXXXXYIY   (weight 8)
+  XXXXXIIIIIIZXX   (weight 8)
+
+class 1051   |U_3| = 11586
+  IIIXXXIIIXXXXX   (weight 8)
+  IIIIIIXXXXXXXX   (weight 8)
+  XXXIIIIIIXXXXX   (weight 8)
+
+class 1052   |U_3| = 11598
+  XXIIIIIIXXZZZZ   (weight 8)
+  XXIIIIIIZZXXXX   (weight 8)
+  IIXXXXXXYYIIII   (weight 8)
+
+class 1053   |U_3| = 11598
+  XXXXIIIIZZIIYY   (weight 8)
+  XXXXIIIIXXYYII   (weight 8)
+  IIIIXXXXIIZZXX   (weight 8)
+
+class 1054   |U_3| = 11598
+  XXXIIIIIXZZZIY   (weight 8)
+  XXXIIIIIZXXXYI   (weight 8)
+  IIIXXXXXYIIIZX   (weight 8)
+
+class 1055   |U_3| = 11638
+  IIIIXXXXXXIIYY   (weight 8)
+  IIIIYYYYYYYYII   (weight 8)
+  XXXXIIIIIIXXXX   (weight 8)
+
+class 1056   |U_3| = 11666
+  IIIIIIZZZZZZYY   (weight 8)
+  IIIIIIXXXXXXYY   (weight 8)
+  XXXXXXIIIIIIXX   (weight 8)
+

@@ -1,0 +1,21 @@
+STAGE-1 REPRESENTATIVE  (class 0002)
+
+g1 = YIIXYYYIZZZXIX   (weight 10)
+g2 = YXXXIIXZZZXIIX   (weight 10)
+g3 = IIIXXZYIXZYYYZ   (weight 10)
+g4 = YIIYZYXXYYXIIX   (weight 10)
+g5 = YXXZZYYIIIXZIX   (weight 10)
+g6 = IIXYZZIYYZIYYY   (weight 10)
+g7 = IXXXYIIIYZYXYX   (weight 10)
+g8 = IXIXXZXZYZZXII   (weight 10)
+
+M_8 = 91552 / 91770     |U_8| = 218
+
+Weight enumerator of the 256-element Stage-1 group:
+  A[ 0] = 1
+  A[ 6] = 4
+  A[ 8] = 117
+  A[10] = 68
+  A[12] = 66
+
+Stage-1 undetected set by weight: w1=4 w2=9 w3=16 w4=189 

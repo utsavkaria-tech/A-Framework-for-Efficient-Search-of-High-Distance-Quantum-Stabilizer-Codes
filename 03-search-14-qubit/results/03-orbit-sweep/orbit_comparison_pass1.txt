@@ -1,0 +1,110 @@
+================================================================
+COMPARISON OF INEQUIVALENT OPTIMAL STAGE-1 SOLUTIONS
+================================================================
+
+Orbit     M3       |U3|     M8       Final     Residual  W4-undetected  Stage2
+----------------------------------------------------------------------------
+0002      80584    11186    11179    91763     7         0              best known
+0012      80584    11186    11179    91763     7         0              best known
+0023      80584    11186    11179    91763     7         0              best known
+0031      80584    11186    11179    91763     7         0              best known
+0036      80584    11186    11179    91763     7         0              best known
+0006      80584    11186    11179    91763     7         3              best known
+0040      80584    11186    11179    91763     7         3              best known
+0010      80584    11186    11178    91762     8         7              best known
+0013      80584    11186    11178    91762     8         7              best known
+0014      80584    11186    11178    91762     8         7              best known
+0019      80584    11186    11178    91762     8         7              best known
+0022      80584    11186    11178    91762     8         7              best known
+0026      80584    11186    11178    91762     8         7              best known
+0028      80584    11186    11178    91762     8         7              best known
+0029      80584    11186    11178    91762     8         7              best known
+0032      80584    11186    11178    91762     8         7              best known
+0017      80584    11186    11177    91761     9         2              best known
+0020      80584    11186    11177    91761     9         2              best known
+0027      80584    11186    11177    91761     9         2              best known
+0034      80584    11186    11177    91761     9         2              best known
+0042      80584    11186    11177    91761     9         2              best known
+0043      80584    11186    11177    91761     9         2              best known
+0044      80584    11186    11177    91761     9         2              best known
+0001      80584    11186    11177    91761     9         5              best known
+0045      80584    11186    11177    91761     9         6              best known
+0009      80584    11186    11177    91761     9         9              best known
+0021      80584    11186    11177    91761     9         9              best known
+0018      80584    11186    11176    91760     10        6              best known
+0005      80584    11186    11176    91760     10        7              best known
+0011      80584    11186    11176    91760     10        7              best known
+0015      80584    11186    11176    91760     10        7              best known
+0016      80584    11186    11176    91760     10        7              best known
+0024      80584    11186    11176    91760     10        7              best known
+0025      80584    11186    11176    91760     10        7              best known
+0030      80584    11186    11176    91760     10        7              best known
+0033      80584    11186    11176    91760     10        7              best known
+0037      80584    11186    11176    91760     10        7              best known
+0038      80584    11186    11176    91760     10        7              best known
+0041      80584    11186    11176    91760     10        7              best known
+0003      80584    11186    11176    91760     10        9              best known
+0035      80584    11186    11176    91760     10        9              best known
+0008      80584    11186    11175    91759     11        4              best known
+0007      80584    11186    11175    91759     11        7              best known
+0004      80584    11186    11175    91759     11        8              best known
+0039      80584    11186    11175    91759     11        8              best known
+================================================================
+
+GLOBAL BEST KNOWN over the tested Stage-1 orbits:
+  orbit 0002,  M_8 = 11179 / 11186,  M_final = 91763 / 91770  (99.99237223 %)
+  Stage-1 generators:
+    g1 = IIIIXIXIYYXXZX
+    g2 = IIIIIXIXXXXXXZ
+    g3 = IIIIIIZZZZZZZZ
+  Stage-2 generators:
+    h1 = ZIXIIIYZXYXZXX
+    h2 = IIIXZXXZYZYZIX
+    h3 = IIIXIZYYXZXYZX
+    h4 = IXIIZXXYXZZXZI
+    h5 = IXIIZXZXYXZIZX
+    h6 = XIIIIZXZYXZYXX
+    h7 = XIIIZXYXZYXYIX
+    h8 = YIIIXYXZZXZXXI
+
+Remaining undetected errors: 7
+
+Weight 1:
+  IXIIIIIIIIIIII = X_1
+  IIXIIIIIIIIIII = X_2
+  IIIXIIIIIIIIII = X_3
+
+Weight 2:
+  IXXIIIIIIIIIII = X_1 X_2
+  IXIXIIIIIIIIII = X_1 X_3
+  IIXXIIIIIIIIII = X_2 X_3
+
+Weight 3:
+  IXXXIIIIIIIIII = X_1 X_2 X_3
+
+Weight 4:
+  (none)
+
+Residual weight distribution: 3 / 3 / 1 / 0  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): YES
+Residual subgroup dimension: 3
+Generators:
+  IXIIIIIIIIIIII = X_1
+  IIXIIIIIIIIIII = X_2
+  IIIXIIIIIIIIII = X_3
+All residual errors are X-only: YES
+Physical qubits involved: 1 2 3
+
+NO FULL COVERAGE FOUND
+
+Across all 45 tested inequivalent globally optimal Stage-1 solutions, the best
+Stage-2 coverage is 11179 / 11186, leaving 7 residual errors (listed above).
+
+Stage 1 is PROVEN globally optimal and its optimal family was enumerated
+exhaustively.  Each Stage-2 search is heuristic unless marked PROVEN, so this
+is a BEST-KNOWN result, not a proof of impossibility.
+
+All weight-4 errors detected by some orbit: YES
+Weight-4 error total (computed, not hard-coded): 81081
+
+Elapsed: 1163.72 s

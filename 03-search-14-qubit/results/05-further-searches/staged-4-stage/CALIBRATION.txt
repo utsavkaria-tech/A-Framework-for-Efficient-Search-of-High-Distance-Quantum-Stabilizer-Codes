@@ -1,0 +1,116 @@
+=========================================================================
+staged_search  started 2026-09-02 08:44:22
+weight pattern 8,8,8,10,10,10,10,10,10,10,10   objective |U_<=4|
+=========================================================================
+======================= SEARCH-SPACE ACCOUNTING =======================
+  stage   prefix r   dim Q_r   |Q_r|        k   k-dim isotropic subspaces of Q_r
+    1        0        28   2.684e+08     3   column multisets: C(28,14) = 4.012e+07
+    2        3        22   4.194e+06     3   5.490e+16
+    3        6        16   6.554e+04     3   2.094e+11
+    4        9        10   1.024e+03     2   8.696e+04
+
+  Stage 1 is exhaustible because the column multiset formulation collapses the
+  qubit permutations and the local Cliffords exactly.  Stages 2-4 have no such
+  collapse once the prefix is frozen: the numbers above are per parent class.
+=====================================================================
+
+=========================================================================
+staged_search  started 2026-09-02 08:44:22
+weight pattern 8,8,8,10,10,10,10,10,10,10,10   objective |U_<=4|
+=========================================================================
+=========================== STAGE 1 ===========================
+3 generators of weight 8, exhaustive over column multisets in F_2^3
+  subspace types of F_2^3 with dim <= 2 : 15
+  count vectors summing to 14           : C(28,14) = 40116600
+  residual symmetry (generator basis)   : |GL(3,2)| = 168
+  purity filter (F1) active             : yes
+
+  search nodes                          : 26453950
+  complete multisets (leaves)           : 2769506
+  surviving the weight-8 condition      : 102759
+  surviving commutation                 : 13493
+  surviving rank 3                      : 13421
+  surviving purity (min weight >= 5)    : 10341
+  RAW solutions                         : 10341
+  INEQUIVALENT classes                  : 1057
+  runtime                               : 0.27 s
+
+  objective distribution (|U_3| : raw multisets)
+      |U_3| =  11186 : 148
+      |U_3| =  11206 : 160
+      |U_3| =  11226 : 168
+      |U_3| =  11246 : 117
+      |U_3| =  11248 : 400
+      |U_3| =  11266 : 15
+      |U_3| =  11268 : 480
+      |U_3| =  11276 : 320
+      |U_3| =  11288 : 387
+      |U_3| =  11296 : 156
+      |U_3| =  11308 : 99
+      |U_3| =  11310 : 726
+      |U_3| =  11316 : 94
+      |U_3| =  11330 : 765
+      |U_3| =  11336 : 51
+      |U_3| =  11338 : 888
+      |U_3| =  11350 : 279
+      |U_3| =  11356 : 63
+      |U_3| =  11358 : 570
+      |U_3| =  11366 : 420
+      |U_3| =  11372 : 432
+      |U_3| =  11376 : 3
+      |U_3| =  11378 : 294
+      |U_3| =  11386 : 108
+      |U_3| =  11392 : 276
+      ... (58 distinct values in total)
+
+  best |U_3| over all classes           : 11186
+  raw multisets attaining it            : 148
+  inequivalent classes attaining it     : 10
+  classes retained for Stage 2          : 1057  (ALL feasible, not only optimal)
+  -- a naive optimal-prefix-only run would have kept 10 of 1057, i.e. discarded
+     1047 prefixes that no exact argument allows us to discard.
+
+=========================== STAGE 2 CALIBRATION ===========================
+sampling 6 of 1057 Stage-1 classes
+
+  coverage identity vs brute force : 2 triples, 0 mismatches OK
+  class 0    |U_3| = 11186   dim Q = 22  |Q| = 4194304  usable(w10) = 2058358
+             cov_max = 5796    need_avg > 11186/2  S_top(255) = 1469700  need = 1431808  (F2) PASS
+             timing: quotient 0.00s  cov 0.06s  usable 0.07s  dfs 0.28s (3000000 nodes, CAPPED, best |U_6| seen 2138)
+             DFS rate 1.054e+07 nodes/s ; 3-dim isotropic subspaces of Q_3 = 5.490e+16
+             projected exhaustive Stage 2 for THIS class = 1447002h 16m 12s
+
+  class 176  |U_3| = 11310   dim Q = 22  |Q| = 4194304  usable(w10) = 2032587
+             cov_max = 5808    need_avg > 11310/2  S_top(255) = 1481040  need = 1447680  (F2) PASS
+             timing: quotient 0.00s  cov 0.04s  usable 0.06s  dfs 0.27s (3000000 nodes, CAPPED, best |U_6| seen 2392)
+             DFS rate 1.129e+07 nodes/s ; 3-dim isotropic subspaces of Q_3 = 5.490e+16
+             projected exhaustive Stage 2 for THIS class = 1350920h 22m 02s
+
+  class 352  |U_3| = 11350   dim Q = 22  |Q| = 4194304  usable(w10) = 2070547
+             cov_max = 5828    need_avg > 11350/2  S_top(255) = 1484240  need = 1452800  (F2) PASS
+             timing: quotient 0.00s  cov 0.05s  usable 0.08s  dfs 0.28s (3000000 nodes, CAPPED, best |U_6| seen 2682)
+             DFS rate 1.073e+07 nodes/s ; 3-dim isotropic subspaces of Q_3 = 5.490e+16
+             projected exhaustive Stage 2 for THIS class = 1420767h 20m 13s
+
+  class 528  |U_3| = 11392   dim Q = 22  |Q| = 4194304  usable(w10) = 2073506
+             cov_max = 5834    need_avg > 11392/2  S_top(255) = 1485712  need = 1458176  (F2) PASS
+             timing: quotient 0.00s  cov 0.04s  usable 0.07s  dfs 0.27s (3000000 nodes, CAPPED, best |U_6| seen 2147)
+             DFS rate 1.116e+07 nodes/s ; 3-dim isotropic subspaces of Q_3 = 5.490e+16
+             projected exhaustive Stage 2 for THIS class = 1366953h 55m 40s
+
+  class 704  |U_3| = 11420   dim Q = 22  |Q| = 4194304  usable(w10) = 2075512
+             cov_max = 5858    need_avg > 11420/2  S_top(255) = 1492110  need = 1461760  (F2) PASS
+             timing: quotient 0.00s  cov 0.04s  usable 0.07s  dfs 0.27s (3000000 nodes, CAPPED, best |U_6| seen 2540)
+             DFS rate 1.124e+07 nodes/s ; 3-dim isotropic subspaces of Q_3 = 5.490e+16
+             projected exhaustive Stage 2 for THIS class = 1356378h 25m 00s
+
+  class 880  |U_3| = 11462   dim Q = 22  |Q| = 4194304  usable(w10) = 2050807
+             cov_max = 5894    need_avg > 11462/2  S_top(255) = 1501100  need = 1467136  (F2) PASS
+             timing: quotient 0.00s  cov 0.06s  usable 0.07s  dfs 0.27s (3000000 nodes, CAPPED, best |U_6| seen 2666)
+             DFS rate 1.097e+07 nodes/s ; 3-dim isotropic subspaces of Q_3 = 5.490e+16
+             projected exhaustive Stage 2 for THIS class = 1390353h 20m 19s
+
+  Stage-1 classes passing (F2) : 6 of 6 sampled
+  mean cost per class: quotient 0.00s, cov 0.05s, usable 0.07s
+=========================================================================
+

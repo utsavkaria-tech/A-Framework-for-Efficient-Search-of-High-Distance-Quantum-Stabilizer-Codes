@@ -1,0 +1,41 @@
+============================================================
+FINAL SUMMARY
+============================================================
+
+STAGE 1
+3 generators, all weight 8   [PROVEN GLOBAL OPTIMUM]
+
+Total errors considered: 91770
+Detected:                80584
+Undetected:              11186
+
+Detection percentage:    87.81083143 %
+
+STAGE 2
+8 additional generators, all weight 10   [BEST KNOWN - OPTIMUM NOT PROVEN]
+
+Stage-1-undetected errors: 11186
+Detected by Stage 2:       11179
+Still undetected:          7
+
+Stage-2 coverage percentage: 99.93742178 %
+
+FINAL 11-GENERATOR CODE   [[14,3,d]]
+
+Total weight <=4 errors:            91770
+Originally detected by first 3:     80584
+Newly detected by additional 8:     11179
+Still undetected:                   7
+
+Overall detected:                   91763
+Overall detection percentage:       99.99237223 %
+
+THE THREE QUANTITIES, SEPARATELY
+  M_3     = 80584   (weight<=4 errors detected by the optimal 3-generator set)
+  |U_3|   = 11186   = 91770 - M_3
+  M_8     = 11179   (Stage-1-undetected errors detected by the 8-generator extension)
+  M_final = 91763   (detected by the complete 11-generator stabilizer)
+
+  identity check  M_final == M_3 + M_8 :  91763 == 80584 + 11179  ->  VERIFIED
+  identity check  |U_3| == 91770 - M_3 :  VERIFIED
+============================================================

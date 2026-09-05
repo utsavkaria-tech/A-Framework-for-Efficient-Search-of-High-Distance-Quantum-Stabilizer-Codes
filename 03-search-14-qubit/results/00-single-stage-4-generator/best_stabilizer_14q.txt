@@ -1,0 +1,67 @@
+==================================================
+FINAL BEST (proven global optimum)
+Detected errors (wt <= 4): 86340 / 91770
+Undetected errors: 5430
+Detection percentage: 94.08303367 %
+
+Weight-1 detected: 30 / 42
+Weight-2 detected: 750 / 819
+Weight-3 detected: 9300 / 9828
+Weight-4 detected: 76260 / 81081
+
+Generator matrix:
+g1 = XIIIXXIXIXIXYY   (weight 8)
+g2 = IXIIXIXIXIXXYY   (weight 8)
+g3 = IIXIIXXIIXXXXX   (weight 8)
+g4 = IIIXIIIXXXXXZZ   (weight 8)
+
+X part:
+10001101010111
+01001010101111
+00100110011111
+00010001111100
+
+Z part:
+00000000000011
+00000000000011
+00000000000000
+00000000000011
+
+Stabilizer group weight enumerator  (m(chi) = weight of prod g_i^chi_i):
+  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+
+Syndrome distribution:
+0000 5430
+0001 5756
+0010 5756
+0011 5756
+0100 5756
+0101 5756
+0110 5756
+0111 5756
+1000 5756
+1001 5756
+1010 5756
+1011 5756
+1100 5756
+1101 5756
+1110 5756
+1111 5756
+
+VERIFICATION
+  dimensions 4 x 28              : OK
+  generator weights == 8         : OK
+  pairwise commutation (6 pairs)  : OK
+  rank(H) = 4                     : OK (rank 4)
+  no identity generator           : OK
+  brute-force detected            : 86340  (matches algebraic score)
+  brute-force weight-1 detected   : 30 OK
+  brute-force weight-2 detected   : 750 OK
+  brute-force weight-3 detected   : 9300 OK
+  brute-force weight-4 detected   : 76260 OK
+
+Search nodes: 49880024
+Pruned nodes: 46425341
+Leaves: 102775
+Elapsed time: 2.059 s
+==================================================

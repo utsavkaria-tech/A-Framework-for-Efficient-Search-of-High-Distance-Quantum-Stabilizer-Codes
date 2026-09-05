@@ -1,0 +1,89 @@
+=========================================================================
+hitset14 -- residual-targeted column replacement, [[14,3,5]] search
+started 2026-09-01 13:25:27   threads 12
+=========================================================================
+---- STARTING 11-GENERATOR CODE ----
+  generator weights            : 8 8 8 10 10 10 10 10 10 10 10
+  all 55 generator pairs commute: OK
+  rank of the check matrix     : 11 OK
+  every column spans a 2-dim W : OK
+  Pluecker sum over columns = 0: OK
+  weight-<=4 errors enumerated : 91770
+  undetected (zero syndrome)   : 5   [w1=0 w2=0 w3=2 w4=3]
+  of those outside stabilizer  : 5  (these are the real distance failures)
+  min non-zero stabilizer weight: 6
+      IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+      IIIIIIXZIIIXII = X_6 Z_7 X_11
+      YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+      IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+      IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+  independent column-only distance routine: 5 violating tuples (must equal 5) OK
+=========================================================================
+SEARCH  r = 6   free columns per subset
+  C(14,6) = 3003 subsets, 1644 hit all five residual supports, 1644 feasible
+  starting at subset 0 of 1644, 12 threads
+=========================================================================
+
+---- STATUS 2026-09-01 13:40:34 ----
+  r = 6   subsets 28 / 1644 = 1.70 %
+  elapsed 0h 15m 04s   estimated remaining 14h 29m 44s
+  DFS nodes 182665186   rank-pruned 11390976734   cross-pruned 176541969548
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 13:56:07 ----
+  r = 6   subsets 88 / 1644 = 5.35 %
+  elapsed 0h 30m 36s   estimated remaining 9h 01m 12s
+  DFS nodes 408198229   rank-pruned 25628494717   cross-pruned 399819246359
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 14:11:23 ----
+  r = 6   subsets 135 / 1644 = 8.21 %
+  elapsed 0h 45m 53s   estimated remaining 8h 32m 53s
+  DFS nodes 632718200   rank-pruned 39736215991   cross-pruned 621004247767
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 14:26:57 ----
+  r = 6   subsets 191 / 1644 = 11.62 %
+  elapsed 1h 01m 26s   estimated remaining 7h 47m 24s
+  DFS nodes 865105303   rank-pruned 54138977862   cross-pruned 845367083807
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 14:42:04 ----
+  r = 6   subsets 233 / 1644 = 14.17 %
+  elapsed 1h 16m 34s   estimated remaining 7h 43m 40s
+  DFS nodes 1081486214   rank-pruned 67856969235   cross-pruned 1062060594247
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 14:57:59 ----
+  r = 6   subsets 240 / 1644 = 14.60 %
+  elapsed 1h 32m 28s   estimated remaining 9h 00m 59s
+  DFS nodes 1134109761   rank-pruned 71062558895   cross-pruned 1112160346379
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 15:13:07 ----
+  r = 6   subsets 243 / 1644 = 14.78 %
+  elapsed 1h 47m 36s   estimated remaining 10h 20m 25s
+  DFS nodes 1181463714   rank-pruned 74233509042   cross-pruned 1163043328108
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+
+
+---- STATUS 2026-09-01 15:30:11 ----
+  r = 6   subsets 264 / 1644 = 16.06 %
+  elapsed 2h 04m 40s   estimated remaining 10h 51m 42s
+  DFS nodes 1246551353   rank-pruned 78480532382   cross-pruned 1231250958396
+  candidates 0   fully verified 0   SOLUTIONS 0
+--------------------------------------------------
+

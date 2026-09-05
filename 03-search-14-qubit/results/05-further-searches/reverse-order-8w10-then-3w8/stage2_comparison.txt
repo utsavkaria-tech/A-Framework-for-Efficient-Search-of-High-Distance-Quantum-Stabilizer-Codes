@@ -1,0 +1,23 @@
+STAGE-2 COMPARISON ACROSS THE BEST-KNOWN STAGE-1 FAMILY
+(Stage 2 is EXHAUSTIVE for every frozen Stage-1 code, so each Stage-2 optimum below
+ is a PROVEN OPTIMUM conditional on that Stage-1 code.)
+
+Orbit    |U8|   U8 by weight        Stage2 det   Final      Residual  resDim  sub  allW4
+--------------------------------------------------------------------------------------
+0001      218     4/   9/   16/  189       207     91759        11     9   no   no 
+0002      218     4/   9/   16/  189       207     91759        11     9   no   no 
+0003      218     4/   9/   16/  189       207     91759        11     8   no   no 
+0004      218     4/   9/   16/  189       207     91759        11     7   no   no 
+
+Stage-1 optimum (BEST KNOWN)          : M_8 = 91552 / 91770, |U_8| = 218
+Best Stage-2 completion               : residual 11 (orbit 0001)
+Best final coverage                   : 91759 / 91770  (99.98801351 %)
+Full coverage found                   : NO
+All weight-4 errors detected          : NO
+
+CONDITION C -- do different optimal Stage-1 classes behave differently?
+  distinct |U_8| values            : 1
+  distinct Stage-2 optima          : 1
+  distinct final residual sizes    : 1
+  distinct residual span dimensions: 3
+  => the Stage-1 choice does NOT change the Stage-2 outcome within the best-known family.

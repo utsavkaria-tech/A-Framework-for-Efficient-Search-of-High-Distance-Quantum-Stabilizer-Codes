@@ -1,0 +1,51 @@
+Overnight Stage-2 attack on Stage-1 orbit 0006
+==============================================
+Run:      double-click run_overnight.bat, or from a terminal:  .\run_overnight.bat
+Log:      overnight_orbit0006.log        (this directory)
+Results:  seed_<S>\stage1_orbit_0006\    one complete result set per seed
+
+Nothing outside this directory is written to, so the files in ..\ (the sweep results
+you are using for the paper) are untouched.
+
+WHAT SUCCESS LOOKS LIKE
+  M_8 = 11186 / 11186  ->  the program prints FULL COVERAGE FOUND, writes
+  seed_<S>\full_coverage_solution.txt, full_coverage_remaining_errors.txt (contains
+  only "NONE") and full_coverage_matrix.txt, and the batch file stops early.
+  That would mean 91770 / 91770: a pure [[14,3,5]] code containing this S3.
+
+WHAT TO EXPECT
+  Every previous run of this orbit plateaued at M_8 = 11179 (7 residual errors),
+  at 25 s and again at 150 s with a different seed.  The plateau is reached fast, so
+  MANY SEEDS beat ONE LONG RUN -- that is why this script sweeps 16 seeds rather than
+  running a single 8-hour process.  Shorten BUDGET and add seeds if you prefer more
+  diversification.
+
+CHECKING PROGRESS WHILE IT RUNS
+  findstr /C:"M_8 =" overnight_orbit0006.log
+  findstr /C:"FULL COVERAGE" overnight_orbit0006.log
+
+USEFUL VARIATIONS (edit the command line inside the .bat)
+  --full-columns      steers the search to give every physical qubit a 2-dimensional
+                      column first.  Orbit 0006 has exactly one deficient column (the
+                      residual X_3), so this is a genuinely different basin -- worth
+                      spending a few seeds on.
+  --beam-size 20000 --beam-pool 150000
+                      runs a beam search over subspaces before the LNS phase.
+  --threads N         defaults to all cores; lower it if you want the machine usable.
+  --mode hybrid --exact-time 600
+                      adds branch-and-bound after the heuristic.  Note the bound can
+                      only prune while max cov1 <= 128*incumbent/255 ~ 5610 while the
+                      actual value is ~5796, so it will not prove anything here -- the
+                      time is better spent on more heuristic seeds.
+
+ORBIT 0006 RESIDUAL (the thing to beat), from ..\stage1_orbit_0006\summary.txt
+  7 errors, span dimension 5, NOT a subgroup, on qubits 0 2 3 4 6 7 8 9 10 11:
+    X_3
+    Z_0 X_4
+    Z_0 X_3 X_4          ( = product of the two above )
+    Y_7 Z_10 Y_11
+    X_3 Y_7 Z_10 Y_11    ( = product with X_3 )
+    Y_0 X_6 Y_9 Z_11     ( standalone )
+    Y_2 Y_4 Z_7 Z_8      ( standalone )
+  The two standalone weight-4 elements are the least entangled with the rest, so a
+  solution reaching 5 residual errors is the most plausible next step below 7.

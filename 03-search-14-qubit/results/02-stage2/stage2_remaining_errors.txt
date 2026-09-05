@@ -1,0 +1,18 @@
+Stage-2 remaining (still undetected) errors: 7 of 11186 Stage-1 targets
+
+Weight 1:
+  E1      = IIIIXIIIIIIIII
+  E2      = IIIIIIIIIXIIII
+  E3      = IIIIIIIIIIIIIX
+
+Weight 2:
+  E1      = IIIIXIIIIXIIII
+  E2      = IIIIXIIIIIIIIX
+  E3      = IIIIIIIIIXIIIX
+
+Weight 3:
+  E1      = IIIIXIIIIXIIIX
+
+Weight 4:
+  (none)
+

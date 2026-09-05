@@ -1,0 +1,8 @@
+Stage-1 stabilizer (frozen, orbit 0006 of the proven-optimal family)
+
+g1 = IIIIXXXXIIZZXX   (weight 8)
+g2 = IIIIXXIIXXXXZZ   (weight 8)
+g3 = IIIIIIZZZZZZZZ   (weight 8)
+
+M_3 = 80584 / 91770
+|U_3| = 11186   (weights 1/2/3/4 = 14/119/1148/9905)

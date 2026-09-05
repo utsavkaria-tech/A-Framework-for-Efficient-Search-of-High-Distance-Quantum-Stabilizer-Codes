@@ -1,0 +1,135 @@
+============================================================
+BEST ADDITIONAL STABILIZER SET FOUND
+============================================================
+
+Weight mode: each new generator weight 10 or 12
+Status: BEST KNOWN SOLUTION - OPTIMUM NOT PROVEN
+
+Target errors: 5430
+
+Detected:              5423
+Undetected remaining:  7
+Coverage:              5423 / 5430
+Coverage percentage:   99.871087 %
+
+Original generators:
+g1 = XIIIXXIXIXIXYY   (weight 8)
+g2 = IXIIXIXIXIXXYY   (weight 8)
+g3 = IIXIIXXIIXXXXX   (weight 8)
+g4 = IIIXIIIXXXXXZZ   (weight 8)
+
+Additional generators:
+h1 = IYZIZYXXXIXIXX   (weight 10)
+h2 = IXYZIZIZXXXIXX   (weight 10)
+h3 = XIIYZXYXXYIIZZ   (weight 10)
+h4 = XXIZIIXIZZXZXX   (weight 10)
+h5 = IXIIXXIZZZZXXX   (weight 10)
+h6 = IIXIXXYXXYXXXI   (weight 10)
+h7 = IIIXXXXXIYZZZX   (weight 10)
+
+Weights:
+h1: 10
+h2: 10
+h3: 10
+h4: 10
+h5: 10
+h6: 10
+h7: 10
+
+Weight distribution:
+weight 10 : 7
+weight 12 : 0
+
+Rank of complete stabilizer: 11  (target 11)
+Qubits whose 11-generator column is not 2-dimensional: 1  (this number equals the count of undetected weight-1 targets)
+
+Commutation matrix (rows/cols g1..g4,h1..h7; 0 = commute):
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 
+
+Target-error detection by each new generator:
+h1: 2796   (algebraic cov1 = 2796 OK)
+h2: 2796   (algebraic cov1 = 2796 OK)
+h3: 2796   (algebraic cov1 = 2796 OK)
+h4: 2796   (algebraic cov1 = 2796 OK)
+h5: 2796   (algebraic cov1 = 2796 OK)
+h6: 2792   (algebraic cov1 = 2792 OK)
+h7: 2768   (algebraic cov1 = 2768 OK)
+
+Union coverage:
+  bitset popcount            : 5423
+  brute-force recount        : 5423
+  algebraic (1/64)*sum cov1  : 5423
+  all three agree
+
+Detected target errors by weight:
+  weight 1 : 11 / 12
+  weight 2 : 68 / 69
+  weight 3 : 526 / 528
+  weight 4 : 4818 / 4821
+
+Complete 11 x 28 parity-check matrix [X | Z] (rows g1..g4, h1..h7):
+  10001101010111 | 00000000000011
+  01001010101111 | 00000000000011
+  00100110011111 | 00000000000000
+  00010001111100 | 00000000000011
+  01000111101011 | 01101100000000
+  01100000111011 | 00110101000000
+  10010111110000 | 00011010010011
+  11000010001011 | 00010000110100
+  01001100000111 | 00000001111000
+  00101111111110 | 00000010010000
+  00011111010001 | 00000000011110
+
+Remaining undetected target errors: 7
+
+Weight 1:
+  E1    = XIIIIIIIIIIIII
+
+Weight 2:
+  E1    = IIXIIXIIIIIIII
+
+Weight 3:
+  E1    = XIXIIXIIIIIIII
+  E2    = IIIIIIIIXIXXII
+
+Weight 4:
+  E1    = XIIIIIIIXIXXII
+  E2    = IZIIXIIIIZIYII
+  E3    = IIIXIIYYIIIZII
+
+Full 11-generator check over all 91770 errors of weight 1..4:
+  total errors            : 91770
+  originally detected     : 86340
+  originally undetected   : 5430
+  newly detected          : 5423
+  still undetected        : 7
+  detected by all 11 gens : 91763
+
+INDEPENDENT VERIFICATION
+  new-generator weights allowed   : OK
+  [h_a , g_i] = 0                 : OK
+  [h_a , h_b] = 0                 : OK
+  rank = 11                       : OK
+  target set rebuilt from scratch : 5430 errors
+  recomputed coverage             : 5423 (matches optimiser)
+
+Provable upper bounds on the objective (valid for ANY admissible 7-set):
+  127 * max_v cov1(v) / 64            = 5572
+  (sum of 127 largest cov1) / 64      = 5572
+  best upper bound used               = 5430
+
+Candidate count: 524796 classes
+Search nodes: 5449140
+Pruned nodes: 668
+Elapsed time: 108.508 s
+============================================================

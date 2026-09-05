@@ -1,0 +1,66 @@
+================================================================
+COMPARISON OF INEQUIVALENT OPTIMAL STAGE-1 SOLUTIONS
+================================================================
+
+Orbit     M3       |U3|     M8       Final     Residual  W4-undetected  Stage2
+----------------------------------------------------------------------------
+0006      80584    11186    11179    91763     7         0              best known
+================================================================
+
+GLOBAL BEST KNOWN over the tested Stage-1 orbits:
+  orbit 0006,  M_8 = 11179 / 11186,  M_final = 91763 / 91770  (99.99237223 %)
+  Stage-1 generators:
+    g1 = IIIIXXXXIIZZXX
+    g2 = IIIIXXIIXXXXZZ
+    g3 = IIIIIIZZZZZZZZ
+  Stage-2 generators:
+    h1 = XIIIZXYIZXYYXX
+    h2 = IXIIXIXXZYYXZY
+    h3 = IIXIXZXYXZYXXI
+    h4 = XIIIXZZYIXYZYZ
+    h5 = IIIXYXZYXIZYZY
+    h6 = IIIZYXYXXYXZYI
+    h7 = IIXIXYXZZXIYZX
+    h8 = IIIZZXXYYZXZZI
+
+Remaining undetected errors: 7
+
+Weight 1:
+  XIIIIIIIIIIIII = X_0
+  IXIIIIIIIIIIII = X_1
+  IIXIIIIIIIIIII = X_2
+
+Weight 2:
+  XXIIIIIIIIIIII = X_0 X_1
+  XIXIIIIIIIIIII = X_0 X_2
+  IXXIIIIIIIIIII = X_1 X_2
+
+Weight 3:
+  XXXIIIIIIIIIII = X_0 X_1 X_2
+
+Weight 4:
+  (none)
+
+Residual weight distribution: 3 / 3 / 1 / 0  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): YES
+Residual subgroup dimension: 3
+Generators:
+  XIIIIIIIIIIIII = X_0
+  IXIIIIIIIIIIII = X_1
+  IIXIIIIIIIIIII = X_2
+All residual errors are X-only: YES
+Physical qubits involved: 0 1 2
+
+NO FULL COVERAGE FOUND
+
+Across all 1 tested inequivalent globally optimal Stage-1 solutions, the best
+Stage-2 coverage is 11179 / 11186, leaving 7 residual errors (listed above).
+
+Stage 1 is PROVEN globally optimal and its optimal family was enumerated
+exhaustively.  Each Stage-2 search is heuristic unless marked PROVEN, so this
+is a BEST-KNOWN result, not a proof of impossibility.
+
+All weight-4 errors detected by some orbit: YES
+Weight-4 error total (computed, not hard-coded): 81081
+
+Elapsed: 1802.16 s

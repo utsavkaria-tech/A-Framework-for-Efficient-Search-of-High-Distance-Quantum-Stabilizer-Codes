@@ -1,0 +1,46 @@
+# ---- Excluded data ------------------------------------------------------
+# 167 MB download cache from codetables.de. Above GitHub's 100 MB per-file
+# limit, contains no original results, and is rebuilt by:
+#   python 01-code-tables-analysis/src/qecc_pipeline.py
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+~$*
+
+# ---- Compiled artifacts -------------------------------------------------
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+*.ilk
+*.so
+*.dll
+stab14
+stab14_ext
+stab14_2stage
+stab14_refine
+stab14_6opt
+stab14_kopt
+staged_search
+hitset14
+reverse_8w10_3w8
+diag_usable
+
+# ---- Python -------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- OS / editor --------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+_to_delete/

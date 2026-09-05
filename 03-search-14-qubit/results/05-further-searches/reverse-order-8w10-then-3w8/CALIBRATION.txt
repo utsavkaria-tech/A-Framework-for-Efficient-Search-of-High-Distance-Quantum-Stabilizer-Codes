@@ -1,0 +1,63 @@
+=========================================================================
+REVERSE TWO-STAGE SEARCH   8 x weight-10  ->  3 x weight-8
+started 2026-08-31 12:08:44   threads 12   mode hybrid
+=========================================================================
+weight-<=4 Pauli errors enumerated: 91770   (weight 4 alone: 81081)
+========================= CALIBRATION =========================
+threads available: 12 (using 12)
+
+single-thread restart (construction + 1-opt to a local optimum)
+  restarts measured        : 42
+  seconds per restart      : 0.1507
+  mean |U_8| reached       : 266.1
+  best  |U_8| in this batch: 249  (M_8 = 91521)
+
+one 1-opt sweep (8 drops, quotient dim 14, 16384 classes each)
+  seconds                  : 0.0568
+  classes swept            : 131072
+
+one full 2-opt certification (28 drop-pairs, quotient dim 16, 65536 classes)
+  seconds (single thread)  : 0.496
+  pairs scored             : 97098
+  prefixes cut by the filter: 28
+  improved the incumbent   : yes
+
+one full 3-opt certification (56 drop-triples, quotient dim 18, 262144 classes, 12 threads)
+  seconds                  : 124.907 (capped at 120)
+  triples scored           : 983940
+  drop-triples fully cut   : 1
+  c1 prefixes retired      : 465919 of 14680008 = 3.1738 %
+  completed                : NO (cut short)
+  projected FULL 3-opt     : 1h 05m 35s on 12 threads
+  improved the incumbent   : yes
+  new |U_8|                : 228
+
+one exhaustive Stage-2 (frozen Stage-1, quotient dim 12, 4096 classes)
+  |U_8|                    : 228
+  weight-8-usable classes  : 2079 of 4095
+  triples scored           : 537790320
+  seconds (12 threads)      : 1.628
+  Stage-2 optimum          : detects 218 of 228, residual 10
+
+column-multiset branch and bound (the exhaustive engine), generator weight 10
+  NOTE: these rows are the rank-r problem at weight 10, which is a DIFFERENT
+  problem from the weight-8 regressions in --selftest; the values will differ.
+  rank  types   nodes        leaves       seconds   completed  M at weight 10
+     3     15   635766       1835            0.37   yes        80398
+     4     51   10637694031  5635728       505.40   yes        86216
+     5    187   246353643    57493097       15.00   NO (cut)   88942
+     6    715   161884455    62247488       15.02   NO (cut)   90306
+     7   2795   -- not run: 2.104e+37 states, and the engine stops at rank 6 --
+     8  11051   -- not run: 4.686e+45 states, and the engine stops at rank 6 --
+
+PROJECTED RUNTIMES on 12 threads (from the measurements above)
+  restarts        wall clock
+  1000            0h 00m 12s
+  10000           0h 02m 05s
+  100000          0h 20m 55s
+  1000000         3h 29m 18s
+
+  A restart is one construction plus a complete 1-opt descent.  Phase 3 adds one
+  full 2-opt certification per retained family member, and phase 4 one exhaustive
+  Stage-2 per member; both are reported above and are small next to phase 2.
+===============================================================

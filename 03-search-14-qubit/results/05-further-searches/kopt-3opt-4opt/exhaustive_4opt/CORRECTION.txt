@@ -1,0 +1,27 @@
+CORRECTION TO final_report.txt IN THIS DIRECTORY
+================================================
+final_report.txt contains the line
+
+    4-opt: BEST FOUND = 11181 / 11186  (breadth-limited M1=0 M2=0, NOT exhaustive)
+
+The "breadth-limited ... NOT exhaustive" wording is a LABELLING BUG in the version of
+stab14_kopt.cpp that produced this file.  M1 = M2 = 0 means UNLIMITED breadth, so this run
+was in fact the fully exhaustive 4-opt.  The numbers in the file are correct; only that one
+descriptive clause is wrong.  The source has since been fixed to print the two cases
+correctly; re-running would cost another 2.7 h and would change nothing but that sentence,
+so the raw output is left untouched and this note records the correction.
+
+EVIDENCE THAT THE RUN WAS EXHAUSTIVE  (from phase3_exhaustive.log, one directory up)
+  * 70 drop-quadruple lines are present, i.e. all C(8,4) = 70 choices of which four of the
+    eight generators to replace were swept;
+  * every one of them reports M1=8255, and 8255 is the FULL set of weight-10-usable
+    elements of that quotient (see README section 7: the other ~50% of Q cannot host a
+    weight-10 Pauli at all, by a parity invariant, so they are not legal generators);
+  * M2 was likewise unlimited (m2 = |L1|, the whole orthogonal candidate list);
+  * total hits across all 70 drop-quadruples: 0;
+  * wall clock 9762.3 s = 2.71 h.
+
+So for the orbit-0006 incumbent the statement is:
+    every replacement of any FOUR of its eight generators -- i.e. every 4-dimensional
+    isotropic subspace of every K^perp/K, over all 70 drop-quadruples -- was enumerated,
+    and none beats M_8 = 11181.

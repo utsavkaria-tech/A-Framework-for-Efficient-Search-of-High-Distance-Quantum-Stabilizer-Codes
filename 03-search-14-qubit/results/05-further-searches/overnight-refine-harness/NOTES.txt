@@ -1,0 +1,47 @@
+Overnight targeted refinement of the 5-residual incumbent (Stage-1 orbit 0006)
+=============================================================================
+Run:      .\run_refine_overnight.bat          (edit HOURS at the top first)
+Log:      refine_overnight.log
+Results:  refine_out\best_known\      always the best verified solution so far
+          refine_out\improved_NNNN\   one directory per improvement
+          refine_out\FULL_COVERAGE.txt  written only if the residual reaches 0
+          refine_out\refinement_report.txt
+
+Nothing outside this directory is written, so every file you are using for the paper
+is untouched.
+
+WHAT IS ALREADY ESTABLISHED (about 50 s of the run reproduces it)
+  The incumbent is CERTIFIED optimal against every replacement of ONE or TWO of its
+  eight generators, exhaustively over all 2 037 794 weight-10 classes.  So the only
+  way to reach residual 4 is to change at least THREE generators at once -- which is
+  exactly what the overnight phase sweeps.
+
+WHAT SUCCESS LOOKS LIKE
+  Any residual below 5 prints a NEW BEST block, writes refine_out\improved_NNNN\ and
+  updates refine_out\best_known\.  Residual 0 also writes FULL_COVERAGE.txt and means
+  91770 / 91770.  Watch for it with:
+      findstr /C:"NEW BEST" /C:"New residual" refine_overnight.log
+
+COST MODEL (for choosing HOURS)
+  MEASURED (12 threads): a full cycle is about M * 112 s -- the untargeted sweep dominates,
+  the five targeted sweeps together cost only about a quarter of it.
+      M = 16 -> ~0.5 h   M = 32 -> ~1 h   M = 64 -> ~2 h   M = 128 -> ~4 h   M = 256 -> ~8 h
+  The ladder doubles M after each failed cycle and stops wherever the budget runs out.
+
+VARIATIONS
+  --top-m 8       start narrower, get through more of the ladder
+  --top-m 64      go straight to a wide first-replacement sweep (one cycle ~7 h)
+  --kick          ruin-and-recreate diversification instead of broadening (needs --seed);
+                  rebuilds dropped generators from the top-64 by coset gain, so unlike a
+                  uniform random restart it stays in a comparable-quality basin
+  --threads N     default is all cores
+
+THE 5 RESIDUAL ERRORS BEING ATTACKED (span dim 5, NOT a subgroup, all 14 qubits)
+  weight 3:  X_3 Z_12 Z_13
+             X_6 Z_7 X_11
+  weight 4:  Y_0 Z_5 Y_9 X_11
+             X_1 Z_6 Y_7 X_8
+             Z_2 X_4 X_10 X_11
+  Note X_11 appears in three of the five.  The residual-targeted sweeps aim at each of
+  these in turn by restricting the first replacement to generators that anticommute with
+  it -- an exact requirement, since an error survives iff every generator commutes with it.

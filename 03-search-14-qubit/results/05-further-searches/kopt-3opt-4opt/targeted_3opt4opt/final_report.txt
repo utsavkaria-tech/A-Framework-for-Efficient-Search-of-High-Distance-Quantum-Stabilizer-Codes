@@ -1,0 +1,82 @@
+============================================================
+TARGETED 3-OPT / 4-OPT RESULT
+============================================================
+
+PROVEN STATEMENTS
+  Stage-1 optimum:  M3 = 80584 / 91770   PROVEN GLOBAL OPTIMUM
+                    |U_3| = 11186 for every orbit of the optimal family
+  Orbit 0006 incumbent:  1-opt optimality PROVEN, 2-opt optimality PROVEN
+                         (established by the earlier exhaustive refiner)
+  Orbit 0006  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+  Orbit 0002  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+  Orbit 0012  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+  Orbit 0023  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+  Orbit 0031  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+  Orbit 0036  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+  Orbit 0040  3-opt neighbourhood EXHAUSTED with no improvement -> the incumbent
+             is 3-opt optimal (every replacement of any three of its eight
+             generators, over every 3-dim isotropic subspace of K^perp/K)
+
+SEARCH RESULTS
+  3-opt: BEST FOUND = 11181 / 11186  (orbit 0006)
+  4-opt: not run
+
+  orbit 0006   M_8 11181 -> 11181   residual 5   weight-4 residual 3
+  orbit 0002   M_8 11179 -> 11179   residual 7   weight-4 residual 0
+  orbit 0012   M_8 11179 -> 11179   residual 7   weight-4 residual 0
+  orbit 0023   M_8 11179 -> 11179   residual 7   weight-4 residual 0
+  orbit 0031   M_8 11179 -> 11179   residual 7   weight-4 residual 0
+  orbit 0036   M_8 11179 -> 11179   residual 7   weight-4 residual 0
+  orbit 0040   M_8 11179 -> 11179   residual 7   weight-4 residual 0
+
+GLOBAL BEST (orbit 0006)
+  M_8 = 11181 / 11186,  M_final = 91765 / 91770
+  Weight-4 total: 81081
+  Weight-4 detected: 81078
+  Weight-4 undetected: 3
+
+Remaining undetected errors: 5
+
+Weight 1:
+  (none)
+
+Weight 2:
+  (none)
+
+Weight 3:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+
+Weight 4:
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIZYXIIIII = X_1 Z_6 Y_7 X_8
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+
+Residual weight distribution: 0 / 0 / 2 / 3  (weights 1/2/3/4)
+Residual set forms a subgroup (with the identity): NO
+Residual F_2 span dimension: 5
+Generators:
+  IIIXIIIIIIIIZZ = X_3 Z_12 Z_13
+  IIIIIIXZIIIXII = X_6 Z_7 X_11
+  YIIIIZIIIYIXII = Y_0 Z_5 Y_9 X_11
+  IXIIIIYXXIIXII = X_1 Y_6 X_7 X_8 X_11
+  IIZIXIIIIIXXII = Z_2 X_4 X_10 X_11
+All residual errors are X-only: NO
+Physical qubits involved: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+NO GLOBAL OPTIMALITY IS CLAIMED.  The 3-opt sweeps are exhaustive over their own
+neighbourhood only; the 4-opt sweep is breadth-limited and therefore heuristic.
+Elapsed: 5.8 s
+============================================================

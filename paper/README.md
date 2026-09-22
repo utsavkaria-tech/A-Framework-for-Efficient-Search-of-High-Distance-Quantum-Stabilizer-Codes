@@ -1,9 +1,11 @@
 # Paper
 
-| File | Content |
-|---|---|
-| `main.pdf` | A Framework for Efficient Search of High-Distance Quantum Stabilizer Codes |
+| File                | Content                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| `main.pdf`          | A Framework for Efficient Search of High-Distance Quantum Stabilizer Codes           |
 | `supplementary.pdf` | Supplementary Material — retention-factor derivations (§1) and additional plots (§2) |
+| `synopsis.pdf`      | Research Synopsis — summary of the project and its key findings                      |
+
 
 For a table-by-table and figure-by-figure map from the paper to the files in this
 repository, see [`../docs/PAPER_MAP.md`](../docs/PAPER_MAP.md).
